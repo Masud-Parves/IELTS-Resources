@@ -1,0 +1,55 @@
+@@ BUS-01
+title: Should governments limit very high salaries?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Very high salaries are good for a country and should not be limited.
+ideas: Pay, Promotion and Motivation · Self-Employment and Entrepreneurship · Automation, Artificial Intelligence and the Future of Work (inequality)
+I: While some people argue that governments should limit the very high salaries that a few people earn, others believe that these incomes benefit the country. I completely support the latter view because high rewards encourage hard work and new businesses.
+B1: {P} On the one hand, people who support salary limits argue that very high incomes are unfair. {E} A few people earn millions while ordinary workers **struggle to make ends meet**. {E} Such differences are seen as unjust by many citizens; as a result, [[this could **widen the gap** between rich and poor and create social tension]]. {X} For example, the director of a large company may earn hundreds of times more than a factory worker in the same company, and this can cause anger among the staff. {L} For this reason, many people believe that governments should control salaries.
+B2: {P} On the other hand, I firmly believe that high salaries are good for a country because they reward talent and encourage risk. {E} When people can earn large rewards, they are willing to study hard and start businesses, and [[new businesses **create jobs** for other people]]. {X} For instance, [[many of today's large companies started as small businesses run by one or two people with an idea]], which shows how the hope of high rewards can benefit thousands of workers. {R} Although some people argue that such incomes are unfair, a legal limit could simply persuade talented professionals to move abroad. {L} Consequently, countries gain more by allowing these high salaries.
+C: In conclusion, people hold different views on whether very high salaries benefit a country or should be limited by law. While such incomes can increase inequality, I firmly believe that they are good for a country because they reward talent and create jobs.
+
+@@ BUS-13
+title: Innovative individuals or team players?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Companies should recruit innovative people who can work independently.
+ideas: Education, Skills and Getting a Job · Job Security versus Career Change · Automation, Artificial Intelligence and the Future of Work
+I: While some people argue that companies should recruit team players who follow instructions, others believe that innovative and independent people are more valuable. I completely support the latter view because new ideas drive business success.
+B1: {P} On the one hand, people who prefer team players argue that most work today is done in groups rather than by individuals. {E} Employees must communicate well, share information and respect decisions so that projects run smoothly. {E} Serious mistakes can be avoided when instructions are followed carefully; as a result, the whole team works more safely. {X} For example, factory workers who follow safety instructions exactly are less likely to cause an accident, and this protects everyone on the production line. {L} For this reason, many people believe that companies should recruit people who work well in a team.
+B2: {P} On the other hand, I firmly believe that innovative employees are more valuable because companies must constantly develop new products. {E} When [[machines can work continuously and perform repetitive tasks accurately]], businesses need people who can think creatively, and these workers also need less supervision. {X} For instance, a software company may depend on one creative developer to design an app that attracts millions of users, which could change the future of the business. {R} Although some people argue that following instructions prevents mistakes, machines can now do much of this routine work. {L} Consequently, companies should aim to recruit innovative and independent people.
+C: In conclusion, people hold different views on whether companies should choose independent thinkers or obedient team members. While teamwork keeps daily work safe and smooth, I firmly believe that innovative people are more valuable because their ideas help companies to grow.
+
+@@ BUS-15
+title: Avoiding young women to avoid maternity leave?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Gender Equality at Work
+I: It is sometimes claimed that small companies should not employ young women without children, in order to avoid paying for maternity leave later. I completely disagree with this view because this practice is unfair to women and it also harms small businesses.
+B1: {P} The main reason why I disagree with this idea is that this practice is unfair to women. {E} This is because [[people should be judged on their ability, not their gender]], and not every young woman will have children or take long leave. {E} [[Such discrimination is not only unfair but also illegal in many countries]]; as a result, employers who follow this policy could also face legal problems. {X} For example, a talented young accountant who is rejected only because she might have a baby one day could take the company to court, and this case could damage its name and its finances. {L} Therefore, refusing to hire someone on this basis cannot be justified.
+B2: {P} Another important reason for my disagreement is that this policy also harms small businesses. {E} When an employer rejects half of the population, it loses skilled staff, because [[companies that recruit from the whole population, rather than only half of it, have access to more talent and different perspectives]]. {X} For instance, a small company that refuses to interview young women may hire a weaker candidate, which can reduce the quality of its work. {R} Although some people argue that maternity leave is costly for small companies, governments can help by paying part of this cost. {L} Consequently, recruiting the best person for each job is also the best choice for business.
+C: In conclusion, I firmly believe that small businesses should not avoid hiring young women because of possible maternity leave. Such a policy treats female candidates unjustly, and it also prevents employers from finding the most talented staff.
+
+@@ BUS-16
+title: Is money the driving force behind hard work?
+format: double
+pattern: Opinion + List
+type: Double Question — Opinion + List (opinion + recruitment factors)
+pos: Money is not the main driving force behind hard work; communication skills and honesty matter more in salespeople.
+ideas: Pay, Promotion and Motivation · Education, Skills and Getting a Job
+I: Some argue that sales companies should hire money-hungry people because they will work the hardest. I firmly believe that money is not the main driving force, and communication skills and honesty matter more in salespeople.
+B1: {P} I firmly believe that money is not the main driving force behind hard work because [[once people earn enough to live comfortably, other factors often become more important]]. {E} When workers find their job interesting and feel appreciated by their managers, they put in extra effort that no bonus could buy. {X} For example, a nurse on a modest salary may still work extra hours because she cares about her patients, which shows that commitment does not depend on pay. {R} Although some people argue that [[people who are "hungry for money" make the most dedicated workers]], such workers often leave when a rival offers more commission. {L} Therefore, money is a motivator but not the main reason for hard work.
+B2: {P} One important factor when recruiting sales staff is strong communication skills. {E} Good salespeople must listen carefully to customers and explain products clearly, so they can match the right product to each buyer and build trust. {X} For instance, a mobile phone shop needs staff who can calmly help an angry customer, which keeps that customer loyal to the shop. {P} Another important factor is honesty. {E} A salesperson who cares only about commission may mislead customers; as a result, the company's reputation can be seriously damaged. {L} Consequently, companies should test these qualities through role-plays and trial periods.
+C: In conclusion, I firmly believe that hard work is driven by more than money because interest and appreciation also motivate people. Sales companies should choose staff who communicate well and treat customers honestly.
+
+@@ LEI-02
+title: More money or more free time?
+type: Discussion (both views + opinion)
+format: discuss
+pos: More free time is better than more money.
+ideas: Job Satisfaction versus High Salary · Work–Life Balance and Long Working Hours
+I: While some people argue that having more money is better than having more free time, others believe that extra leisure is more valuable. I completely support the latter view because time with family and good health cannot be bought.
+B1: {P} On the one hand, people who prefer a higher income argue that money brings security. {E} [[A good salary allows people to **provide for their families**, pay for their children's education, buy or rent a decent home and save for the future.]] {E} Little social support is offered in many developing countries; as a result, [[a well-paid job may be the only protection against illness, unemployment or old age]]. {X} For example, a worker who saves extra income from overtime can pay for treatment when a parent falls ill, and this would be impossible on a low salary. {L} For this reason, many people believe that more money is worth the loss of free time.
+B2: {P} On the other hand, I firmly believe that more free time is better because [[extra money tends to add less to happiness than interesting work, good relationships and free time]]. {E} When people work very long hours, [[family relationships may suffer]], and [[constant pressure can lead to **stress, anxiety and burnout**]]. {X} For instance, a parent who works every evening may earn more but miss their children's school events, which can weaken the bond between them. {R} Although some people argue that a high income brings security, people can live securely on a moderate salary if they manage it carefully. {L} Consequently, extra free time is more valuable than extra money.
+C: In conclusion, people hold different views on whether more money or more free time leads to a better life. While a high income provides security, I firmly believe that free time is more valuable because it protects people's health and family relationships.

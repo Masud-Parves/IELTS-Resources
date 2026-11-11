@@ -1,0 +1,56 @@
+@@ MED-01
+title: Companies sponsoring sport
+type: Discussion (both views + opinion)
+format: discuss
+pos: Company sponsorship is good for sport.
+ideas: Sponsorship and Marketing
+I: While some people argue that company sponsorship of sport has serious disadvantages, others believe that it is good for sport. I completely support the latter view because this money provides valuable funding for clubs and players.
+B1: {P} On the one hand, people who criticise sponsorship argue that [[some sponsors sell products that are harmful to health, such as fast food, sugary drinks]]. {E} [[When these brands are associated with sport, which is supposed to promote health, young fans may receive confusing messages.]] {E} Unhealthy products are made to look attractive through famous players; as a result, children may want them. {X} For example, [[a soft-drink company sponsoring a cricket tournament]] may persuade children that sugary drinks are part of an active life, and this can lead to poor eating habits. {L} For this reason, many people believe that sponsorship is harmful.
+B2: {P} On the other hand, I firmly believe that sponsorship is good because [[sponsorship money can fund better facilities, pay players and support young athletes and grassroots clubs]]. {E} When clubs receive this money, they do not need high ticket prices, and [[without sponsors, many tournaments and teams could not exist]]. {X} For instance, a bank that sponsors a national football league may pay for youth training programmes across the country, which gives poor children a chance to develop their talent. {R} Although some people argue that unhealthy brands send confusing messages, this problem does not outweigh the opportunities that sponsors create for players and fans. {L} Consequently, company sponsorship brings real benefits to the world of sport.
+C: In conclusion, people hold different views on whether company sponsorship is good for sport. While some sponsors promote unhealthy products, I firmly believe that it is positive because this money supports clubs, players and young athletes across the country.
+
+@@ MED-02
+title: Does media violence promote violence in society?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Television and Children's Behaviour · Fake News and Misinformation · Ch. 07 Crime Idea Bank: Media, Video Games and Violence (the Crime sheet has another answer to this question)
+I: It is often argued that violent content on television, in films and online is making real society more violent. I completely disagree with this view because most viewers never copy what they watch and the media can also teach positive values.
+B1: {P} The main reason why I disagree with this idea is that most viewers never copy what they watch. {E} This is because [[the vast majority of people who watch violent films or play violent games **never become violent** in real life]]. {E} Violence in society is usually caused by deeper problems, such as poverty, family breakdown, drug use and anger; as a result, it is unfair to blame screens for it. {X} For example, a young man who joins a street fight is usually driven by poverty or family breakdown, while millions of people who enjoy the same action films never hurt anyone. {L} Therefore, the link between violent media and real violence is far weaker than many people believe.
+B2: {P} Another important reason for my disagreement is that the media can also teach positive values. {E} When children watch good programmes with their parents, they learn, because [[high-quality programmes can teach children positive values, such as kindness, cooperation and respect]]. {X} For instance, a film that shows the pain of a family who lost a son in a street fight can make young viewers think carefully, which may discourage them from fighting. {R} Although some people argue that [[young children often copy the words, actions and attitudes they see on screen]], [[television channels and streaming services can support parents through **age ratings**, parental controls and responsible scheduling]]. {L} Consequently, the media is more often a useful teacher than a cause of violence.
+C: In conclusion, I firmly believe that violence on screens does not cause violence in society. Almost all viewers remain peaceful in real life, and good films and programmes can also encourage respect and kindness among young people.
+
+@@ MED-03
+title: Is all news true? What is a newspaper for?
+format: double
+pattern: Opinion + List
+type: Double Question — Opinion + List (opinion + functions)
+pos: Not all news is true; a newspaper's functions are to inform the public and to act as a watchdog.
+ideas: News Values: Bad News, Objectivity and Photographs · Media Responsibility and Press Freedom
+I: Most people believe that news reports should present objective facts rather than personal opinions. I firmly believe that not all news is true, and newspapers exist mainly to inform the public and to hold powerful people accountable.
+B1: {P} I firmly believe that not all news is true because every report is shaped by human choices. {E} [[Journalists and editors must choose which stories to cover, which facts to include and which words to use, and these choices can reflect their own views or those of the owners.]] {X} For example, two newspapers may report the same election result in very different ways, depending on which political party their owners support. {R} Although some people argue that trained journalists report only facts, [[in reality, complete objectivity is difficult]]. {L} Therefore, readers should compare several sources instead of believing every report.
+B2: {P} One important function of a newspaper is to **inform the public** accurately about events that affect their lives. {E} [[Good journalism helps citizens make informed decisions, especially during elections.]] {X} For instance, a voter who reads a clear report on each party's plans for healthcare can choose a candidate based on facts, which strengthens democracy. {P} Another important function is to act as a watchdog over people in power. {E} [[A free press also plays a watchdog role, investigating corruption and holding powerful people accountable.]] {L} Consequently, newspapers remain essential for a healthy democracy, even though they are not always perfectly objective.
+C: In conclusion, I firmly believe that news is not always true because journalists and owners make choices that reflect their views. Newspapers still matter because they keep citizens informed and expose the misuse of power.
+
+@@ MED-04
+title: Are news photographs reliable?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Photographs are not a reliable source of news.
+ideas: News Values: Bad News, Objectivity and Photographs · Fake News and Misinformation · Social Media versus Traditional News
+I: While some people argue that news photographs are undeniable proof of events, others believe that they are not a reliable source of information. I completely support the latter view because images can easily be changed.
+B1: {P} On the one hand, people who trust photographs argue that a picture shows exactly what really happened. {E} [[A single image of a flood or a war can communicate more emotion than many paragraphs.]] {E} Written reports can easily be exaggerated; as a result, a photograph seems more honest and direct to many readers. {X} For example, photographs of flooded villages in Bangladesh can show the true scale of a disaster more clearly than a written report, and this makes readers trust the news. {L} For this reason, many people believe that photographs cannot be questioned.
+B2: {P} On the other hand, I firmly believe that photographs are not reliable because [[they can be edited digitally, taken out of context, or chosen to present only one side of a story]]. {E} When a picture is shared without information about its time and place, readers cannot know what really happened, and [[many users share stories without reading them fully or checking the source]]. {X} For instance, an old photograph of a fire may be shared online as if it showed a new event, which can cause panic. {R} Although some people argue that a picture cannot lie, [[with modern technology, even video can be faked]]. {L} Consequently, photographs should not be treated as reliable news.
+C: In conclusion, people hold different views on whether news photographs are reliable or undeniable. While a strong image can show the scale of an event, I firmly believe that photographs are not reliable because they can be edited or used out of context.
+
+@@ MED-05
+title: Why is most news bad news?
+format: double
+pattern: List + Opinion
+type: Double Question — List + Opinion (reasons + opinion)
+pos: Bad news attracts attention and earns advertising money; the news should be a balance of good and bad stories.
+ideas: News Values: Bad News, Objectivity and Photographs · Social Media versus Traditional News
+I: Most news reports focus on negative events such as wars, accidents and crime. This is mainly because bad news attracts attention and earns money, and I firmly believe that the news should be a balance of good and bad stories.
+B1: {P} One of the main reasons for this is that bad news attracts attention. {E} [[Humans naturally pay more attention to danger, and dramatic or shocking stories attract more viewers, readers and clicks.]] {X} For example, a serious road accident is far more likely to appear on **the front page** than a successful community project, and this sells more papers. {P} Another important reason is **commercial pressure**. {E} [[Because news organisations depend on audiences for advertising income, they have a commercial incentive to focus on such stories.]] {L} Consequently, the most dramatic events usually lead the news.
+B2: {P} As for whether the news should be balanced, I firmly believe that it should because constant bad news gives people **a false picture of the world**. {E} When viewers see only disasters and crimes, they may think that life is getting worse, even though health and education are improving in many areas. {X} For instance, a mother who watches only reports of crime may become too afraid to let her children play outside, which harms their health and confidence. {R} Although some people argue that serious problems must always come first, positive stories can still be reported alongside them. {L} Therefore, a fair mix of good and bad news would serve the public better.
+C: In conclusion, bad news dominates because it attracts audiences and brings in advertising money. I firmly believe that the news should mix good and bad stories because this gives people a more accurate view of the world.

@@ -1,0 +1,54 @@
+@@ ART-01
+title: Is government money for the arts wasted?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Arts versus Science Funding · Healthcare and Public Services
+I: It is often argued that public money given to the arts is wasted and should be used for other purposes. I completely disagree with this view because the arts protect a nation's culture and they also support the economy.
+B1: {P} The main reason why I disagree with this idea is that the arts [[help to **preserve a nation's culture and identity**]]. {E} This is because music, literature, theatre and traditional crafts record a country's history and values, and they connect each generation with the last. {E} Public support matters most [[when foreign entertainment strongly influences young people]]; as a result, local traditions can survive alongside global culture. {X} For example, a government grant can help a folk music group to perform in schools, and this allows children to learn about their own heritage. {L} Therefore, money spent on the arts is an investment in national identity.
+B2: {P} Another important reason for my disagreement is that the arts also support the economy. {E} When a country has a lively cultural life, it earns money, because [[museums, galleries, festivals and theatres attract tourists, who spend money on hotels, restaurants and transport]]. {X} For instance, a traditional music festival can attract visitors from many countries and support local businesses, which creates income for families in the area. {R} Although some people argue that this money should go to hospitals and schools, the amount spent on the arts is very small compared with their budgets. {L} Consequently, arts funding brings real returns and should not be considered a waste of public money.
+C: In conclusion, I firmly believe that government spending on the arts is a wise use of public funds. Cultural activities keep the country's heritage alive, and they also bring visitors and jobs to many communities.
+
+@@ ART-06
+title: Should the government fund low-paid artists?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Arts versus Science Funding · Welfare and Poverty — this essay also answers GOV-04, which asks the same question in different words
+I: Because most artists have low incomes, it is often argued that the government should give them financial support so that they can continue their work. I completely agree with this view because artists protect the national culture and many art forms cannot survive without public money.
+B1: {P} The main reason why I agree with this idea is that artists protect the national culture. {E} This is because [[the arts, including music, literature, painting, theatre, dance and film, help to **preserve a nation's culture and identity**]]. {E} Art also tells each generation where it comes from; as a result, a country without active artists slowly loses part of its identity. {X} For example, a small government grant can allow a village craftsperson to train young apprentices, so that a traditional skill such as nakshi kantha embroidery is passed on to the next generation. {L} Therefore, [[artists whose work preserves traditional culture deserve public support]].
+B2: {P} Another important reason for my agreement is that many art forms cannot survive without public money. {E} When artists depend only on sales, their work is at risk, because [[many valuable art forms, especially traditional ones such as folk music, crafts and classical dance, cannot survive on ticket sales alone]]. {X} For instance, a classical dancer who earns very little may leave the profession to find a better-paid job, which means that their skills are lost for ever. {R} Although some people argue that [[artists should support themselves through the market, like any other business]], the market rewards popularity and not cultural value. {L} Consequently, government funding is necessary to keep these artists working.
+C: In conclusion, I firmly believe that public money should be used to support artists who earn little. Their work keeps national traditions alive, and many creative fields would also disappear if they had to rely on commercial income.
+
+@@ SPA-01
+title: Should we send messages to life on other planets?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Messages should be sent to try to contact intelligent life.
+ideas: Space Exploration
+I: While some scientists argue that sending messages to other planets would be dangerous, others believe that we should try to contact intelligent life. I completely support the latter view because the possible benefits are far greater than the risk.
+B1: {P} On the one hand, scientists who oppose this idea argue that [[trying to contact intelligent life on other planets could be dangerous if it attracted unfriendly attention]]. {E} A more advanced civilisation might see humans as a threat or want to use Earth's resources. {E} Once a message is sent, it cannot be taken back; as a result, a single mistake could never be corrected. {X} For example, a signal that reveals our location could never be recalled, and this could put the whole of humanity at risk. {L} For this reason, many scientists believe that sending messages would be a serious mistake.
+B2: {P} On the other hand, I firmly believe that we should try to make contact because this could be one of the greatest discoveries in history. {E} When people learn that they are not alone in the universe, their understanding of life changes, and scientists may gain knowledge that could not be found on Earth. {X} For instance, a reply from another planet could teach engineers about technology that we have never imagined, which could benefit people everywhere. {R} Although some people argue that a message could attract an enemy, space is so large that any message would take many years to arrive. {L} Consequently, the chance of such a discovery is worth this small risk.
+C: In conclusion, people hold different views on whether messages should be sent to intelligent life on other planets. While such contact could involve some danger, I firmly believe that messages should be sent because the benefits for science could be enormous.
+
+@@ SPA-02
+title: Is searching for life on other planets a waste of money?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Space Exploration · Healthcare and Public Services
+I: It is often argued that the large sums that governments spend on searching for life on other planets are wasted and should be used to solve people's problems. I completely agree with this view because basic human needs are more urgent and this research brings little benefit to ordinary citizens.
+B1: {P} The main reason why I agree with this idea is that basic human needs are far more urgent. {E} This is because [[millions of people still live in extreme poverty, without enough food, clean water, healthcare or education]]. {E} [[The cost of a single major space mission could build many hospitals or schools]]; as a result, each mission represents a lost chance to save lives on Earth. {X} For example, a family without clean drinking water gains nothing from a photograph of a distant planet, and the same money could give their whole village a safe well. {L} Therefore, [[it seems wrong for governments to spend money exploring distant planets while their own citizens are suffering]].
+B2: {P} Another important reason for my agreement is that this search brings little benefit to ordinary citizens. {E} When a government funds this work, [[space programmes mainly benefit wealthy countries and companies]], and the results may not appear for many decades. {X} For instance, even if a probe found tiny living organisms on a distant planet, this discovery would not feed a hungry child or create jobs for unemployed graduates. {R} Although some people argue that space programmes have given us useful satellites, these already exist, and searching for alien life adds little to them. {L} Consequently, governments should move this money to health, education and poverty reduction.
+C: In conclusion, I firmly believe that looking for life beyond Earth is a poor use of public money. Hunger and disease demand immediate action, and this kind of exploration also makes little difference to the daily lives of most citizens.
+
+@@ SPA-03
+title: Space exploration: waste or essential?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Space exploration is essential for humanity.
+ideas: Space Exploration
+I: While some people argue that space exploration is a waste of valuable resources, others believe that it is essential for humanity. I completely support the latter view because space research brings practical benefits to life on Earth.
+B1: {P} On the one hand, people who oppose space exploration argue that it costs enormous sums of money, which could be used to solve urgent problems. {E} [[Millions of people still live in extreme poverty, without enough food, clean water, healthcare or education.]] {E} Huge budgets are spent on distant planets while these needs remain; as a result, governments seem to have **the wrong priorities**. {X} For example, a farmer in a drought-hit region gains nothing directly from new pictures of a distant planet, and this can make such spending seem unfair. {L} For this reason, many people believe that space exploration is a waste of resources.
+B2: {P} On the other hand, I firmly believe that space exploration is essential because it has brought many practical benefits to daily life. {E} When storms and floods threaten people, [[satellites, which were developed through space programmes, now provide weather forecasts]], and these forecasts give families time to act. {X} For instance, weather satellites can warn coastal communities in Bangladesh about cyclones several days in advance, and these **early warnings** have helped to save many lives. {R} Although some people argue that this money should help the poor, these satellites protect poor communities directly. {L} Consequently, funding space research is a wise investment for the future of humanity.
+C: In conclusion, people hold different views on whether space exploration wastes money or is necessary for humanity. While problems such as poverty are urgent, I firmly believe that this research is essential because its benefits already protect lives on Earth.

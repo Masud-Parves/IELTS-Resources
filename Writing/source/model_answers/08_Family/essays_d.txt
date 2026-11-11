@@ -1,0 +1,54 @@
+@@ COM-05
+title: Were people happier in the past?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Nuclear Family versus Joint Family · Caring for Elderly People · Changing Gender Roles · Ch. 04 Health Idea Bank: Mental Health and Stress
+I: It is sometimes claimed that people in earlier generations were happier than people are today. I completely disagree with this view because people today live longer and healthier lives and they also have far more freedom and opportunities.
+B1: {P} The main reason why I disagree with this idea is that people today live longer and healthier lives. {E} This is because, [[thanks to better healthcare and living standards, people are living much longer than in the past]]. {E} Many diseases that once killed children can now be prevented or cured; as a result, fewer families suffer the pain of losing a loved one at an early age. {X} For example, a family in the past might have lost a child to an infection that a simple medicine can cure today, and this kind of tragedy is much rarer now. {L} Therefore, modern people have a strong reason to feel more secure and content.
+B2: {P} Another important reason for my disagreement is that people now have far more freedom and opportunities. {E} When people can choose their education and career, they can build the life they want, and [[women's employment has improved family incomes and given many women financial independence and greater confidence]]. {X} For instance, many women in the past had no chance to study or choose their own careers, which limited their happiness throughout their lives. {R} Although some people argue that [[a large family can provide emotional and financial support]], this close family life often came with poverty and fewer choices. {L} Consequently, it is wrong to imagine that life in the past was happier than life today.
+C: In conclusion, I firmly believe that earlier generations were not happier than people living today. Modern medicine gives us longer lives, and better education and job opportunities also allow us to choose how we live.
+
+@@ COM-06
+title: Are teenagers happier than adults?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Teenagers are not happier than adults.
+ideas: Parental Pressure and Children's Success · Ch. 04 Health Idea Bank: Mental Health and Stress
+I: While some people argue that teenagers lead happier lives than adults, others believe that this is simply not true. I completely support the latter view because young people today face serious pressures of their own.
+B1: {P} On the one hand, people who believe that teenagers are happier argue that they have fewer responsibilities. {E} Most teenagers do not have to earn money, pay bills or look after a family. {E} Adults are often exhausted by [[long working hours, job insecurity, heavy workloads]]; as a result, they have little time to relax. {X} For example, a teenager can spend a holiday with friends, while their parents may still be answering work calls, and this makes youth seem carefree. {L} For this reason, many people believe that teenagers are happier than adults.
+B2: {P} On the other hand, I firmly believe that teenagers are not happier because [[students face intense pressure to achieve high exam results, often from their parents and teachers]]. {E} When school work fills every day, teenagers have little rest, and their worries about results can become very stressful. {X} For instance, [[in Bangladesh and other parts of Asia, children often attend school during the day and private tuition in the evening, with little time for play or rest]]. {R} Although some people argue that teenagers have no bills to pay, [[social media has added a new source of pressure, especially for young people]]. {L} Consequently, youth is not a happier time of life than adulthood.
+C: In conclusion, people hold different views on whether teenagers are really happier than adults. While young people have fewer financial worries, I firmly believe that they are not happier because exam pressure and social media create serious stress in their lives.
+
+@@ COM-16
+title: Is intelligence innate or learned?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Intelligence can be improved through learning.
+ideas: Family Values, Personality and Success
+I: While some people argue that intelligence is something that we are born with, others believe that it can be developed through learning. I completely support the latter view because experience and education shape our abilities.
+B1: {P} On the one hand, people who see intelligence as innate argue that [[intelligence and personality are largely determined by genes]]. {E} Some children learn to read or count much earlier than others, even with the same teachers. {E} Special abilities are sometimes shown with very little teaching; as a result, many people think that they must come from birth. {X} For example, a child prodigy may solve difficult mathematical problems at the age of eight with very little training, and this suggests a natural ability. {L} For this reason, many people believe that intelligence is innate.
+B2: {P} On the other hand, I firmly believe that we can improve our intelligence because [[people can improve their abilities through learning and practice]]. {E} When children receive good teaching and regular encouragement, their thinking develops, and their confidence grows too. {X} For instance, [[children whose parents read to them develop better language skills]], which helps them to understand difficult ideas at school. {R} Although some people argue that certain children are naturally quicker, [[some people who did poorly at school later become very successful because of their determination]]. {L} Consequently, intelligence is not fixed at birth.
+C: In conclusion, people hold different views on whether intelligence is fixed at birth or can be improved. While genes may give some children an early advantage, I firmly believe that learning matters more because good teaching and practice can develop anyone's abilities.
+
+@@ COM-17
+title: Is our personality fixed by our genes?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Family Values, Personality and Success · Parenting: Discipline versus Nurturing
+I: It is sometimes claimed that our personality is fixed by our genes before birth and that it can never be changed. I completely disagree with this view because upbringing strongly shapes our character and people can also change as they grow older.
+B1: {P} The main reason why I disagree with this idea is that upbringing strongly shapes our character. {E} This is because, [[from an early age, children learn from their parents how to behave, how to treat others and how to respond to challenges]]. {E} [[Children who feel loved and safe tend to be more confident, curious and emotionally stable]]; as a result, the same child could develop very differently in another home. {X} For example, [[very strict parents who use shouting, threats or physical punishment may make children fearful, anxious or rebellious]], and these feelings can last into adult life. {L} Therefore, our character is not decided only by our genes.
+B2: {P} Another important reason for my disagreement is that people can change as they grow older. {E} When adults start new jobs or become parents, they often become more patient and responsible, as [[many people change aspects of their personality as they grow older and face new challenges]]. {X} For instance, a shy student who joins a debating club may slowly become a confident speaker, which shows that a character trait can be changed through effort. {R} Although some people argue that babies are born with different personalities, [[everyday experience shows that the environment, including family, education and life experiences, has a strong influence]]. {L} Consequently, it is wrong to say that nothing can be done to change our character.
+C: In conclusion, I firmly believe that our personalities are not permanently fixed by genes before birth. Family life plays a powerful role in forming who we are, and experience and effort also allow us to develop throughout life.
+
+@@ COM-20
+title: Are first impressions important?
+type: Discussion (both views + opinion)
+format: discuss
+pos: We should take time to know people before judging them.
+ideas: Ch. 06 Work Idea Bank: Education, Skills and Getting a Job (first impressions and interviews) · Family Values, Personality and Success
+I: While some people argue that our first impression of a person is very important, others believe that we should take time to know them before judging. I completely support the latter view because first impressions are often inaccurate.
+B1: {P} On the one hand, people who value first impressions argue that they are often all we have. {E} [[**First impressions** matter: candidates who are well prepared, dress appropriately and communicate confidently are more likely to succeed.]] {E} Quick decisions must be made in many situations; as a result, people depend on what they first see. {X} For example, an interviewer who has only twenty minutes with each candidate must judge them quickly, and this first view can decide who gets the job. {L} For this reason, many people believe that first impressions are very important.
+B2: {P} On the other hand, I firmly believe that we should not judge people quickly because a first impression is based on just a few minutes. {E} When people are nervous or shy, they do not show their real character, and [[some highly capable people are nervous in interviews and perform poorly]]. {X} For instance, a quiet new classmate may seem unfriendly at first but later become a loyal and kind friend, which shows how easily we can be wrong. {R} Although some people argue that quick decisions are often necessary, [[many companies now use additional methods, such as practical tests, group tasks and trial periods, to assess candidates more fairly]]. {L} Consequently, we should take time to know others properly.
+C: In conclusion, people hold different views on whether first impressions are reliable or whether people should be judged more slowly. While quick judgements can be useful, I firmly believe that we should take time because a short meeting rarely shows someone's true character.

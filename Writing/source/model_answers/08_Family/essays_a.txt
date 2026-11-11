@@ -1,0 +1,57 @@
+@@ FAM-01
+title: Why do parents push their children so hard?
+format: double
+pattern: List + Opinion
+type: Double Question — List + Opinion (reasons + opinion)
+pos: Competition and social comparison are the reasons; this is a negative development.
+ideas: Parental Pressure and Children's Success
+I: Nowadays, many parents put heavy pressure on their children to achieve success. This is mainly because competition is intense and parents compare their children with others, and I firmly believe that this is a negative development.
+B1: {P} One of the main reasons for this is **intense competition**. {E} [[Places at the best schools, universities and jobs are limited, and parents fear that their children will be left behind if they do not perform exceptionally well.]] {X} For example, a father who knows that thousands of students compete for a few medical college seats may send his daughter to tuition every evening, and this leaves her little time to rest. {P} Another important reason is **social comparison** with relatives and neighbours. {E} Parents may feel embarrassed if their child's results are worse than a cousin's; as a result, they demand even higher marks. {L} Consequently, many children's lives become filled with study and little else.
+B2: {P} As for whether this is positive or negative, I firmly believe that it is a negative development because it damages children's health and happiness. {E} [[Children who are constantly pushed may suffer from stress, anxiety, sleep problems and depression.]] {X} For instance, a teenager who studies until midnight to meet her parents' expectations may lose sleep and feel anxious before every test, which harms both her health and her results. {R} Although some people argue that [[moderate expectations can have positive effects]], constant pressure turns learning into fear rather than motivation. {L} Therefore, pushing children too hard does far more harm than good.
+C: In conclusion, parents push their children hard because competition is fierce and they compare them with other children. I firmly believe that this trend is harmful because it damages young people's health and happiness.
+
+@@ FAM-02
+title: Growing up in the city or the countryside?
+format: advdis
+type: Advantages vs Disadvantages — Type 1 (discuss, no opinion; both places)
+pos: No opinion is asked for, so there is no opinion or plan sentence. Each body paragraph gives one point for the city and one for the countryside.
+ideas: City or Countryside: Where to Raise Children
+I: Parents often debate whether children should grow up in a busy city or in the quiet countryside. Although cities can be polluted and villages often lack good schools, urban areas offer more opportunities and rural areas provide a healthier environment.
+B1: {T} There is little doubt that both cities and the countryside offer considerable advantages to children. {P} To begin with, [[cities offer many **opportunities** for children]], especially in education and leisure. {E} This is because [[the best schools, colleges, libraries, hospitals and sports facilities are usually located in urban areas]]. {X} For example, a girl in Dhaka who joins a coding club may discover a talent for computing, and this could shape her future career. {P} In addition, [[the countryside offers a **healthier and more natural environment**]] where children can play freely. {E} As a result of cleaner air and outdoor play, rural children stay fit and healthy, which protects them from many illnesses. {S} Overall, each environment supports a different part of a child's growth, from learning to physical health.
+B2: {T} On the other hand, it cannot be denied that both places also have some drawbacks. {P} Firstly, many city children experience health problems because of [[**air pollution, traffic congestion and noise**]]. {E} Without safe parks or playgrounds nearby, they often stay indoors; as a result, [[they spend more time on screens]]. {X} For instance, a boy in a small city flat with no playground nearby may spend every evening watching videos, which can leave him unfit and unhealthy. {P} Secondly, limited opportunities can be a serious obstacle in rural areas, as [[schools may lack qualified teachers, laboratories and libraries]]. {E} If a talented village child has no laboratory or science club, she may lose interest in science and, consequently, never reach her full potential. {S} Overall, these health and educational problems show that neither place is perfect for raising children.
+C: In conclusion, families must choose between urban and rural childhoods. While cities may harm children's health and villages may limit their education, cities offer more opportunities and the countryside gives them a healthier childhood.
+
+@@ FAM-03
+title: Grandchildren who rarely see their grandparents
+format: causesol
+shape: problems
+type: Problems only (Cause/Problem + Solution guide, Section 14)
+pos: No opinion is asked for. Grandparents become lonely, and grandchildren lose touch with family history and traditions.
+ideas: Grandparents and Grandchildren · The Generation Gap and Time Together (planned in Part 2F)
+I: In many modern societies, grandchildren rarely spend quality time with their grandparents. This can lead to loneliness among older people and a loss of family history and traditions for the children.
+B1: {P} The most serious consequence is that many grandparents lose the joy and purpose that time with their grandchildren once gave them. {E} Playing with children, helping with homework or teaching a skill keeps older people mentally and physically active, and it makes them feel valued and needed. {E} When this contact disappears, [[grandparents may feel isolated and forgotten, which can harm their mental health]]. {X} For example, a grandmother in a village who sees her grandchildren only during Eid may spend most of the year feeling lonely and unwanted, and her health may suffer as a result. {L} Consequently, many older people lose both their happiness and their sense of purpose in the family.
+B2: {P} Another consequence is that children lose touch with their family's past. {E} [[Through stories, songs, recipes and traditions, grandparents pass on knowledge about the family's past and the community's way of life.]] {E} Without this contact, [[children may lose touch with their family history, traditional values and even their mother tongue or regional dialect]]. {X} For instance, a child who never hears their grandfather's stories about the Liberation War may know little about their own family's history and the sacrifices it made. {L} [[Over time, the **generation gap** may widen, making it harder for different generations to understand each other.]]
+C: In conclusion, when grandchildren and grandparents rarely meet, older people often feel lonely and forgotten. Children, in turn, lose valuable family stories, values and traditions that connect them with their past.
+
+@@ FAM-04
+title: Why do generations spend less time together?
+format: double
+pattern: List + Opinion
+type: Double Question — List + Opinion (reasons + opinion)
+pos: Busy lives and technology are the reasons; this is a negative development. Same essay as Model Essay A in the Double Question guide.
+ideas: The Generation Gap and Time Together · Technology, Television and Family Life
+I: Members of different generations in a family now seem to share fewer activities. This is mainly because modern life is busy and technology separates people, and I firmly believe that this is a negative development.
+B1: {P} One of the main reasons for this is the **busy modern lifestyle**. {E} [[Parents often work long hours, while children spend much of their time at school, in private tuition and doing homework.]] {X} For example, a father who returns home late from the office may find that his son is still at a tuition class, and this means that they rarely eat together. {P} Another important reason is technology, which has changed the way families spend their evenings. {E} In the past, relatives gathered to watch the same television programme, whereas each member may now spend free time in a separate digital world. {L} Consequently, a family can live in one home and still share very little time.
+B2: {P} As for whether this trend is positive or negative, I firmly believe that it is harmful because shared activities strengthen family relationships. {E} When relatives eat, talk and travel together, they learn to understand and support each other, and children feel more secure and confident. {X} For instance, a teenager who talks to their parents at dinner every evening is more likely to ask for help with a problem, which may stop it from becoming serious. {R} Although some people argue that video calls can connect generations, a short call cannot replace the closeness of time spent together. {L} Therefore, this loss of family time is clearly a negative development.
+C: In conclusion, families share less time because daily schedules are crowded and digital devices keep relatives apart. I firmly believe that this change is damaging because it weakens the closest bonds in people's lives.
+
+@@ FAM-05
+title: Should children watch television regularly to learn?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Technology, Television and Family Life
+I: It is sometimes claimed that children learn well from television, so they should be encouraged to watch it regularly at home and at school. I completely disagree with this view because passive watching does not replace active learning and too much television harms children's development.
+B1: {P} The main reason why I disagree with this idea is that passive watching does not replace active learning. {E} This is because [[much television is designed mainly for entertainment, and watching passively does not replace active learning, play and conversation]]. {E} Children simply sit and receive information without asking questions or solving problems; as a result, they quickly forget much of what they see. {X} For example, a child who builds a model volcano with a teacher usually remembers more about science than a child who only watches a programme about it, and this shows the value of active learning. {L} Therefore, television cannot be an effective way of teaching children regularly.
+B2: {P} Another important reason for my disagreement is that too much television harms children's development. {E} When television becomes a daily habit, the results can be serious, as [[children who watch a lot of television or play video games often spend less time playing outside, reading or talking with others]]. {X} For instance, a four-year-old who watches cartoons all afternoon may have less conversation with adults, which can slow their language development. {R} Although some people argue that [[well-made documentaries, educational programmes and learning apps can teach children about science, nature, history and languages]], these can be used occasionally and do not need to be a regular habit. {L} Consequently, television should not be encouraged as part of a child's daily routine.
+C: In conclusion, I firmly believe that children should not be encouraged to watch television regularly at home or in the classroom. Sitting in front of a screen is a weak way to learn, and it also damages their health and social skills.

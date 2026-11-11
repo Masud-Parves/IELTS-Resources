@@ -1,0 +1,55 @@
+@@ TEC-06
+title: Children in a technological world
+format: causesol
+shape: problems
+type: Problems only (Cause/Problem + Solution guide, Section 14)
+pos: No opinion is asked for. Technology weakens family relationships and creates new dangers to children's safety online.
+ideas: Technology, Children and Screen Time · Technology and Modern Lifestyle
+I: [[Children today are growing up in a world that is very different from the one their parents knew.]] This can lead to weaker family relationships and new dangers to children's safety online.
+B1: {P} The most serious problem for families is that technology can weaken the relationship between parents and children. {E} [[It is now common to see a family sitting in the same room, with each person absorbed in a separate screen.]] {E} Parents may also struggle to understand the games, apps and websites that fill their children's online world, which creates a **generation gap**. {X} For example, a father who never uses social media may not realise that his daughter is being bullied online, so she may feel that she has nobody to turn to. {L} Consequently, [[over time, this can **weaken family bonds**]].
+B2: {P} Another problem is that society faces new dangers to children's safety online. {E} [[Many children use the internet without adult supervision, and they may come across violent or adult content, or be contacted by strangers who pretend to be friends.]] {E} [[Parents often find it difficult to control their children's internet use, because children may be more skilled with technology than they are, and devices are easy to hide.]] {X} For instance, a ten-year-old who secretly plays online games at midnight may be contacted by a stranger who pretends to be another child. {L} Consequently, schools, the police and governments face new challenges in protecting young people.
+C: In conclusion, growing up surrounded by technology often weakens the bond between parents and children. It also exposes young people to online risks that families, schools and governments must now manage.
+
+@@ TEC-07
+title: Meeting people online: closer or more isolated?
+type: Discussion (both views + opinion)
+format: discuss
+pos: The internet has brought people closer together.
+ideas: Technology, Society and Social Media · Technology and Communication
+I: While some people argue that using the internet to socialise makes people more isolated, others believe that it brings them closer together. I completely support the latter view because online contact often leads to real friendships.
+B1: {P} On the one hand, people who see the internet as isolating argue that online relationships are often superficial. {E} [[Many people spend several hours a day online without noticing, time that could be used for study, exercise, sleep or face-to-face relationships.]] {E} Real conversations are slowly replaced by messages; as a result, users may feel lonely even with many online friends. {X} For example, a teenager who chats with strangers late at night may rarely talk to their own family, and this can lead to loneliness. {L} For this reason, many people believe that the internet is making people [[**more isolated**]].
+B2: {P} On the other hand, I firmly believe that the internet brings people closer because [[someone who feels isolated in their town can find others who share the same hobby, illness or life experience]]. {E} When people find such groups, they [[receive advice and emotional support]], and [[friendships are no longer limited by geography]]. {X} For instance, a young mother who has moved to a new city can join an online parents' group and later meet other mothers in real life, which makes a new home less lonely. {R} Although some people argue that online contact is superficial, it is often the first step towards a real friendship. {L} Consequently, the internet has become a powerful tool against loneliness.
+C: In conclusion, people hold different views on whether socialising online makes us closer or more isolated. While too much screen time can harm relationships, I firmly believe that the internet brings people together because online contact helps them to form real friendships.
+
+@@ TEC-08
+title: Children using the internet unsupervised
+type: Problem and Solution
+format: causesol
+pos: Problems for parents: controlling children's internet use and not seeing the dangers. Solutions: clear household rules; open discussion and online safety lessons.
+ideas: Technology, Children and Screen Time · Technology, Privacy and Security
+I: These days, children are going online alone at an increasingly young age, which can put them at risk. Parents often cannot control this use or see the dangers, but clear rules and open communication can reduce these difficulties.
+B1: {P} The most serious problem is that [[parents often find it difficult to control their children's internet use]]. {E} This is [[because children may be more skilled with technology than they are, and devices are easy to hide.]] {X} For example, a child who is better with technology can hide a tablet under the bed and stay online all night, and the parents may never find out. {P} Another problem is that parents may not see the dangers online. {E} [[Many children use the internet without adult supervision, and they may come across violent or adult content, or be contacted by strangers who pretend to be friends.]] {L} Consequently, children may face serious risks without anyone noticing.
+B2: {N} The most effective solution is for parents to **set clear limits** on how and where their children go online. {E} [[Keeping devices in shared family spaces rather than bedrooms]] makes them harder to hide, and parental control software can limit screen time. {X} For instance, a child who must charge a tablet in the living room at night cannot stay online in secret, which gives the parents real control. {N} In addition, parents and schools could teach children about online dangers. {E} When parents [[talk openly with their children]] and schools teach online safety, children are more likely to recognise strangers and report anything worrying. {L} Together, these measures would help parents to **protect children online**.
+C: In conclusion, parents struggle because children can hide their online activity and may meet dangers that adults cannot see. Firm household rules and honest discussion about internet safety would help families to keep young users safe.
+
+@@ TEC-09
+title: TV, video games and children's mental health
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Technology, Children and Screen Time
+I: These days, children spend many hours in front of television and video games, and many believe that this harms their mental health. I completely agree with this view because these activities increase aggression and anxiety and they also disturb children's sleep.
+B1: {P} The main reason why I agree with this idea is that too much screen entertainment can increase aggression and anxiety in young minds. {E} This is because [[violent games may make some children more aggressive]], and frightening programmes can leave them feeling worried long after they have finished watching. {E} [[Fast-moving videos and games give constant excitement]]; as a result, some children become restless and easily upset when they have to do something slower. {X} For example, a child who plays a violent game for hours may start to shout at their family when they are told to stop, and this behaviour can damage relationships at home. {L} Therefore, heavy use of these activities can seriously harm a child's emotional health.
+B2: {P} Another important reason for my agreement is that screen time often disturbs children's sleep. {E} When children stay up to watch a programme or finish a game, they lose the rest that a growing mind needs, because [[using screens late at night can also **disturb sleep patterns**]]. {X} For instance, a child who plays games until midnight may become irritable and anxious the next day, which makes school feel stressful and lowers their confidence. {R} Although some people argue that [[educational apps, videos and online games can make learning enjoyable]], many children choose entertainment instead of learning when nobody is watching them. {L} Consequently, long hours of television and games can slowly damage a child's mental well-being.
+C: In conclusion, I firmly believe that television and video games are bad for the mental health of young people. They encourage aggressive and anxious behaviour, and they also rob children of the deep rest that they need.
+
+@@ TEC-10
+title: Personal devices and family relationships
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Technology and Modern Lifestyle · Technology and Communication
+I: Nowadays, it has become normal for every person in a household to own a smartphone, tablet or laptop, and many believe that this damages family ties. I completely agree with this view because these devices reduce conversation at home and take away shared family time.
+B1: {P} The main reason why I agree with this idea is that personal devices reduce the amount of real conversation between family members. {E} This is because people who are [[absorbed in a separate screen]] pay little attention to those around them, even when they are sitting in the same room. {E} [[Parents may be answering work emails while children watch videos]]; as a result, [[meaningful conversation becomes rare]]. {X} For example, a teenager who spends every evening on a phone may never mention a problem at school, and the parents may only discover it when it has become serious. {L} Therefore, the daily talks that keep families close are slowly disappearing from many homes.
+B2: {P} Another important reason for my agreement is that individual devices leave family members with less time together. {E} When everyone can watch their own films and play their own games, people no longer need to share an activity, so **family bonds** weaken over time. {X} For instance, a family in Dhaka that once watched television together after dinner may now scatter to different rooms as soon as the meal ends, which leaves children feeling distant from their parents. {R} Although some people argue that [[technology helps relatives in different cities stay in contact]], this benefit does little for family members who live under the same roof. {L} Consequently, the home becomes a place where relatives live side by side but rarely connect.
+C: In conclusion, I firmly believe that giving each family member a personal device harms relationships and communication within the home. Smartphones and tablets limit everyday talking between parents and children, and they also replace the activities that relatives once enjoyed together.

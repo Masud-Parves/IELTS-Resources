@@ -1,0 +1,44 @@
+@@ CRI-05
+title: Are more police the only way to reduce crime?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Police, Technology and Surveillance · Crime in Cities and Crime Prevention · Causes of Crime
+I: As crime rates rise in some countries, many believe that putting more police on the streets is the only solution. I completely disagree with this view because the police cannot solve the causes of crime and there are other effective ways to prevent it.
+B1: {P} The main reason why I disagree with this idea is that the police cannot solve the causes of crime. {E} This is because [[police can catch criminals, but they cannot solve the underlying causes of crime, such as poverty, unemployment, poor education and drug addiction]]. {E} People in these situations may keep breaking the law; as a result, officers arrest one offender while another soon takes their place. {X} For example, a young person with no job in a poor neighbourhood may join a gang whether there are police nearby or not, and this problem cannot be solved by patrols. {L} Therefore, more officers can only deal with the results of crime.
+B2: {P} Another important reason for my disagreement is that there are other effective ways to prevent crime. {E} When governments want long-term results, they can act early, as [[governments can tackle the causes of crime by creating jobs, improving schools and providing youth programmes and social support in poor neighbourhoods]]. {X} For instance, a youth programme that teaches poor teenagers a useful trade can keep them away from gangs, which protects people without extra officers. {R} Although some people argue that [[a **visible police presence** can deter crime]], this effect is often short-term and [[hiring more officers is also expensive]]. {L} Consequently, [[police work must be combined with social programmes and community involvement]].
+C: In conclusion, I firmly believe that a stronger police presence is not the only way to reduce crime. Officers cannot remove the social problems that lead to law-breaking, and better schools, jobs and urban planning can also keep communities safe.
+
+@@ CRI-06
+title: Should women work in the police force?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Police, Technology and Surveillance · Ch. 06 Work Idea Bank: Gender Equality at Work
+I: It is sometimes claimed that women should not be given the opportunity to work as police officers. I completely disagree with this view because modern policing needs many different skills and excluding women would be deeply unfair.
+B1: {P} The main reason why I disagree with this idea is that modern policing needs many different skills. {E} This is because [[modern policing involves many skills, including communication, investigation and working with victims, and **female officers** are often particularly effective in cases involving women and children]]. {E} Not all police work depends on physical strength; as a result, a force that includes women can serve the whole community better. {X} For example, a victim of sexual violence may feel more comfortable reporting the crime to a female officer than to a male one, and this can help the police to catch the offender. {L} Therefore, female officers make the police stronger and more effective.
+B2: {P} Another important reason for my disagreement is that excluding women would be deeply unfair. {E} When women are denied a career because of their gender, their rights are ignored, as [[it is a matter of **fairness and human rights**: people should be judged on their ability, not their gender]]. {X} For instance, a fit and intelligent young woman who passes the same tests as male candidates should have the same chance of serving her country, which is already possible in Bangladesh. {R} Although some people argue that [[the work can be physically dangerous]], officers are selected through fitness tests and training, whatever their gender. {L} Consequently, [[most countries now recruit both men and women]], and this is the right approach.
+C: In conclusion, I firmly believe that women should have the right to join the police. A mixed force brings a wider range of abilities to the job, and equal access to this profession is also a matter of basic justice.
+
+@@ CRI-07
+title: Would banning alcohol reduce crime?
+format: double
+pattern: Opinion + List
+type: Double Question — Opinion + List (opinion + other solutions)
+pos: A ban would not be effective; controlling sales and treating addiction would work better.
+ideas: Drugs, Alcohol and Crime · Crime in Cities and Crime Prevention
+I: Because many crimes are linked to alcohol, some people believe that banning it is the best way to reduce crime. I firmly believe that a ban would not be effective, and controlling sales and treating addiction would work better.
+B1: {P} I firmly believe that banning alcohol would not be an effective measure against crime because it would create new criminal activity. {E} [[When alcohol is banned, illegal markets appear, controlled by criminals, and people may drink dangerous homemade alcohol.]] {X} For example, a man who can no longer buy alcohol legally may buy cheap homemade liquor from a gang, which can make him seriously ill and gives the profits to criminals. {R} Although some people argue that [[domestic violence, fights and dangerous driving are often linked to alcohol]], a ban would push drinking out of sight rather than stop it. {L} Therefore, a complete ban would bring more problems than it solves.
+B2: {N} The most effective alternative is for governments to control how alcohol is sold. {E} When bars must close early and young people cannot buy alcohol, there are fewer late-night fights and drink-driving accidents. {X} For instance, a town that stops bars from serving alcohol after midnight may see far fewer fights on its streets in the early morning. {N} In addition, health services could offer treatment to people who are already addicted. {E} [[For people who are already addicted, **treatment and rehabilitation** programmes, including medical care, counselling and support groups, can help them recover and return to normal life.]] {L} Together, these measures would reduce alcohol-related crime without the dangers of a ban.
+C: In conclusion, I firmly believe that prohibiting alcohol would fail because it would create illegal markets run by criminals. Stricter control of sales and treatment for addicts would reduce alcohol-related crime more successfully.
+
+@@ CRI-08
+title: Community work instead of prison?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Community Service and Alternative Punishments · Prison versus Rehabilitation
+I: It is often argued that certain offenders should perform unpaid work for the community instead of being sent to prison. I completely agree with this view because this punishment is more useful to society and it also reduces the risk of future crime.
+B1: {P} The main reason why I agree with this idea is that community work is more useful to society than prison. {E} This is because community work [[allows offenders to **pay back to society** for the harm they have caused]]. {E} [[Keeping a person in prison is expensive, while community service requires only supervision]]; as a result, public money can be saved for schools and hospitals. {X} For example, a young person who repairs damaged public property under one supervisor costs far less than a prisoner, and the money saved can help to pay for a local school. {L} Therefore, this punishment benefits both local people and taxpayers.
+B2: {P} Another important reason for my agreement is that community work reduces the risk of future crime. {E} When offenders stay in the community, they can [[**keep their jobs and family relationships**, which are important for staying away from crime]]. {X} For instance, a first-time offender who continues working and lives at home does not meet serious criminals in prison, which [[reduces the risk that they will learn new criminal behaviour]]. {R} Although some people argue that [[they do not provide enough **deterrence** or justice]], a well-supervised programme can be a hard and public punishment. {L} Consequently, unpaid community work is a better choice than prison for [[first-time and non-violent offenders]].
+C: In conclusion, I firmly believe that some offenders should do unpaid community service and not go to prison. This sentence gives something back to the public, and it also helps people to return to a normal and law-abiding life.

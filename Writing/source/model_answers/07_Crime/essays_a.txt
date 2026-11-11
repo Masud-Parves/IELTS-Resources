@@ -1,0 +1,44 @@
+@@ CRI-01
+title: Is technology reducing crime?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Police, Technology and Surveillance · Cybercrime and Online Fraud (the Technology sheet has another answer to this question)
+I: It is often argued that there is less crime today than in the past because advanced technology helps to prevent and solve it. I completely disagree with this view because technology helps criminals as well as the police and it cannot remove the causes of crime.
+B1: {P} The main reason why I disagree with this idea is that technology helps criminals as well as the police. {E} This is because [[criminals have also used technology to commit new types of crime, such as online fraud and hacking]]. {E} Cybercrime [[is one of the fastest-growing types of crime in the world, and it affects individuals, businesses and governments]]; as a result, people can now be robbed without leaving their homes. {X} For example, a criminal in another country can empty a victim's bank account in minutes through a fake message, and this crime may never appear in local police records. {L} Therefore, technology has changed the form of crime more than it has reduced it.
+B2: {P} Another important reason for my disagreement is that technology cannot remove the causes of crime. {E} When people commit crimes because of their situation, cameras and databases do not help, as they [[cannot solve the underlying causes of crime, such as poverty, unemployment, poor education and drug addiction]]. {X} For instance, a young person without a job may still steal from a market in spite of the CCTV cameras, which only record the crime after it has happened. {R} Although some people argue that [[DNA testing has helped solve many crimes]], solving a crime afterwards does not mean that fewer crimes are being committed. {L} Consequently, technology alone cannot be responsible for a lower crime rate.
+C: In conclusion, I firmly believe that advanced technology has not caused a general fall in crime. Offenders now use digital tools to find new victims, and cameras and databases also fail to address problems such as poverty and addiction.
+
+@@ CRI-02
+title: Why do criminals reoffend after prison?
+type: Cause and Solution
+format: causesol
+pos: Causes: difficulty finding legal work and prison that fails to change behaviour. Solutions: help with finding jobs; education and training in prison.
+ideas: Repeat Offending · Prison versus Rehabilitation
+I: Many offenders return to crime soon after they leave prison. This is mainly because they cannot find legal work and prison fails to change them, but employment support and rehabilitation can tackle this problem.
+B1: {P} One of the main causes of reoffending is the difficulty of finding legal work after prison. {E} [[Many employers are unwilling to hire someone with a criminal record, because they fear that the person may steal or cause trouble.]] {X} For example, a former prisoner who is rejected by every employer may be unable to pay rent or support their family, and crime may then [[appear to be the only way to survive.]] {P} Another important cause is that prison itself often fails to change offenders' behaviour. {E} Prisoners who spend years with other criminals, without education or training, [[often learn new criminal skills]] and join a **criminal gang**. {L} Consequently, many people leave prison less prepared for normal life than when they entered.
+B2: {N} The most effective solution is for governments to help former prisoners find work. {E} If companies receive tax benefits for hiring former offenders, employers will worry less about the risk, and more ex-prisoners will find jobs. {X} For instance, a former prisoner who is hired by a local factory gains a steady income to pay rent, which removes the need to steal. {N} In addition, prisons could focus on rehabilitation, not only punishment. {E} When prisoners receive education and **vocational training**, such as carpentry or computer skills, they leave with useful skills, and counselling helps them to **take responsibility for** their actions. {L} Together, these measures would **break the cycle** of crime and make society safer.
+C: In conclusion, criminals often reoffend because employers reject them and prison does not improve their behaviour. Practical help with jobs and better training behind bars would reduce crime and protect communities.
+
+@@ CRI-03
+title: Is media violence the main cause of juvenile crime?
+format: double
+pattern: Opinion + List
+type: Double Question — Opinion + List (opinion + solutions)
+pos: Media violence is not the main cause; early support for families and positive activities for teenagers would work better.
+ideas: Media, Video Games and Violence · Youth Crime and Parents' Responsibility
+I: It is often claimed that violence in the media is the main reason for rising juvenile crime. I firmly believe that it is not the main cause, and support for families and positive activities for teenagers would work better.
+B1: {P} I firmly believe that media violence is not the main cause of juvenile crime because [[the vast majority of people who watch violent films or play violent games **never become violent** in real life]]. {E} When teenagers do turn to crime, problems at home, poverty and bad company usually matter far more. {X} For example, [[a child who grows up in a violent home or a dangerous neighbourhood is far more likely to become violent than a child who simply watches action films]]. {R} Although some people argue that [[children often **imitate** what they see]], most young viewers understand that films are not real life. {L} Therefore, blaming the media ignores the real roots of youth crime.
+B2: {N} The most effective solution is for schools and social workers to support families and children at risk. {E} If schools identify troubled pupils early and offer counselling, problems at home can be dealt with before they lead to crime. {X} For instance, a boy who is angry because his parents fight at home may calm down after regular sessions with a school counsellor. {N} In addition, communities could offer teenagers positive ways to spend their free time. {E} When young people join youth clubs, sports teams or vocational courses, they gain **positive role models** and spend less time with gangs. {L} Together, these measures would tackle the real causes of youth crime.
+C: In conclusion, I firmly believe that violent media is not the main cause of youth crime because family and social problems matter far more. Early support for troubled children and useful activities for teenagers would reduce it.
+
+@@ CRI-04
+title: Adult punishment for teenagers?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Youth Crime and Parents' Responsibility · Prison versus Rehabilitation
+I: As more teenagers commit crimes, it is sometimes claimed that those guilty of major offences should receive the same punishment as adults. I completely disagree with this view because teenagers are less mature than adults and adult prisons can make them more dangerous.
+B1: {P} The main reason why I disagree with this idea is that teenagers are less mature than adults. {E} This is because [[young people are still developing, both emotionally and mentally]]. {E} [[They are more likely to act without thinking about the consequences and more open to change]]; as a result, they deserve a chance to correct their mistakes. {X} For example, a sixteen-year-old who joins friends in a violent robbery may not fully understand the result of their actions, and this lack of judgement is very different from an adult's planned crime. {L} Therefore, the law should not judge teenagers in the same way as adults.
+B2: {P} Another important reason for my disagreement is that adult prisons can make young offenders more dangerous. {E} When teenagers are locked up with older criminals, they learn the wrong lessons, because [[placing teenagers in adult prisons can expose them to experienced criminals and make them more likely to reoffend]]. {X} For instance, a teenager who spends ten years in an adult prison may leave as a more dangerous criminal with no education or skills, which puts the public at greater risk. {R} Although some people argue that [[the harm to victims is the same]], long sentences in adult prisons do not prevent future crime. {L} Consequently, [[many legal systems treat young offenders differently, focusing on education and **rehabilitation** rather than long prison sentences]].
+C: In conclusion, I firmly believe that young offenders should not receive the same sentences as adults, even for major crimes. Their judgement is not yet fully formed, and time among hardened criminals would also make them far more likely to reoffend.

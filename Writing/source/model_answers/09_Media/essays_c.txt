@@ -1,0 +1,55 @@
+@@ MED-11
+title: Should advertising aimed at children be banned?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Advertising and Children
+I: Many companies show television adverts in the afternoon, when children come home from school, and some people think that adverts aimed at children should be banned. I completely agree with this view because children are easily influenced and many adverts promote unhealthy food.
+B1: {P} The main reason why I agree with this idea is that young children are easily influenced. {E} This is because children [[often do not understand that the purpose of an advert is to persuade them to buy something]]. {E} They believe what they see on screen; as a result, they may want every toy, snack or game that is advertised. {X} For example, a seven-year-old who sees a cartoon advert for a sugary cereal may **beg their parents** to buy it the next day, and this can cause arguments and stress in the family. {L} Therefore, it is unfair for companies to aim their adverts at such young viewers.
+B2: {P} Another important reason for my agreement is that many adverts promote unhealthy food. {E} When adverts for fast food, sweets and soft drinks appear with cartoon characters and free toys, these products look attractive and fun to young viewers. {X} For instance, a child who sees a burger advert every afternoon may ask for fast food several times a week, which can lead to **unhealthy eating habits** and **obesity** later in life. {R} Although some people argue that a ban would harm companies and TV channels, protecting children's health is more important, and businesses can still advertise to adults. {L} Consequently, governments should introduce **strict rules** that protect young viewers from this kind of advertising.
+C: In conclusion, I firmly believe that television advertising for children should not be allowed. Young viewers cannot judge these messages properly, and banning them would also protect children from the pressure to eat unhealthy food.
+
+@@ MED-14
+title: Must historical films be completely accurate?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Films, Cinema and Streaming Services
+I: It is sometimes claimed that films based on real historical events must be accurate in every detail. I completely disagree with this view because films are works of art and complete accuracy is simply impossible to achieve.
+B1: {P} The main reason why I disagree with this idea is that [[films are works of art and entertainment, not documentaries]]. {E} This is because audiences go to the cinema to enjoy a story, and a film must keep them interested from beginning to end. {E} [[Filmmakers often need to simplify events, combine characters or add dialogue to create an engaging story]]; as a result, some changes are a normal part of the process. {X} For example, a director may combine three real soldiers into one character, and this helps viewers to follow the story and care about what happens. {L} Therefore, demanding perfect accuracy would make historical films less enjoyable.
+B2: {P} Another important reason for my disagreement is that complete accuracy is impossible to achieve. {E} When filmmakers recreate the past, they must use their imagination, because nobody knows exactly what historical figures said or did in private. {X} For instance, a director who makes a film about a past king must invent his private conversations, which means that some imagination cannot be avoided. {R} Although some people argue that [[many people learn about history mainly from films]], filmmakers can solve this by [[clearly stating when parts of the story have been changed or imagined]]. {L} Consequently, it is unrealistic to expect historical films to be completely accurate.
+C: In conclusion, I firmly believe that films about history do not need to be accurate in every detail. Cinema is a form of storytelling and not a history lesson, and no director could record the past perfectly in any case.
+
+@@ MED-15
+title: Why do people buy things they do not need?
+format: double
+pattern: List + Opinion
+type: Double Question — List + Opinion (reasons + opinion)
+pos: Advertising and the wish to show status are the reasons; this is not a good thing.
+ideas: Advertising, Consumerism and Buying What We Don't Need
+I: Many people buy products they do not need and replace items that still work. This is mainly because advertising creates desires and people want to show their status, and I firmly believe that this is not a good thing.
+B1: {P} One of the main reasons for this is clever advertising. {E} [[Advertisers are skilled at creating desires, suggesting that a new phone, car or fashion item will bring happiness, success or social status.]] {X} For example, a teenager who sees a smartphone advert every day may begin to feel that his working phone is old-fashioned, and this makes him ask his parents for a new one. {P} Another important reason is the wish to show status. {E} [[Some want to keep up with friends and neighbours or to show their status]], and [[social media influencers add to this pressure by constantly showing new purchases]]. {L} Consequently, people often buy to impress others rather than to meet real needs.
+B2: {P} As for whether this is a good thing, I firmly believe that it is not because unnecessary buying pushes many families into debt. {E} [[Many people **fall into debt** through credit cards and loans, which can cause stress and family problems.]] {X} For instance, a family that buys a new television on credit while the old one still works may struggle to pay the monthly instalments, which causes arguments at home. {R} Although some people argue that [[consumerism has clear economic benefits]], spending money that people do not have is not a healthy way to support the economy. {L} Therefore, buying things we do not need is a harmful habit.
+C: In conclusion, people buy things they do not need mainly because of persuasive advertising and the desire to show their status. I firmly believe that this habit is harmful because it leads many families into debt.
+
+@@ MED-16
+title: Should fast food companies be allowed to advertise?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Fast food companies should not be allowed to advertise.
+ideas: Sponsorship and Marketing · Advertising and Children (planned in Part 2F)
+I: While some people argue that every company should have the right to advertise, others believe that fast food businesses should not be allowed to do so. I completely support the latter view because these adverts harm children's health.
+B1: {P} On the one hand, people who support this right argue that [[all legal businesses should have the right to advertise, and that adults should be free to make their own choices]]. {E} [[Advertising provides important income for television channels and online platforms, which helps to fund children's programmes.]] {E} Many jobs are also created by the fast food industry; as a result, a ban could hurt young workers. {X} For example, a burger chain that cannot promote a new branch may hire fewer students, and this would reduce the number of part-time jobs. {L} For this reason, many people believe that all companies should be free to advertise.
+B2: {P} On the other hand, I firmly believe that fast food companies should not be allowed to advertise because [[their products contribute to obesity and related diseases]]. {E} When adverts use cartoon characters, celebrities and free toys, children want these meals, and [[regular consumption contributes to **childhood obesity**, tooth decay and other health problems]]. {X} For instance, a burger advert offering a free toy during a cartoon can make children beg for fast food every day, which puts pressure on busy parents. {R} Although some people argue that all legal companies deserve this right, [[tobacco advertising is banned in many countries]] for the same reason. {L} Consequently, fast food adverts should be banned to protect children's health.
+C: In conclusion, people hold different views on whether fast food companies should be allowed to advertise. While advertising provides income and jobs, I firmly believe that these adverts should be banned because they encourage unhealthy eating among children.
+
+@@ BUS-05
+title: Do good products need advertising?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Sponsorship and Marketing · Advertising, Consumerism and Buying What We Don't Need
+I: It is sometimes claimed that a good product which meets customers' needs does not need any advertising. I completely disagree with this view because customers must first know that a product exists and small brands also need advertising to compete.
+B1: {P} The main reason why I disagree with this idea is that even an excellent product needs to reach its customers. {E} This is because [[customers cannot buy something they do not know exists]], however good it is. {E} Advertising [[tells consumers about new products, special offers and services that may improve their lives]]; as a result, people can discover things that they actually need. {X} For example, a new app that helps farmers check crop prices could remain unknown for years without promotion, and this would waste a genuinely useful idea. {L} Therefore, quality alone cannot bring a product to the people who need it.
+B2: {P} Another important reason for my disagreement is that small brands need advertising to compete. {E} When a new company enters a market, it faces strong rivals, as [[large companies with big marketing budgets can dominate markets, making it difficult for small local businesses to compete, even if their products are good]]. {X} For instance, a new local brand of healthy snacks may fail if supermarket shelves and TV screens are filled with famous brands, which hides it from customers. {R} Although some people argue that [[word of mouth and online reviews can be powerful forms of free advertising]], this process is slow, and a small company may not survive long enough to benefit. {L} Consequently, good products still need advertising in order to succeed.
+C: In conclusion, I firmly believe that advertising is still necessary for all products of high quality. Without it, consumers may never hear about useful goods, and new companies also struggle to compete with established brands.

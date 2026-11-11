@@ -1,0 +1,43 @@
+@@ SPO-04
+title: Parents or schools: who should ensure children exercise?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Children's Health, School Sport and Physical Education · Obesity
+I: It is sometimes claimed that exercise is a matter for parents alone, so sports lessons are a waste of valuable school time. I completely disagree with this view because many parents cannot provide regular exercise and school sport also improves children's learning.
+B1: {P} The main reason why I disagree with this idea is that many parents cannot provide regular exercise for their children. {E} This is because [[many parents work long hours, cannot afford sports clubs or live in areas without parks]]. {E} [[For children from poor families or crowded city areas, school may be the **only place** where they can play sport safely]]; as a result, [[if schools remove sport from the curriculum, many children will hardly exercise at all]]. {X} For example, a child in a crowded part of Dhaka may have no safe place to play after school, and this child's only exercise may come from a weekly PE lesson. {L} Therefore, schools must share this responsibility with parents.
+B2: {P} Another important reason for my disagreement is that sports lessons are not a waste of school time. {E} When children move during the school day, their studies also benefit, as [[physical activity can actually **improve academic performance**, because it helps children concentrate and reduces stress]]. {X} For instance, a student who plays cricket at lunchtime often returns to class calmer and more focused, which helps them to understand difficult lessons. {R} Although some people argue that parents should decide how children spend their free time, [[school programmes can reach every child, regardless of family background]]. {L} Consequently, sports lessons deserve a regular place in the school curriculum.
+C: In conclusion, I firmly believe that physical education is a valuable use of school time and not simply a duty for parents. Many families lack the time or money to organise exercise, and active pupils also perform better in the classroom.
+
+@@ SPO-06
+title: Should companies give employees exercise time?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Exercise, Walking and the Sedentary Lifestyle · Mental Health and Stress
+I: It is often argued that employers should give their staff time to exercise during the working day. I completely agree with this view because this policy protects workers' health and it also makes companies more productive.
+B1: {P} The main reason why I agree with this idea is that this policy protects workers' health. {E} This is because [[many jobs now involve sitting at a desk all day]], and [[long working hours also leave people feeling **too tired or too busy** to exercise]]. {E} [[Physical activity helps people to **maintain a healthy weight**, strengthens the heart and lungs, and reduces the risk of diabetes, high blood pressure and some cancers]]; as a result, employees stay healthier for longer. {X} For example, an office worker who walks during a daily break may lose weight and lower their blood pressure, and this habit can protect their health. {L} Therefore, a short exercise break is a sensible way to protect people who sit all day.
+B2: {P} Another important reason for my agreement is that exercise time also makes companies more productive. {E} When employees are healthy and relaxed, they concentrate better, make fewer mistakes and take fewer sick days, so the company loses less working time. {X} For instance, a company that offers a thirty-minute walking break after lunch may find that staff feel more energetic in the afternoon, which improves the quality of their work. {R} Although some people argue that exercise breaks waste paid working time, [[employers can provide exercise facilities, flexible breaks or "walking meetings"]] at very little cost. {L} Consequently, exercise time is an investment for employers and not simply a cost.
+C: In conclusion, I firmly believe that businesses should allow employees to be physically active during their office hours. Regular movement keeps staff fit and well, and healthier workers also produce much better results for their employers.
+
+@@ SPO-07
+title: Compulsory sport at university?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Children's Health, School Sport and Physical Education · Obesity · Exercise and the Sedentary Lifestyle
+I: Because more people are now overweight, it is sometimes claimed that universities should require every student to take a sports module. I completely disagree with this view because university students are adults who should make their own choices and compulsory sport adds extra pressure.
+B1: {P} The main reason why I disagree with this idea is that university students are adults who should make their own choices. {E} This is because [[adults should be free to decide what they eat and drink]] and how they spend their free time. {E} People rarely enjoy activities that they are forced to do; as a result, students who are made to exercise may stop as soon as they graduate. {X} For example, a science student who hates team games may attend a compulsory football class only to get the credit, and this experience could make them dislike sport even more. {L} Therefore, compulsion is unlikely to create the healthy habits that this policy aims to build.
+B2: {P} Another important reason for my disagreement is that compulsory sport would add extra pressure. {E} When students already have long hours of study, part-time jobs or family responsibilities, an additional module would leave them with less time to rest and prepare for exams. {X} For instance, a student who works in a restaurant every evening to pay their fees may find it extremely difficult to attend weekly sports classes, which could lower their marks. {R} Although some people argue that [[universities are another stage of life where young people often become less active]], [[universities can certainly offer cheap and attractive sports facilities to encourage students to stay active]]. {L} Consequently, encouragement is a far better solution than an extra compulsory course.
+C: In conclusion, I firmly believe that sport should not be a required part of every university degree. Young adults have the right to decide how they stay fit, and an additional course would also increase the stress they already face.
+
+@@ GOV-01
+title: Lifestyle decisions: government or individuals?
+type: Discussion (both views + opinion)
+format: discuss
+pos: People should make their own lifestyle decisions.
+ideas: Health Taxes and Laws · Obesity: Causes and Responsibility · Free Healthcare
+I: While some people argue that governments should make decisions about how citizens live, others believe that people should make these choices themselves. I completely support the latter view because adults know their own needs best.
+B1: {P} On the one hand, people who support government control argue that [[laws can also protect people who do not make the unhealthy choice]]. {E} [[Bans on smoking in restaurants, offices and public transport protect non-smokers from second-hand smoke]]. {E} Unhealthy habits can also be reduced through taxes; as a result, fewer people suffer from serious illness. {X} For example, a smoker who faces a higher price for cigarettes may decide to stop, and this protects both their own health and their family's. {L} For this reason, many people believe that governments should control lifestyle choices.
+B2: {P} On the other hand, I firmly believe that people should make their own decisions because [[adults should be free to decide what they eat and drink, even if their choices are not healthy]]. {E} When a rule is made for a whole country, it cannot suit everyone, because each person has different needs, cultures and religious beliefs. {X} For instance, a government cannot decide how many hours a night worker should sleep or which sport a patient with back pain should play, which shows that one rule does not fit all. {R} Although some people argue that taxes and bans reduce illness, such laws [[**limit personal freedom**]] in private matters. {L} Consequently, lifestyle decisions should be left to individuals.
+C: In conclusion, people hold different views on whether governments or citizens should control lifestyle decisions. While some laws can reduce illness, I firmly believe that adults should decide for themselves because they understand their own lives best.

@@ -1,0 +1,54 @@
+@@ HEA-06
+title: Is daily exercise the best way to improve health?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Exercise, Walking and the Sedentary Lifestyle · Fast Food · Mental Health and Stress
+I: It is sometimes claimed that exercising every day is the most effective way to become healthier. I completely disagree with this view because exercise cannot cancel the effects of a poor diet and good health also depends on sleep and low stress.
+B1: {P} The main reason why I disagree with this idea is that exercise cannot cancel the effects of a poor diet. {E} This is because [[many fast foods and processed meals are **high in fat, sugar and salt**, but low in vitamins, minerals and fibre]]. {E} A person can easily eat more calories in one meal than they burn during a long walk; as a result, daily exercise alone may not prevent weight gain or illness. {X} For example, a person who jogs every morning but drinks several soft drinks a day may still develop diabetes, and this shows that food has a powerful effect on health. {L} Therefore, a healthy diet is at least as important as physical activity.
+B2: {P} Another important reason for my disagreement is that good health also depends on enough sleep and low stress. {E} When people feel anxious or sleep badly, their bodies and minds suffer, because [[a person who exercises every day but eats a poor diet, smokes, sleeps badly or suffers from constant stress will not be completely healthy]]. {X} For instance, a student who goes to the gym daily but studies until three every morning may still feel exhausted and depressed, which can damage their mental health. {R} Although some people argue that [[physical activity helps people to **maintain a healthy weight**]], [[on its own it is not enough]]. {L} Consequently, [[**a balanced approach**]] is a better way to improve health than exercise alone.
+C: In conclusion, I firmly believe that daily exercise is not the best single way to improve health. Physical activity cannot make up for unhealthy eating, and people also need proper rest and a calm mind to stay well.
+
+@@ HEA-07
+title: Public health: government or individuals?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Public health is the responsibility of the government.
+ideas: Obesity: Causes and Responsibility · Free Healthcare · Health Taxes and Laws
+I: While some people argue that every person should be responsible for their own health, others believe that public health is the duty of governments. I completely support the latter view because individual choices depend on the wider environment.
+B1: {P} On the one hand, people who support personal responsibility argue that health depends largely on daily choices. {E} [[Adults choose what they eat and whether they exercise, and parents decide what their children eat at home.]] {E} [[A person who smokes, drinks heavily or eats a very unhealthy diet is choosing to increase their risk of illness]]. {X} For example, no law can force a person to go for a walk or stop eating sweets at home, and these small decisions can shape their health for years. {L} For this reason, many people believe that individuals should [[**take responsibility for their own health**]].
+B2: {P} On the other hand, I firmly believe that public health is the government's duty because [[individuals make their choices within an environment that is shaped by powerful food companies, advertising, city planning and prices]]. {E} When unhealthy food is cheaper than healthy food, and when there are no parks or safe footpaths, it is difficult for people to stay healthy. {X} For instance, a low-income family that lives far from any park and cannot afford fresh food may rely on cheap fried snacks, which increases the risk of obesity. {R} Although some people argue that adults freely choose their habits, those choices are limited by what is available and affordable. {L} Consequently, governments must [[**create a healthier environment**]] so that public health can improve.
+C: In conclusion, people hold different views on whether governments or individuals should be responsible for public health. While personal habits affect everyone's health, I firmly believe that this duty belongs to governments because they shape the conditions in which people live.
+
+@@ HEA-08
+title: Should doctors educate their patients?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Prevention versus Treatment · Technology and Health · Fast Food
+I: It is often argued that doctors should have the duty of teaching patients how to become healthier. I completely agree with this view because patients trust their doctors' advice and health education can prevent serious illness in the future.
+B1: {P} The main reason why I agree with this idea is that patients trust advice from their doctors. {E} This is because doctors understand each patient's medical history and can explain how lifestyle affects their particular condition. {E} [[Some people search their symptoms online and either become unnecessarily worried or try to treat themselves]]; as a result, clear advice from a trained professional is extremely valuable. {X} For example, a patient with diabetes is more likely to change their diet after a serious talk with their own doctor than after reading an online article, and this change can control the disease. {L} Therefore, doctors are in the best position to teach people how to live more healthily.
+B2: {P} Another important reason for my agreement is that health education from doctors can prevent serious illness. {E} When doctors are [[**advising patients** on how to improve their lifestyle]], they can help them to act before a small problem becomes a dangerous one. {X} For instance, a doctor who explains to a patient with high blood pressure how to reduce salt and walk daily may prevent a future heart attack, which also avoids expensive treatment. {R} Although some people argue that doctors in busy hospitals have only a few minutes for each patient, even a short piece of personal advice can make a real difference. {L} Consequently, [[prevention is an investment that makes treatment more affordable]], and doctors should lead this work.
+C: In conclusion, I firmly believe that teaching patients about healthy living should be part of every doctor's job. People take medical advice seriously, and early guidance can also stop minor conditions from developing into dangerous diseases.
+
+@@ HEA-09
+title: Why do fewer people walk?
+type: Cause and Solution
+format: causesol
+pos: Causes: unsafe city streets and technology that removes physical effort. Solutions: safe footpaths; bringing walking back into daily routines.
+ideas: Exercise, Walking and the Sedentary Lifestyle · Technology and Health
+I: Despite its well-known health benefits, walking is becoming less common in modern life. This is mainly because city streets are unsafe and technology has made it unnecessary, but safer footpaths and better daily habits can tackle this problem.
+B1: {P} One of the main causes of this trend is that walking in large cities has become unpleasant and dangerous. {E} Heavy traffic, air pollution and broken footpaths make short journeys on foot stressful, so many people avoid them. {X} For example, a parent who must walk beside fast buses on a broken footpath may take a rickshaw for a five-minute journey, and this soon becomes a habit. {P} Another important cause is technology, which has [[removed much of the physical effort from daily life.]] {E} [[Lifts replace stairs, and online shopping means that people do not even need to walk to the shops.]] {L} Consequently, walking has gradually disappeared from the daily routines of many people.
+B2: {N} The most effective solution is for governments to make streets safer for pedestrians. {E} When city planners build **safe footpaths** and separate them from traffic, walking becomes pleasant and practical rather than stressful. {X} For instance, a parent who can reach the local market on a wide, well-lit footpath may no longer need a rickshaw, which adds exercise to their day at no cost. {N} In addition, employers and individuals can bring walking back into everyday routines. {E} Workplaces can [[encourage staff to use the stairs]], while people can walk to nearby shops instead of ordering online, and these small changes quickly add up. {L} Together, these measures would make walking a normal part of modern life again.
+C: In conclusion, people walk less because urban streets are hazardous and technology has reduced physical effort. Safer pedestrian routes and small changes to everyday habits would encourage more people to walk regularly.
+
+@@ FOO-01
+title: Are GM foods the answer to world hunger?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Fast Food, Processed Food and Modern Diets (food safety) · general knowledge (this topic is not covered in the Idea Bank)
+I: As the global population continues to rise, it is often argued that genetically modified crops are a practical way to feed everyone. I completely agree with this view because these crops produce larger harvests and they can also survive difficult weather conditions.
+B1: {P} The main reason why I agree with this idea is that GM crops produce larger harvests. {E} This is because scientists can develop plants that grow faster and resist pests and diseases, so farmers lose less of their crop each year. {E} Higher yields also mean that less forest needs to be cleared for new farmland; as a result, more food can be grown without damaging the natural environment. {X} For example, a small farmer who plants pest-resistant rice may harvest much more from the same piece of land, and this means that no nearby forest has to be cleared. {L} Therefore, GM foods offer a realistic way to increase the world's food supply.
+B2: {P} Another important reason for my agreement is that GM crops can survive difficult weather conditions. {E} When climate change brings drought, floods or salty soil, ordinary crops often fail, but some GM varieties can continue to grow in these conditions. {X} For instance, farmers in coastal Bangladesh, where salt water is entering farmland, could grow salt-tolerant rice, which would protect their income and their food supply. {R} Although some people argue that GM foods may have long-term effects on human health, careful testing can ensure that only safe products reach the market. {L} Consequently, these crops can protect food production in the regions that are most at risk of hunger.
+C: In conclusion, I firmly believe that genetically modified food is a workable answer to the challenge of feeding a growing world. Such crops give farmers bigger yields, and they also remain productive when the climate becomes harsh.

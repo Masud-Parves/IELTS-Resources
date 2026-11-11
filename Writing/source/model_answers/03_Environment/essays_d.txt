@@ -1,0 +1,55 @@
+@@ ENV-16
+title: Hunting animals for decoration and medicine
+format: causesol
+shape: solutions
+type: Solutions only (Cause/Problem + Solution guide, Section 14)
+pos: No opinion is asked for. Governments should enforce strict laws against poaching, and campaigns should reduce the demand for animal products.
+ideas: Wildlife, Endangered Species and Biodiversity · Global Problems and International Cooperation
+I: Many animals are being hunted almost to extinction to supply decorative items and traditional medicines. Governments can tackle this by enforcing strict laws against poaching, and campaigners can help by reducing the demand for animal products.
+B1: {N} The most effective solution is for governments to make poaching and smuggling far more difficult. {E} [[Because these products can be sold for high prices, criminal groups are willing to take great risks.]] {E} Strong border controls, heavy prison sentences for traffickers and well-trained forest guards with modern equipment can make those risks much greater than the profits. {X} For example, a smuggler who knows that customs officers check every container for ivory is far less likely to try to move it across the border. {L} Consequently, strict enforcement can cut the supply of these products before they reach the market.
+B2: {N} In addition, awareness campaigns could reduce the demand for animal products. {E} Public campaigns, supported by well-known celebrities, can show consumers that buying ivory, horns or animal skins directly causes the death of endangered animals. {E} Doctors and traditional healers can also promote alternative medicines that do not use animal parts, so buyers have a safe choice. {X} For instance, a man who learns that a rhino was killed to make his medicine may choose a herbal remedy instead, which removes one more buyer from the market. {L} Together, these measures would make hunting endangered animals both dangerous and unprofitable.
+C: In conclusion, the hunting of rare animals for decoration and medicine can be reduced if governments enforce tough laws. Education that lowers the demand for animal products would also remove the profit that drives poaching.
+
+@@ ENV-17
+title: Is restricting air travel the only way?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Air Travel, Tourism and the Environment · Cities: Air Pollution, Traffic and Green Spaces · Renewable Energy and Fossil Fuels
+I: It is sometimes claimed that limiting the number of flights is the only solution to air pollution. I completely disagree with this view because most dirty air comes from other sources and many other solutions are more effective.
+B1: {P} The main reason why I disagree with this idea is that most air pollution comes from sources other than aeroplanes. {E} This is because [[it comes from vehicle exhaust, factories, construction dust, brick kilns and the burning of waste]], which affect cities every day. {E} These sources are located close to where people live and work; as a result, they cause far more harm to public health than planes flying high above. {X} For example, brick kilns on the outskirts of many cities produce thick smoke during the dry season, and this smoke is breathed by thousands of local families. {L} Therefore, restricting flights would leave the main causes of dirty air untouched.
+B2: {P} Another important reason for my disagreement is that many other solutions are more effective. {E} When governments want cleaner air, they can use [[strict rules on vehicle emissions and factory pollution, together with fines for those who break them]], and they can replace coal power stations with **renewable energy**. {X} For instance, a city that fines factories for releasing black smoke can reduce air pollution within months, which protects local families every single day. {R} Although some people argue that [[aeroplanes burn large amounts of fuel]], [[restricting travel completely would be neither realistic nor fair]]. {L} Consequently, it is clearly wrong to describe limits on air travel as the only answer.
+C: In conclusion, I firmly believe that reducing air travel is not the only way to stop air pollution. Vehicles and factories create far more everyday pollution, and stronger laws and cleaner transport can clean the air more effectively.
+
+@@ TOU-09
+title: Regular international flights
+format: advdis
+type: Advantages vs Disadvantages — Type 2 (outweigh)
+pos: The advantages clearly outweigh the disadvantages to the environment.
+ideas: Air Travel, Tourism and the Environment · Climate Change: Causes and Who Is Responsible
+I: Many people around the world now take international flights for work and holidays. Although frequent flying adds to climate change and damages popular natural sites, it supports millions of jobs and keeps families connected. In my opinion, the advantages clearly outweigh the disadvantages.
+B1: {T} There is little doubt that regular international flights offer considerable advantages to people and economies. {P} To begin with, the greatest benefit is that air travel supports tourism and international trade. {E} This is because [[tourism **generates income and employment** for millions of people, including hotel staff, guides, drivers and craftspeople]]. {X} For example, a tour guide in Nepal who shows foreign visitors around the mountains can earn enough to send his children to a good school. {P} In addition, flights not only bring cultures together but also connect families separated by migration. {E} As a result of cheaper air travel, a Bangladeshi worker in the Middle East can visit his family every year, which keeps their bonds strong. {S} Overall, regular flights support jobs, family life and understanding between people from different nations.
+B2: {T} On the other hand, it cannot be denied that frequent flying also has some drawbacks. {P} Firstly, the most serious problem is the large amount of carbon that aeroplanes produce. {E} [[Aeroplanes burn large amounts of fuel]]; as a result, frequent flying adds significantly to climate change. {X} For instance, [[a single long-distance return flight can produce as much carbon per passenger as several months of driving]], which shows how quickly the damage adds up. {P} Secondly, mass tourism can damage the very natural places that travellers come to see and enjoy. {E} If [[popular beaches, mountains and islands]] are crowded with hotels and roads, habitats are destroyed and, consequently, wildlife disappears. {S} Although these problems are serious, cleaner aircraft fuels and responsible travel choices can greatly reduce them.
+C: In conclusion, international air travel has become a normal part of modern life. While it increases carbon emissions and puts pressure on fragile natural sites, it creates jobs and keeps people connected across borders. Therefore, I believe the benefits outweigh the drawbacks.
+
+@@ TOU-10
+title: Raising the cost of international flights
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Air Travel, Tourism and the Environment · Cities: Air Pollution, Traffic and Green Spaces
+I: It is sometimes claimed that making overseas flights more expensive is the most effective way to cut air pollution. I completely disagree with this view because higher prices are unfair to ordinary families and flights are not the main cause of air pollution.
+B1: {P} The main reason why I disagree with this idea is that higher flight prices are unfair to ordinary families. {E} This is because [[this would make travel a privilege for the rich and would hurt families who need to visit relatives abroad]]. {E} Wealthy passengers can easily pay an extra charge; as a result, they would keep flying while poorer passengers stay at home. {X} For example, a Bangladeshi worker in the Middle East who saves for a whole year to visit their family may no longer be able to afford the ticket, and this would keep parents and children apart. {L} Therefore, this policy would punish people who fly out of need and not for pleasure.
+B2: {P} Another important reason for my disagreement is that flights are not the main source of air pollution in most countries. {E} When people breathe dirty air in cities, the real causes are on the ground, because [[it comes from vehicle exhaust, factories, construction dust, brick kilns and the burning of waste]]. {X} For instance, a family living beside a busy road in Dhaka breathes traffic fumes all day, which a more expensive ticket would not change. {R} Although some people argue that [[higher prices could reduce unnecessary flights and raise money for clean energy]], [[strict rules on vehicle emissions and factory pollution]] would clean the air much faster. {L} Consequently, raising ticket prices cannot be the best way to deal with this problem.
+C: In conclusion, I firmly believe that increasing the cost of overseas air travel is not the most effective way to reduce pollution. It places an unfair burden on ordinary travellers, and it also ignores the traffic and factories that cause most dirty air.
+
+@@ HOU-02
+title: Trees or housing on vacant city land?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Vacant city land should be used for planting trees.
+ideas: Cities: Air Pollution, Traffic and Green Spaces · Deforestation and Natural Places
+I: While some people argue that empty land in cities should be used for housing, others believe that trees should be planted there. I completely support the latter view because green spaces make cities healthier for everyone who lives in them.
+B1: {P} On the one hand, people who support building homes argue that [[a growing population needs housing and businesses need space to grow]]. {E} Rising rents push many low-income families into crowded slums with poor sanitation. {E} New flats can be built on empty land quite quickly; as a result, more families can afford a safe home. {X} For example, an apartment block on a vacant plot in Dhaka could house hundreds of families, and this would reduce pressure on nearby slums. {L} For this reason, many people believe that vacant land should be used for housing.
+B2: {P} On the other hand, I firmly believe that trees should be planted on this land because [[trees absorb pollution, provide shade and reduce temperatures in hot weather]]. {E} When a crowded area has a park, residents enjoy cleaner air, and they also have [[a place to exercise, relax and meet neighbours]]. {X} For instance, a small green area in a crowded part of Dhaka can provide cool shade for thousands of residents, which makes hot summer months easier to bear. {R} Although some people argue that families urgently need homes, [[housing needs can often be met by building upwards or developing unused industrial land]]. {L} Consequently, vacant land in cities should be kept for trees.
+C: In conclusion, people hold different views on whether vacant urban land should be used for trees or for housing. While growing cities need more homes, I firmly believe that trees should come first because green areas protect people's health.

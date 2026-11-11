@@ -1,0 +1,37 @@
+# ---------------------------------------------------------------
+# The repo is PUBLIC, so only my own work is pushed.
+# Copyrighted books, copied test passages and other people's
+# eBooks stay on the PC only.
+# ---------------------------------------------------------------
+
+# --- Not IELTS (stays on this PC) ---
+/Adult Site Blocker/
+/Portfolio_Plan.md
+
+# --- Reading: copyrighted / third-party material ---
+/Reading/Cambridge eBooks/*.pdf
+!/Reading/Cambridge eBooks/Cambridge_IELTS_4-21_216_Gross_Main_Categories.pdf
+/Reading/Cambridge eBooks/By Category/Output/
+/Reading/Cambridge eBooks/By Category/working/
+/Reading/Passage 1/
+/Reading/Passage 2/
+/Reading/Passage 3/
+/Reading/Example/
+/Reading/Output/*.pdf
+
+# --- Writing / Speaking: other people's eBooks ---
+/Writing/eBook/
+/Speaking/eBook/
+
+# --- Build leftovers ---
+__pycache__/
+*.pyc
+_build*.html
+_spelling_build.html
+
+# --- System / editor files ---
+desktop.ini
+Thumbs.db
+.DS_Store
+~$*
+*.tmp

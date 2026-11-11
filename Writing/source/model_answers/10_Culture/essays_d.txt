@@ -1,0 +1,66 @@
+@@ SOC-13
+title: Does travel make people more tolerant?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Adapting to Local Customs and Cultural Tolerance · International Tourism: Benefits
+I: It is often argued that people who visit other countries become more tolerant and understanding of others. I completely agree with this view because travel breaks down stereotypes and it also helps people to understand what it is like to be a foreigner.
+B1: {P} The main reason why I agree with this idea is that travel breaks down stereotypes. {E} This is because [[meeting people from different backgrounds, seeing how they live and understanding their values can break down stereotypes and prejudices]]. {E} Travellers also learn that there are many different but equally reasonable ways of living, eating and worshipping; as a result, they become less quick to judge others. {X} For example, a person who has only seen another country in films may be surprised to discover that its people are friendly and generous, and this experience can change their opinion for ever. {L} Therefore, [[travel can certainly make people more **tolerant and open-minded**]].
+B2: {P} Another important reason for my agreement is that travel teaches people what it is like to be a foreigner. {E} When travellers struggle with unfamiliar rules, they learn how difficult life can be for newcomers, as [[a person who has experienced being a foreigner may become more understanding of immigrants and minorities in their own country]]. {X} For instance, a student who needed help from strangers during a trip to Japan may later be kinder to foreign students at home, which makes their own community more welcoming. {R} Although some people argue that [[some tourists spend their entire holiday in international hotels]], most travellers still meet local people. {L} Consequently, experience abroad is one of the best ways to build tolerance.
+C: In conclusion, I firmly believe that international travel makes people more accepting of others. Direct contact with other societies removes false ideas, and the experience of being an outsider also encourages greater kindness towards newcomers.
+
+@@ ART-02
+title: Should museums show only local artists?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Western Influence and Global Popular Culture · Ch. 05 Government Idea Bank: Museums, Libraries and Heritage; Arts versus Science Funding
+I: Many people believe that museums and galleries should display only the work of local artists and not art from other countries. I completely disagree with this view because international art helps people to understand other cultures and it also inspires local artists.
+B1: {P} The main reason why I disagree with this idea is that foreign art teaches people about the wider world. {E} This is because [[international exhibitions help people understand other cultures and attract more visitors]], which gives them a wider view. {E} [[Learning about other cultures can also help people become more open-minded and tolerant]]; as a result, society becomes more peaceful and respectful. {X} For example, an exhibition of Japanese paintings in Dhaka could attract many visitors and show them a different way of seeing nature, and this experience could broaden their understanding. {L} Therefore, showing only local work would narrow people's view of the world.
+B2: {P} Another important reason for my disagreement is that international art also inspires local artists. {E} When young artists see work from other countries, they learn new techniques, because [[local artists sometimes combine Western styles with traditional elements, creating new and exciting forms of music, fashion and film]]. {X} For instance, an art student in Dhaka who studies Italian paintings may use new ideas about colour in traditional designs, which creates something original. {R} Although some people argue that [[museums should focus mainly on local artists and national history]], foreign exhibitions do not stop local artists from being shown. {L} Consequently, international art strengthens local culture instead of threatening it.
+C: In conclusion, I firmly believe that museums and galleries should not be limited to local artists. Work from abroad opens visitors' minds to other societies, and it also gives national artists fresh ideas for their own creations.
+
+@@ ART-05
+title: Should artists have total freedom?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Local Film, Music and Arts Industries · Ch. 09 Media Idea Bank: Media Responsibility and Press Freedom
+I: Although artists need some creative freedom, it is sometimes claimed that they should be free to express absolutely any idea. I completely disagree with this view because art can spread hatred and unlimited freedom can seriously harm children.
+B1: {P} The main reason why I disagree with this idea is that art can be used to spread hatred between different groups. {E} This is because films, songs and books reach very large audiences, and they can have a strong effect on people's emotions and beliefs. {E} Some messages attack people because of their religion or race; as a result, whole communities can feel threatened and afraid. {X} For example, a song that encourages violence against a religious group could lead to real attacks, and innocent people could lose their lives. {L} Therefore, [[certain rules, such as laws against defamation and incitement to violence, are necessary]].
+B2: {P} Another important reason for my disagreement is that unlimited freedom can seriously harm children. {E} When violent or sexual content is freely available, young people can easily see material that is not suitable for their age. {X} For instance, a child who finds an extremely violent film online may be frightened or confused by it, which can affect their emotional development. {R} Although some people argue that [[artists need **creative freedom** to explore difficult and sometimes controversial ideas]], they can do this without encouraging violence or harming children. {L} Consequently, artists should not have total freedom, because other people's safety and dignity also matter.
+C: In conclusion, I firmly believe that artists should not have complete freedom to say whatever they want. Some works can create hatred between groups, and they can also damage young people who are not ready to see them.
+
+@@ BUS-07
+title: Local business or foreign companies?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Multinational Companies versus Local Business · Globalisation: Benefits and Harms
+I: While some countries encourage foreign companies to open branches, many believe that governments should support local businesses instead. I completely agree with this view because local firms keep money in the community and they also protect local traditions.
+B1: {P} The main reason why I agree with this idea is that local firms keep money in the community. {E} This is because [[they usually keep profits within the community, employ local people, use local suppliers]], so the money circulates in the local economy. {E} In contrast, some foreign companies [[may exploit cheap labour, avoid taxes or damage the environment, especially in countries where regulations are weak]]; as a result, much of the benefit may leave the country. {X} For example, a local restaurant owner who buys vegetables from nearby farmers keeps money in the area, while a foreign chain may send its profits overseas. {L} Therefore, helping local companies makes the national economy stronger.
+B2: {P} Another important reason for my agreement is that local businesses also protect local traditions. {E} When small companies survive, the country's culture survives with them, because they often [[preserve local traditions, such as traditional food, crafts and textiles]]. {X} For instance, [[an international fast-food chain next to a local restaurant]] can attract customers away with its famous brand, which can slowly destroy a family business and its traditional dishes. {R} Although some people argue that foreign companies [[create thousands of jobs]], local firms can also create jobs if governments give them the same support. {L} Consequently, governments should put local businesses first in their economic plans.
+C: In conclusion, I firmly believe that governments should give priority to local companies over foreign ones. Domestic firms keep wealth inside the country, and they also help to preserve traditional products and ways of life.
+
+@@ MED-12
+title: Why do people prefer foreign films?
+format: double
+pattern: List + Opinion
+type: Double Question — List + Opinion (reasons + opinion)
+pos: Bigger budgets and a fashionable image are the reasons; the government should spend more on local films.
+ideas: Local Film, Music and Arts Industries · Western Influence and Global Popular Culture
+I: Many people now prefer foreign films to locally produced ones. This is mainly because foreign films have bigger budgets and seem more fashionable, and I firmly believe that the government should spend more on local cinema.
+B1: {P} One of the main reasons for this is money. {E} [[International productions, especially from Hollywood and other large industries, usually have **much bigger budgets**, allowing them to use famous actors, advanced special effects and global marketing.]] {X} For example, a Hollywood action film with expensive special effects may be shown in every cinema in Dhaka, while a low-budget local film is shown in only a few. {P} Another important reason is fashion. {E} [[Young people who follow global trends on social media may see foreign entertainment as more fashionable]]; as a result, local films can seem old-fashioned to them. {L} Consequently, many viewers choose foreign films without giving local ones a chance.
+B2: {P} As for whether the government should spend more on the local film industry, I firmly believe that it should because local films protect a nation's culture. {E} [[Local films tell stories that reflect local people's lives, problems and dreams in their own language.]] {X} For instance, a government grant could help a young director to make a film about a garment worker's life, which audiences abroad might also find moving. {R} Although some people argue that public money should go to hospitals and schools instead, a small film fund costs little compared with these services. {L} Therefore, the government should invest more in local filmmakers.
+C: In conclusion, foreign films attract more viewers because of their large budgets and fashionable image. I firmly believe that governments should fund local cinema because it keeps the nation's own stories alive.
+
+@@ MED-13
+title: Do foreign films harm local culture?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Western Influence and Global Popular Culture · Local Film, Music and Arts Industries
+I: It is often argued that films from other countries have a damaging effect on local culture in many parts of the world. I completely agree with this view because foreign films change young people's values and they also weaken the national film industry.
+B1: {P} The main reason why I agree with this idea is that foreign films change young people's values. {E} This is because Hollywood and other large film industries have **huge budgets**, so their films are often more exciting than local ones. {E} When young people watch these films regularly, they may **copy foreign fashions**, language and behaviour; as a result, local stories and traditions may receive less attention. {X} For example, some teenagers in Bangladesh now prefer Western-style clothes and celebrations to traditional festivals, and this can slowly separate them from their own culture. {L} Therefore, foreign films have **a strong influence on** how young people see themselves.
+B2: {P} Another important reason for my agreement is that foreign films weaken the national film industry. {E} When local cinemas mainly show foreign films, local filmmakers lose audiences and income, so they have less money to make new films. {X} For instance, a young Bangladeshi director may find that cinemas prefer an American action film to a local story, which makes it very difficult to continue working. {R} Although some people argue that foreign films can increase **tolerance and understanding**, this benefit means little if a country's own stories are no longer told. {L} Consequently, **the national film industry** needs protection, and foreign films remain a real threat to local culture.
+C: In conclusion, I firmly believe that films from abroad harm the culture of the countries where they are shown. They encourage teenagers to imitate foreign lifestyles, and they also make it harder for local directors to survive.

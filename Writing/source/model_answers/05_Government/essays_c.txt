@@ -1,0 +1,43 @@
+@@ SOC-03
+title: Is giving money the best way to help homeless people?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Welfare and Poverty
+I: It is sometimes claimed that giving cash is the most effective way to help people who have no home. I completely disagree with this view because money does not solve the deeper causes of homelessness and housing and training offer a more lasting solution.
+B1: {P} The main reason why I disagree with this idea is that money does not solve the real reasons why people become homeless. {E} This is because [[cash alone does not solve the deeper causes of homelessness, such as unemployment, mental illness, addiction or family breakdown]]. {E} These problems need professional help and time; as a result, a person can receive money for many years and still sleep on the street. {X} For example, someone with an addiction might spend the money in a way that makes the problem worse, and this could push them further away from a normal life. {L} Therefore, cash may relieve a problem for a day without removing its cause.
+B2: {P} Another important reason for my disagreement is that housing and training offer a more **lasting solution**. {E} When people have a safe place to live, they can begin to rebuild their lives, and [[governments can offer job training, help with finding work]] and basic healthcare. {X} For instance, a homeless person who learns to repair mobile phones in a shelter may find steady work, which allows them to pay rent and live independently. {R} Although some people argue that cash [[respects their freedom to decide what they need]], freedom means little to someone with no home or job. {L} Consequently, [[the best approach is to **give people a hand up, not just a handout**]].
+C: In conclusion, I firmly believe that handing out money is not the best way to support homeless people. Cash cannot deal with the problems behind their situation, and shelter and job skills also give them a real chance of independence.
+
+@@ SOC-04
+title: Financial aid or practical aid?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Practical aid and advice are more important than financial aid.
+ideas: Foreign Aid · Rural Development (planned in Part 2F)
+I: While some people argue that money is the most useful form of international aid, others believe that practical help and advice are more important. I completely support the latter view because skills last much longer than money.
+B1: {P} On the one hand, people who support financial aid argue that money is needed for large projects and emergencies. {E} [[Money allows countries to fund large projects quickly and respond flexibly to their own priorities.]] {E} Hospitals and bridges cannot be built without funding; as a result, poor countries often depend on outside help. {X} For example, a country that receives money after a cyclone can quickly rebuild bridges and hospitals, and this helps thousands of families to return to normal life. {L} For this reason, many people believe that financial aid is the most important form of support.
+B2: {P} On the other hand, I firmly believe that practical aid is more important because it [[builds skills that remain in the country long after the aid ends]]. {E} When local people are trained as doctors, teachers and engineers, they can solve problems themselves, and their countries become less dependent. {X} For instance, foreign experts who train local engineers to maintain a water system leave behind skills that last for years, even after those experts go home. {R} Although some people argue that large projects need money first, [[money may be stolen by officials or spent on projects that benefit powerful people rather than the poor]]. {L} Consequently, [[it is better to teach a person to fish than to give them a fish]].
+C: In conclusion, people hold different views on whether financial help or practical advice is more useful to developing countries. While money is valuable in emergencies, I firmly believe that practical aid is more important because it builds **long-term self-reliance**.
+
+@@ SPO-05
+title: Hosting international sports events
+type: Discussion (both views + opinion)
+format: discuss
+pos: Hosting international sports events brings more problems than benefits.
+ideas: Sports Facilities and Hosting Big Events
+I: While some countries are keen to host international sports events, others believe that these events bring more problems than benefits. I completely support the latter view because the costs of hosting them are usually enormous.
+B1: {P} On the one hand, people who support hosting argue that [[it puts the host country **in the international spotlight**, improving its image and attracting tourists and foreign investors]]. {E} [[During the event, visitors spend money on hotels, restaurants, transport and souvenirs, which supports local businesses and creates temporary jobs.]] {E} New roads and metro lines are also built for these events; as a result, residents can benefit for many years. {X} For example, a city that builds a new metro line for a tournament can still use it long after the event, and this improves daily travel for residents. {L} For this reason, many countries want to host such events.
+B2: {P} On the other hand, I firmly believe that hosting creates more problems because [[the costs of hosting major events are often enormous]]. {E} When a government builds new stadiums and security systems, less money remains for schools, hospitals or housing, and [[several host cities have been left with large debts]]. {X} For instance, a poor country may spend heavily on a stadium that is rarely used after the event, which wastes money that could have built many local schools. {R} Although some people argue that tourists and new roads bring long-term benefits, these gains rarely cover the total cost. {L} Consequently, international sports events are a poor use of public money.
+C: In conclusion, people hold different views on whether hosting international sports events brings more benefits or more problems. While these events can improve a country's image, I firmly believe that the problems are greater because they cost huge amounts of public money.
+
+@@ TRA-08
+title: Should foreign aid tackle infrastructure first?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Foreign Aid · Rural Development · Public Transport versus Roads
+I: It is often argued that weak infrastructure holds back poor countries, so foreign aid should deal with this problem first. I completely agree with this view because good infrastructure allows the economy to grow and it also gives people access to essential services.
+B1: {P} The main reason why I agree with this idea is that good infrastructure allows the economy to grow. {E} This is because [[poor infrastructure makes it difficult for farmers to sell their crops, for businesses to grow and for children to reach school]]. {E} Better roads, ports and electricity also attract foreign companies; as a result, new jobs and skills come into the country. {X} For example, a foreign clothing company may open a large factory near a new port, and this can bring hundreds of jobs and useful skills to the local area. {L} Therefore, good infrastructure **lays the foundations for** long-term development.
+B2: {P} Another important reason for my agreement is that infrastructure gives people access to essential services. {E} When a village has roads and power, daily life changes, because [[a new bridge or road can connect isolated villages to markets and hospitals, transforming people's lives]]. {X} For instance, a new road can allow a sick villager to reach a hospital in one hour instead of a whole day, which can save their life. {R} Although some people argue that [[aid can be extremely valuable in emergencies]], emergency help solves a problem for a short time and does not build a country's future. {L} Consequently, foreign donors should make infrastructure their first goal in under-developed countries.
+C: In conclusion, I firmly believe that foreign aid should focus first on building better infrastructure. Transport and power networks create economic growth, and they also connect remote communities with the schools and hospitals they need.

@@ -1,0 +1,45 @@
+@@ WRK-16
+title: Why are people so driven to get promotion?
+format: double
+pattern: List + List
+type: Double Question — List + List (reasons + other factors)
+pos: No opinion is asked for. Promotion brings money and status; interesting work and job security also make people work hard.
+ideas: Pay, Promotion and Motivation · Job Satisfaction versus High Salary (planned in Part 2F)
+I: Many employees work hard mainly because they hope to be promoted. This is mainly because promotion brings a higher salary and social status, and interesting work and job security also motivate people.
+B1: {P} One of the main reasons for this is money. {E} [[A promotion usually brings a higher salary, which allows people to support their families and improve their standard of living.]] {X} For example, a junior officer who becomes a manager may finally afford a bigger flat and a better school for his children, and this makes the extra effort worthwhile. {P} Another important reason is the status that a higher position brings. {E} [[In many societies, a person's job title strongly affects how they are seen by family, friends and the community]]; as a result, a new title makes employees feel proud and respected. {L} Consequently, [[the desire to be promoted encourages many employees to **work hard** and develop their skills]].
+B2: {P} One important factor besides promotion is **interesting work**. {E} When people enjoy what they do and feel that it helps others, they are willing to work long hours without any extra reward. {X} For instance, a nurse who cares deeply about her patients may stay late to comfort a frightened child, even though she has no hope of promotion. {P} Another important factor is job security. {E} When unemployment is high, people fear losing their jobs; as a result, they work harder to show that they are valuable to their employer. {L} Consequently, promotion is only one of several forces that make people work hard.
+C: In conclusion, people chase promotion because it raises their income and their standing in society. However, enjoyable work and the fear of losing a job also push many employees to make a great effort.
+
+@@ WRK-17
+title: Should bringing in foreign workers be stopped?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Migration for Work and Brain Drain
+I: It is sometimes claimed that hiring foreign workers for jobs that local people refuse to do creates problems and should be stopped. I completely disagree with this view because these workers fill important gaps in the labour market and migration also benefits their home countries.
+B1: {P} The main reason why I disagree with this idea is that foreign workers fill important gaps in the labour market. {E} This is because many local people do not want physically demanding jobs, such as construction, cleaning and caring for elderly people. {E} [[Migrant workers fill important gaps in the labour market, support the economy and often do essential but difficult work]]; as a result, hospitals, building sites and many other services can continue to operate. {X} For example, many Bangladeshi workers in the Middle East work in construction, a job that few local people want to do, and this work helps to build roads and homes for the local community. {L} Therefore, stopping this practice would leave many necessary jobs unfilled.
+B2: {P} Another important reason for my disagreement is that migration also benefits the workers' home countries. {E} When people work overseas, their families benefit directly, because [[workers can earn much higher wages abroad and send money home to their families]]. {X} For instance, a construction worker in Dubai who sends money to their village in Bangladesh can pay for their children's education, which gives the next generation a better future. {R} Although some people argue that foreign workers put pressure on housing and local services, good planning, fair wages and language classes can reduce these problems. {L} Consequently, governments should manage this system carefully instead of bringing it to an end.
+C: In conclusion, I firmly believe that countries should continue to recruit overseas workers for jobs that local people do not want. These employees keep important services running, and their earnings also improve life for families back home.
+
+@@ WRK-18
+title: Respect or better facilities at work?
+type: Discussion (both views + opinion)
+format: discuss
+pos: A respectful, supportive work environment is more important than better facilities.
+ideas: Pay, Promotion and Motivation · Job Satisfaction versus High Salary · Automation, Artificial Intelligence and the Future of Work
+I: While some people argue that employers should concentrate on better facilities and equipment, others believe that a supportive workplace where everyone is respected matters more. I completely support the latter view because respected employees are more motivated.
+B1: {P} On the one hand, people who support investment in equipment argue that modern tools help employees to work faster and more safely. {E} [[AI tools can save workers time on routine paperwork, allowing them to focus on more creative and meaningful tasks.]] {E} Many hours are wasted when machines are slow or unreliable; as a result, productivity falls. {X} For example, a designer with a slow computer may lose hours every week waiting for files to open, and this delays the whole team. {L} For this reason, many people believe that employers should focus on facilities and equipment.
+B2: {P} On the other hand, I firmly believe that a supportive environment matters more because [[employees who feel respected, listened to and valued are more likely to give their best effort]]. {E} When managers treat staff fairly and value their work, people enjoy coming to the office, and they are less likely to leave. {X} For instance, [[a supportive manager who praises good work and helps staff to improve can motivate people more than a small pay rise]]. {R} Although some people argue that modern equipment saves time, [[a workplace with constant criticism, unfair treatment or bullying can destroy motivation]], however good the tools may be. {L} Consequently, respect is the most valuable thing that an employer can provide.
+C: In conclusion, people hold different views on whether employers should focus on respect at work or on better equipment. While modern facilities help people to work efficiently, I firmly believe that a respectful workplace is more important because it increases motivation.
+
+@@ WRK-19
+title: Should income decide which job you choose?
+format: double
+pattern: Opinion + List
+type: Double Question — Opinion + List (opinion + other factors)
+pos: Money is an important factor; job satisfaction and career growth should also be considered.
+ideas: Job Satisfaction versus High Salary · Pay, Promotion and Motivation
+I: Some people believe that a job should be chosen mainly for its salary, because a good income protects the family. I firmly believe that money is an important factor, and job satisfaction and career growth should also be considered.
+B1: {P} I firmly believe that money is an important factor when choosing a job because it gives a family security. {E} [[A good salary allows people to **provide for their families**, pay for their children's education, buy or rent a decent home and save for the future.]] {X} For example, [[for a young person who must support parents and younger siblings, choosing a low-paid job simply because it is interesting may not be a realistic option]]. {R} Although some people argue that money cannot buy happiness, a lack of money brings constant worry about rent, bills and school fees. {L} Therefore, income deserves serious attention in any career decision.
+B2: {P} One important factor that should also be considered is **job satisfaction**. {E} [[If people find their work boring, meaningless or stressful, they may feel unhappy every day, regardless of how much they earn.]] {X} For instance, a well-paid accountant who hates his work may dread every Monday morning, which can slowly damage his health and his family life. {P} Another important factor is career growth. {E} A job with good training and chances of promotion can lead to a much higher salary later; as a result, a low starting wage is not always a bad choice. {L} Consequently, a wise job seeker looks beyond the first salary.
+C: In conclusion, I firmly believe that pay matters when people choose a career because it protects their families. Enjoyment of the work and future career prospects should also guide this important decision.

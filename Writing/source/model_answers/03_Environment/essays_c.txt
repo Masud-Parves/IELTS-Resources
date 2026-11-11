@@ -1,0 +1,55 @@
+@@ ENV-11
+title: Animals or poverty and healthcare?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Wildlife, Endangered Species and Biodiversity · Economic Growth versus Environmental Protection
+I: It is often argued that the large sums spent on protecting animals and their homes should instead be used to tackle poverty and improve healthcare. I completely disagree with this view because conservation protects what humans need to survive and it can also reduce poverty.
+B1: {P} The main reason why I disagree with this idea is that protecting animals and their habitats also protects what humans need to survive. {E} This is because [[protecting forests and rivers also protects the clean water, food and climate that humans depend on]]. {E} Damaged forests and polluted rivers make people sick; as a result, healthcare costs rise and the poorest families suffer first. {X} For example, a village that loses its forest and drinks from a polluted river may face constant illness, and this forces poor families to spend their small savings on medicine. {L} Therefore, conservation supports human health as well as animals.
+B2: {P} Another important reason for my disagreement is that conservation can actually reduce poverty. {E} When people earn a living from nature, they gain a strong reason to protect it, as [[national parks and wildlife reserves attract tourists, who pay for guides, hotels and food, creating jobs for local people]]. {X} For instance, a family living near a reserve who open a small guesthouse may be able to send their children to school, which helps them to escape poverty. {R} Although some people argue that poverty is more urgent, [[the money spent on conservation is usually a small part of national budgets]]. {L} Consequently, moving this money elsewhere would hardly solve poverty, and it would destroy a useful source of income.
+C: In conclusion, I firmly believe that money for protecting wildlife and habitats should not be redirected to other social problems. Healthy nature keeps human communities alive, and it also offers poor families useful work and income.
+
+@@ ENV-12
+title: Improving the urban environment
+format: causesol
+shape: groups
+type: Solutions by two groups (Cause/Problem + Solution guide, Section 14)
+pos: No opinion is asked for. Governments should improve public transport and control pollution; individuals should change their daily habits.
+ideas: Cities: Air Pollution, Traffic and Green Spaces · Environmental Education and Individual Action
+I: As many cities grow rapidly, their air, water and streets are becoming dirtier and more crowded. Governments can tackle this by improving public transport and controlling pollution, while individuals can help by changing their daily habits.
+B1: {N} The most effective solution is for governments to reduce traffic and pollution in growing cities. {E} [[Governments can **invest in public transport**, such as metro rail systems and reliable bus networks, so that people do not need private cars.]] {E} [[Strict rules on vehicle emissions and factory pollution, together with fines for those who break them, can reduce dirty air.]] {X} For example, a factory owner who must pay a heavy fine for releasing black smoke will soon install filters, which makes the air in nearby neighbourhoods much cleaner. {L} Consequently, government action can tackle the biggest sources of urban pollution.
+B2: {N} In addition, individuals could change their daily habits to protect their city. {E} [[Individuals can contribute too, by using public transport, sharing cars, keeping their vehicles well maintained and taking part in tree-planting or clean-up activities.]] {E} Separating household waste, avoiding plastic bags and saving electricity at home also reduce the pressure on overloaded city services. {X} For instance, a family that stops using plastic bags and separates its waste can help to keep local drains clear, which reduces flooding in the rainy season. {L} Together, these measures would make crowded cities much cleaner and healthier places for everyone to live.
+C: In conclusion, the declining environment of growing cities can be improved if governments invest in transport and enforce pollution laws. Responsible habits among residents, such as reducing waste, would add to this progress.
+
+@@ ENV-13
+title: Governments or individuals?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Governments should deal with environmental problems.
+ideas: Climate Change: Causes and Who Is Responsible · Environmental Education and Individual Action
+I: While some people believe that environmental damage can only be reduced by ordinary citizens, others argue that such worldwide problems are the responsibility of governments. I completely support the latter view because only governments have the necessary power.
+B1: {P} On the one hand, people who support individual action argue that [[every person contributes to the problem through the energy they use]] and the products they buy. {E} [[Individual actions may seem small, but they **add up** when millions of people take part.]] {E} By using public transport and avoiding single-use plastic, ordinary families can reduce pressure on the environment. {X} For example, a family in Dhaka that travels by bus and carries cloth bags produces less waste, and this change costs them very little. {L} For this reason, many people believe that protecting the environment must begin with the ordinary citizen.
+B2: {P} On the other hand, I firmly believe that governments should deal with these problems because they alone have the power to act on a large scale. {E} When pollution comes mainly from power stations and factories, strict laws and large investments in clean energy are required, and a single person cannot provide them. {X} For instance, a factory owner who pollutes a river may ignore residents' complaints, but a law with heavy fines can force every factory to clean up its waste. {R} Although some people argue that small actions add up, [[people can only make green choices if those choices are available and affordable]]. {L} Consequently, individual effort cannot succeed unless governments [[**take the lead**]].
+C: In conclusion, people hold different views on whether citizens or national leaders should tackle environmental damage. While individual choices can reduce waste and pollution, I firmly believe that governments should solve these problems because only they can make changes on the required scale.
+
+@@ ENV-14
+title: Rich nations or poorer nations?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Global Problems and International Cooperation · Economic Growth versus Environmental Protection
+I: It is sometimes claimed that solving the world's environmental problems is the duty of wealthy countries and not of poorer ones. I completely disagree with this view because developing countries are now major polluters and they also have the power to solve their own problems.
+B1: {P} The main reason why I disagree with this idea is that developing countries are now major sources of pollution. {E} This is because [[some developing countries are now among the fastest-growing sources of emissions as they industrialise]]. {E} [[If only some countries reduce their emissions while others continue to pollute heavily, the overall problem will not be solved]]; as a result, every nation must take part. {X} For example, a new coal power station in a poor country releases the same gases as one in a rich country, and these gases warm the whole planet in exactly the same way. {L} Therefore, global problems cannot be solved if poorer nations are excused from the effort.
+B2: {P} Another important reason for my disagreement is that poorer nations have the power to solve many of their own problems. {E} When environmental damage happens inside a country, its government can act, because [[deforestation, river pollution and waste problems also occur in poorer countries, and their own governments have the power to address them]]. {X} For instance, a government in a developing country can stop factories from releasing untreated waste into rivers, which protects its own people. {R} Although some people argue that [[rich countries have produced the largest share of greenhouse gases over the past two centuries]], this history does not remove the duty of other countries to act today. {L} Consequently, poorer nations should act now instead of waiting for rich countries.
+C: In conclusion, I firmly believe that protecting the planet is a duty for every country, whatever its wealth. Poorer nations now add greatly to global pollution, and their leaders are also able to deal with damage at home.
+
+@@ ENV-15
+title: International or domestic action?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Global Problems and International Cooperation · Cities: Air Pollution, Traffic and Green Spaces
+I: It is often argued that the world's environmental problems should be solved through cooperation between countries rather than by each country alone. I completely agree with this view because these problems cross national borders and countries are more willing to act together.
+B1: {P} The main reason why I agree with this idea is that environmental problems cross national borders. {E} This is because [[greenhouse gases released in one country warm the whole planet, air pollution can travel to neighbouring countries, and plastic dumped in one river can end up on beaches thousands of kilometres away]]. {E} No single government can control what happens beyond its own borders; as a result, domestic action alone cannot protect its citizens. {X} For example, a shared river can only be protected if all neighbouring countries control pollution, and one careless factory upstream can harm millions of people downstream. {L} Therefore, problems that belong to the whole world need solutions that involve the whole world.
+B2: {P} Another important reason for my agreement is that countries are more willing to act together. {E} When a government acts alone, it may hesitate, because [[countries may also worry that strict environmental rules will make their industries less competitive, so they are more willing to act if they know that others are doing the same]]. {X} For instance, a country may accept a limit on factory emissions when its trading partners accept the same limit, which protects its businesses. {R} Although some people argue that national governments understand local conditions better, global warming and ocean plastic are far too large for them. {L} Consequently, international agreements offer the strongest way to deal with these threats.
+C: In conclusion, I firmly believe that worldwide environmental threats should be tackled jointly by nations instead of separately. Pollution pays no attention to borders, and shared agreements also give governments the confidence to introduce stronger rules.

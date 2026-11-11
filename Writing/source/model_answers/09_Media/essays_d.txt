@@ -1,0 +1,65 @@
+@@ BUS-06
+title: Big marketing budgets and local products
+type: Problem and Solution
+format: causesol
+pos: Problems: local shops lose customers and profits leave the local economy. Solutions: small loans and training for local producers; public campaigns for local products.
+ideas: Sponsorship and Marketing · Ch. 10 Culture Idea Bank: Multinational Companies versus Local Business · Ch. 06 Work Idea Bank: Self-Employment and Entrepreneurship
+I: Large companies spend huge sums on advertising, so many shoppers choose their products over local ones. This can lead to the closure of local shops and lost local income, but small loans and public campaigns can reduce these effects.
+B1: {P} The most serious problem caused by this trend is that small local businesses struggle to compete. {E} With huge marketing budgets and well-known brands, large companies can [[attract customers away from small local shops, restaurants and producers.]] {X} [[For example, when a large international supermarket opens in a town, nearby family-run grocery shops may lose customers and eventually close.]] {P} Another problem is that money leaves the local economy. {E} [[There are also concerns that much of the **profit** made by multinational companies goes back to their home countries rather than staying in the local economy.]] {L} Consequently, [[local entrepreneurs may lose their livelihoods, and the character of local communities may change.]]
+B2: {N} The most effective solution is for governments to help local producers to compete. {E} They can offer [[**small loans with low interest**, business training and advice]], so that producers can improve their quality and attract more customers. {X} For instance, a family-run grocery that uses a small loan to improve its products and packaging may win back customers from a nearby supermarket, which keeps the business open. {N} In addition, governments and community groups could run public campaigns. {E} These campaigns can remind consumers that local firms [[keep profits within the community, employ local people, use local suppliers and preserve local traditions.]] {L} Together, these measures would encourage more people to buy local products.
+C: In conclusion, big marketing budgets can force local shops to close and send profits abroad. Financial support for small producers and campaigns about the value of local firms would persuade more people to buy local goods.
+
+@@ BUS-09
+title: Is marketing the key to business success?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Sponsorship and Marketing · Advertising, Consumerism and Buying What We Don't Need
+I: It is often argued that marketing and promotion are the most important factors in the success of a business. I completely agree with this view because marketing helps companies to reach customers and it also builds a strong brand.
+B1: {P} The main reason why I agree with this idea is that marketing helps companies to reach customers. {E} This is because [[customers cannot buy something they do not know exists]], however good the product may be. {E} [[Social media has transformed marketing]]; as a result, even a small company can now reach a very large audience at a low cost. {X} For example, a small online clothing shop in Dhaka can attract thousands of customers through a clever and low-cost social media campaign, and this can turn a small idea into a real business. {L} Therefore, marketing is the first step towards commercial success.
+B2: {P} Another important reason for my agreement is that marketing builds a strong brand. {E} When customers recognise and trust a name, they return to it, and [[marketing certainly helps businesses to reach customers, build brand recognition and compete with rivals]]. {X} For instance, a shopper choosing between two similar soft drinks will usually pick the famous one, which shows how a strong brand helps a company to keep loyal customers. {R} Although some people argue that [[**product quality**, good customer service, fair prices and innovation are equally important]], customers can judge these qualities only after marketing brings them to the business. {L} Consequently, marketing and promotion are the key to growth in a competitive market.
+C: In conclusion, I firmly believe that promotion is the key to building a successful company. Effective campaigns bring products to the attention of buyers, and they also create the well-known names that customers trust and choose again.
+
+@@ COM-07
+title: Celebrities: glamour or achievement?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Celebrities, Influencers and Role Models
+I: It is often argued that today's celebrities are known more for their glamour and wealth than for their achievements, which is a bad example for the young. I completely agree with this view because this encourages materialism and it also gives young people false ideas about success.
+B1: {P} The main reason why I agree with this idea is that celebrity culture encourages materialism among young people. {E} This is because [[reality television stars and influencers often show expensive clothes, cars, holidays and luxurious lifestyles]]. {E} [[Young people who follow them may come to believe that money, fame and appearance are the most important things in life]]; as a result, they may feel unhappy with what they have. {X} For example, a teenager who follows a rich influencer may pressure their parents to buy an expensive phone, and this can cause stress for a family on a modest income. {L} Therefore, this type of fame [[can encourage materialism and unrealistic expectations]].
+B2: {P} Another important reason for my agreement is that this gives young people false ideas about success. {E} When people become famous simply for their looks or money, young fans may stop seeing the value of study, effort and patience. {X} For instance, a student who sees someone become famous through a single online video may decide that hard work at school is unnecessary, which can harm their future career. {R} Although some people argue that [[sports stars show that success requires hard work, discipline and teamwork]], these positive examples are often hidden by the constant attention given to wealth and glamour. {L} Consequently, this celebrity culture continues to **set a bad example to** young people.
+C: In conclusion, I firmly believe that the modern focus on celebrity wealth and glamour is harmful to the younger generation. It makes teenagers care too much about possessions, and it also teaches them that fame matters more than real achievement.
+
+@@ REA-01
+title: Are books losing their importance?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Books, E-books and Reading
+I: It is often argued that books are becoming less important as a way of finding information and enjoying free time. I completely agree with this view because the internet is now the main source of information and screens have replaced books as entertainment.
+B1: {P} The main reason why I agree with this idea is that the internet is now the main source of information. {E} This is because, [[for quick information, people often search online rather than consult a book]]. {E} Online information is fast, free and constantly updated; as a result, [[many people, especially young people, spend less time reading books than in the past]]. {X} For example, a student who needs to know the date of a historical event will usually check their phone rather than open a history book, and this takes only a few seconds. {L} Therefore, books are no longer the first place where people look for knowledge.
+B2: {P} Another important reason for my agreement is that screens have replaced books as entertainment. {E} When people want to relax, many choose [[videos and games, which require less concentration]], and [[short social media posts have also changed reading habits, making it harder for some people to focus on long texts]]. {X} For instance, a commuter who once read a novel on the bus may now watch short videos on a phone, which shows how quickly leisure habits have changed. {R} Although some people argue that [[reading a book requires **deep concentration** and imagination]], this benefit does not stop most people from choosing easier forms of entertainment. {L} Consequently, books are losing their place in everyday life.
+C: In conclusion, I firmly believe that books are becoming less important for both learning and leisure. People now turn to search engines for facts, and they also spend their free time on videos and games instead of reading.
+
+@@ REA-04
+title: Will e-books replace paper books?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Paper books will never disappear.
+ideas: Books, E-books and Reading
+I: While some people argue that e-books will cause the death of paper books, others believe that printed books will never disappear. I completely support the latter view because many readers still prefer the feel of real pages.
+B1: {P} On the one hand, people who expect e-books to win argue that they have many practical advantages over printed ones. {E} [[They are often cheaper than paper books, and some are free.]] {E} [[A single device can store thousands of books, which is convenient for travellers and students]]; as a result, their popularity keeps growing among young people. {X} For example, [[a student carrying hundreds of e-books on one tablet]] no longer needs a heavy school bag, and this makes daily travel much easier. {L} For this reason, many people believe that paper books will soon disappear completely.
+B2: {P} On the other hand, I firmly believe that paper books will survive because [[many people still prefer **paper books**]]. {E} When people read real pages, they can [[concentrate without the distractions of notifications]], and they do not suffer from eye strain. {X} For instance, many parents still prefer to read printed picture books to their young children at bedtime, which keeps screens out of the bedroom. {R} Although some people argue that e-books are cheaper and easier to carry, [[paper books do not need batteries and can be shared, lent or kept as part of a personal library]]. {L} Consequently, printed books will continue to have a place in people's lives.
+C: In conclusion, people hold different views on whether e-books will replace paper books completely. While digital books are cheap and convenient, I firmly believe that paper books will never disappear because many readers prefer printed pages and fewer distractions.
+
+@@ SPO-08
+title: Must sports stars always be role models?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Celebrities, Influencers and Role Models
+I: Because children often idolise professional sports people, it is often argued that these stars must always be good role models. I completely agree with this view because children copy their behaviour and sports stars benefit greatly from public attention.
+B1: {P} The main reason why I agree with this idea is that children copy the behaviour of their heroes. {E} This is because young fans see these players as examples of success, so they admire everything they do on and off the field. {E} When a famous player behaves badly, the story is reported everywhere; as a result, even very young children can see it. {X} For example, if a star footballer attacks a referee, young players may start arguing with referees in school matches, and this can damage the spirit of the game. {L} Therefore, [[children copy them, and this gives them a responsibility]].
+B2: {P} Another important reason for my agreement is that sports stars benefit greatly from public attention. {E} When players become famous, they should give something back, because [[they benefit from public attention and money from fans and sponsors]]. {X} For instance, a cricketer who appears in advertisements earns a lot of money because children admire them, which means that they should protect that trust. {R} Although some people argue that [[celebrities are ordinary human beings who did not choose to be role models]], these players chose a public career and accepted its rewards. {L} Consequently, players who accept these rewards should also accept their duty to behave well in public.
+C: In conclusion, I firmly believe that top athletes have a duty to set a good example for children at all times. Young fans imitate what they see, and the wealth and fame that players enjoy also come with responsibility.

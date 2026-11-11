@@ -1,0 +1,54 @@
+@@ GOV-01
+title: Lifestyle decisions: government or individuals?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Individuals should make their own lifestyle decisions.
+ideas: The Role of Government: Laws, Lifestyle and Individual Freedom (the Health sheet has a second, health-focused answer to this question)
+I: While some people argue that governments should control how citizens live, others believe that these decisions belong to individuals. I completely support the latter view because adults have the right to run their own private lives.
+B1: {P} On the one hand, people who support government action argue that [[laws can also protect people from harm]]. {E} [[Seat-belt laws, speed limits, bans on smoking in public places and food safety rules have saved many lives.]] {E} Dangerous behaviour can be controlled by clear rules; as a result, the whole of society becomes safer. {X} For example, a driver who is fined for not wearing a seat belt may wear one every day, and this can save their life in an accident. {L} For this reason, many people believe that governments should make lifestyle decisions.
+B2: {P} On the other hand, I firmly believe that individuals should decide because [[adults should have the **right to make their own decisions** about their private lives, as long as they do not harm others]]. {E} [[If governments decide what people eat, wear or do in their free time, citizens may feel that their freedom is being taken away, and they may lose trust in their leaders.]] {X} For instance, a person who is told what clothes to wear may start to resent the government, which can damage public trust. {R} Although some people argue that laws save lives, these rules are about public safety, not private lifestyle choices. {L} Consequently, private decisions should be left to people themselves.
+C: In conclusion, people hold different views on whether lifestyle decisions should be made by governments or by individuals. While road safety laws can save lives, I firmly believe that people should make these decisions because freedom is essential in private life.
+
+@@ GOV-02
+title: More defence spending, fewer social benefits?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Education versus Defence · Welfare and Poverty
+I: It is sometimes claimed that, because governments must keep citizens safe, they should spend more on the military and less on social benefits. I completely disagree with this view because social benefits also protect people and excessive military spending is often wasteful.
+B1: {P} The main reason why I disagree with this idea is that social benefits also protect people. {E} This is because [[the main argument for welfare is that it acts as a **safety net**]], and [[people can lose their jobs, become seriously ill or suffer accidents through no fault of their own]]. {E} [[Without support, they may fall into deep poverty, lose their homes or be unable to feed their children]]; as a result, many citizens would face daily danger. {X} For example, a worker who loses their job can still feed their family while they retrain, and this support can prevent a temporary problem from becoming a disaster. {L} Therefore, social benefits make citizens safer, just as an army does.
+B2: {P} Another important reason for my disagreement is that excessive military spending is often wasteful. {E} When governments buy more weapons than they need, they lose money for public services, as [[modern weapons are extremely expensive, and money spent on them cannot be used for schools, hospitals or infrastructure]]. {X} For instance, a country with no immediate threat may buy new fighter planes while village hospitals have no medicine, which does little to protect ordinary families. {R} Although some people argue that [[a government's **first responsibility** is to protect its citizens]], a larger army cannot protect them from hunger, illness or unemployment. {L} Consequently, [[defence spending should be sufficient to protect the country]] and should not grow at the cost of welfare.
+C: In conclusion, I firmly believe that governments should not cut welfare in order to pay for more armed forces. Financial support keeps vulnerable people secure, and large weapons budgets also take money away from more useful public services.
+
+@@ GOV-03
+title: Childhood obesity: government or parents?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Parents are responsible for the rise in childhood obesity.
+ideas: The Role of Government (protecting children) · Ch. 04 Health Idea Bank: Obesity — Causes and Responsibility (most highlighted sentences)
+I: While some people argue that the government is to blame for rising obesity among children, others believe that parents are at fault. I completely support the latter view because parents decide what their children eat every day.
+B1: {P} On the one hand, people who blame the government argue that it controls the environment in which children grow up. {E} [[In some cities, there are few safe parks or playgrounds, so parents prefer to keep their children indoors.]] {E} [[Many children spend hours playing video games instead of playing outside, and they are surrounded by advertisements for snacks and soft drinks.]] {X} For example, if junk food can be advertised freely during cartoons, children will keep asking for it, and this makes healthy eating harder for every family. {L} For this reason, many people believe that the government is responsible for childhood obesity.
+B2: {P} On the other hand, I firmly believe that parents are responsible because [[parents decide what their children eat at home]]. {E} When children are young, they cannot make informed decisions, so they eat the food that adults provide. {X} For instance, a child who is given fried snacks and soft drinks at home every day is likely to gain weight, whatever the government does. {R} Although some people argue that advertising and the lack of parks are to blame, [[parents can prepare home-cooked meals, limit screen time, encourage outdoor play and act as role models]]. {L} Consequently, parents hold the real responsibility for their children's weight.
+C: In conclusion, people hold different views on whether governments or parents are to blame for rising obesity among children. While advertising and a lack of parks make healthy living harder, I firmly believe that parents are responsible because they control daily meals.
+
+@@ GOV-05
+title: Cut arts funding to pay for education?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Arts versus Science Funding · Education versus Defence · Healthcare and Public Services (waste and corruption)
+I: It is sometimes claimed that the government should cut its arts budget and move this money to schools and universities. I completely disagree with this view because the arts budget is too small to help education and cutting it would harm culture and learning.
+B1: {P} The main reason why I disagree with this idea is that the arts budget is too small to make a real difference to education. {E} This is because arts funding is usually a very small part of public spending, while schools and universities need very large sums of money. {E} Moving this money would not pay for many teachers or buildings; as a result, education would gain little and the arts would lose almost everything. {X} For example, the cost of running a national theatre for a year might repair only a few village schools, and this would do little for an entire school system. {L} Therefore, governments should look for this money in other places, such as by reducing waste and corruption.
+B2: {P} Another important reason for my disagreement is that cutting the arts budget would harm culture and learning. {E} When public support disappears, culture suffers, because [[many valuable art forms, especially traditional ones such as folk music, crafts and classical dance, cannot survive on ticket sales alone]]. {X} For instance, a folk dance group that earns little from tickets may close without public money, which would also end its free performances for local schoolchildren. {R} Although some people argue that [[education is the **foundation of long-term development**]], creative skills are an important part of that education. {L} Consequently, reducing arts funding would damage the very thing that it is supposed to improve.
+C: In conclusion, I firmly believe that taking money from the arts is the wrong way to pay for education. The amount saved would be too small to help schools, and the loss would also damage national culture and children's development.
+
+@@ GOV-06
+title: Can only governments change society?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Individuals can have a great influence on society.
+ideas: The Role of Government: Laws, Lifestyle and Individual Freedom · Museums, Libraries and Heritage (the Language Movement)
+I: While some people argue that only governments can bring about real change in society, others believe that individuals can be very influential. I completely support the latter view because many important changes began with ordinary people.
+B1: {P} On the one hand, people who support the role of government argue that [[some problems are too large for individuals to solve alone]]. {E} [[Only governments can **pass laws**, collect taxes and build national systems such as hospitals, schools, roads and electricity networks.]] {E} Large sums of public money are required for such projects; as a result, ordinary citizens cannot provide them. {X} For example, no individual, however rich, could build a national railway alone, and this kind of project can change the lives of millions. {L} For this reason, many people believe that only governments can make significant changes.
+B2: {P} On the other hand, I firmly believe that individuals have great influence because [[many important changes began with ordinary people]]. {E} When citizens refuse to accept injustice, they can attract wide support, and [[public campaigns often begin with citizens and later become government policy]]. {X} For instance, the Language Movement of 1952 in Bangladesh was started by students and ordinary citizens, which shows that people can change history. {R} Although some people argue that only governments can pass laws, [[today, social media allows a single person to **raise awareness** of a problem and mobilise thousands of supporters]]. {L} Consequently, significant change does not depend on governments alone.
+C: In conclusion, people hold different views on whether major changes in society come from governments or from individuals. While governments have the power to pass laws, I firmly believe that individuals can be very influential because ordinary people started many important movements.

@@ -1,0 +1,54 @@
+@@ ENV-01
+title: Can human damage to nature be reversed?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Determined action can still bring about real change.
+ideas: Wildlife, Endangered Species and Biodiversity · Deforestation and Natural Places
+I: Human activity has seriously damaged plants and animals worldwide. While some people argue that this damage cannot be reversed, others believe that determined action can still change the situation. I completely support the latter view because many damaged areas can recover.
+B1: {P} On the one hand, people who hold the pessimistic view argue that the damage is too great to stop. {E} [[As human populations grow, forests are cleared for farms, roads, housing and industry, leaving animals with nowhere to live and find food.]] {E} Natural habitats are being lost faster than they can recover; as a result, many species are in danger. {X} For example, [[the Sundarbans mangrove forest is home to the Bengal tiger, but pressure from human activity and rising sea levels threatens this unique environment]]. {L} For this reason, many people believe that the damage to nature cannot be changed.
+B2: {P} On the other hand, I firmly believe that action can bring change because [[large-scale tree-planting programmes, especially with native species, can restore damaged land]]. {E} When wildlife is protected by [[**strict anti-poaching laws**]] and local people are employed as forest guards, illegal hunting falls, and damaged forests can recover. {X} For instance, a village guide who earns money from eco-tourism has a strong reason to protect the forest, which helps wildlife to return. {R} Although some people argue that growing populations will always destroy nature, people can also choose to protect it when they gain from doing so. {L} Consequently, the harm done to plants and animals can still be changed.
+C: In conclusion, people hold different views on whether the damage to plants and animals can be reversed. While growing populations put great pressure on nature, I firmly believe that change is possible because protected forests can recover.
+
+@@ ENV-02
+title: Is wildlife protection a waste of government money?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Wildlife, Endangered Species and Biodiversity · Economic Growth versus Environmental Protection
+I: It is often said that governments spend too much on protecting wildlife when more serious problems need their attention. I completely disagree with this view because conservation protects the natural systems that humans depend on and also creates jobs for local communities.
+B1: {P} The main reason why I disagree with this idea is that protecting wildlife also protects the natural systems that humans need. {E} This is because [[every species plays a role in its ecosystem]], and [[if one species disappears, the whole system can be affected]]. {E} [[Bees and other insects pollinate many of the crops we eat]]; as a result, losing them would directly threaten the food supply of millions of people. {X} For example, a village that loses its bees may harvest far less fruit and fewer vegetables, and this can leave many families without enough food. {L} Therefore, money spent on wildlife is also money spent on human survival.
+B2: {P} Another important reason for my disagreement is that wildlife projects bring direct economic benefits to people. {E} When visitors come to see rare animals, they spend money, because [[national parks and wildlife reserves attract tourists, who pay for guides, hotels and food, creating jobs for local people]]. {X} For instance, a villager near a forest reserve who works as a guide can earn a steady income, which gives their family a reason to protect the animals. {R} Although some people argue that [[a hospital or school should come before a tiger reserve]], [[the money spent on conservation is usually a small part of national budgets]]. {L} Consequently, cutting these projects would save very little money and cost poor communities a valuable source of income.
+C: In conclusion, I firmly believe that public money spent on wildlife is not wasted, even when other serious problems exist. Healthy ecosystems support human life, and nature-based tourism also gives poor communities a reliable way to earn money.
+
+@@ ENV-03
+title: Increasing the cost of fuel
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Climate Change: Causes and Who Is Responsible · Renewable Energy and Fossil Fuels · Cities: Air Pollution, Traffic and Green Spaces
+I: It is sometimes claimed that making fuel more expensive is the most effective answer to the world's environmental problems. I completely disagree with this view because higher prices hurt poor families most and they do nothing to solve many other environmental problems.
+B1: {P} The main reason why I disagree with this idea is that higher fuel prices hurt poor families most. {E} This is because poor households spend a larger share of their income on transport and cooking fuel than wealthy households do. {E} The prices of food and other goods also rise when transport becomes more expensive; as a result, these families may have to spend less on meals or school fees. {X} For example, a rickshaw puller who must pay more for rice and vegetables may have to take a child out of school, while rich drivers will hardly notice the difference. {L} Therefore, this policy places the heaviest burden on those who have done least to cause the problem.
+B2: {P} Another important reason for my disagreement is that fuel prices do nothing to solve many other environmental problems. {E} When governments rely only on fuel costs, they ignore issues that have little connection with petrol, such as deforestation, plastic waste and illegal hunting. {X} For instance, a higher diesel price will not stop a company from dumping plastic in a river or cutting down a forest, which needs strict laws instead. {R} Although some people argue that expensive fuel makes people drive less, [[a person cannot take the bus if there is no reliable bus service]]. {L} Consequently, [[governments should create the rules and the infrastructure that make green choices easy and affordable]] instead of simply raising prices.
+C: In conclusion, I firmly believe that raising the price of fuel is not the best way to protect the global environment. This policy is unfair to low-income households, and it also leaves problems such as plastic waste and forest loss untouched.
+
+@@ ENV-04
+title: An international car-free day
+type: Discussion (both views + opinion)
+format: discuss
+pos: Other measures are more effective than a car-free day.
+ideas: Cities: Air Pollution, Traffic and Green Spaces · Environmental Education and Individual Action
+I: While some people argue that an international car-free day can reduce air pollution effectively, others believe that there are better solutions. I completely support the latter view because one day cannot solve a problem that exists all year.
+B1: {P} On the one hand, people who support car-free days argue that they **raise public awareness** of dirty air. {E} [[Some cities have tried car-free days or charges for driving in the city centre, which raise awareness and reduce traffic.]] {E} Streets are closed to traffic for a day; as a result, people see how much cars affect their city. {X} For example, a family who walks or cycles on a car-free day may discover that short journeys do not need a car, and this can change their habits. {L} For this reason, many people believe that such a day is an effective way to reduce pollution.
+B2: {P} On the other hand, I firmly believe that other measures are more effective because air pollution continues all year. {E} When a car-free day ends, drivers simply return to their cars, but [[governments can **invest in public transport**, such as metro rail systems and reliable bus networks]]. {X} For instance, a worker in Dhaka who can take the metro rail to the office every day may leave their motorbike at home, which reduces pollution all year. {R} Although some people argue that a car-free day raises awareness, awareness alone cannot help people who have no other way to travel. {L} Consequently, [[if cities invest in public transport, fewer people will drive, and the air will become cleaner]].
+C: In conclusion, people hold different views on whether a car-free day is the best way to reduce air pollution. While such a day can raise awareness, I firmly believe that other solutions are better because public transport reduces traffic every day.
+
+@@ ENV-05
+title: Global warming or deforestation?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Global warming is the more urgent problem.
+ideas: Deforestation and Natural Places · Climate Change: Causes and Who Is Responsible
+I: While some people argue that deforestation is doing the most damage to our planet, others believe that global warming is the most urgent environmental problem. I completely support the latter view because it affects every country.
+B1: {P} On the one hand, people who focus on forests argue that deforestation causes immediate and visible damage. {E} [[Large areas of forest are cleared to create farmland for crops and cattle, or to grow plantation crops such as palm oil.]] {E} [[Without tree roots to hold the soil, heavy rain can wash it away, causing **soil erosion**, floods and landslides]]; as a result, homes and lives can be lost. {X} For example, when hills are cleared for housing, nearby villages may be buried by landslides in the rainy season, and whole families may lose their homes. {L} For this reason, many people believe that deforestation has the more devastating impact.
+B2: {P} On the other hand, I firmly believe that global warming is the more pressing problem because it threatens the whole planet. {E} When temperatures rise, storms and droughts become stronger, and [[farmers in many regions suffer from unpredictable rainfall, which **threatens food security**]]. {X} For instance, [[low-lying countries such as Bangladesh face more frequent floods and cyclones, and salt water is entering farmland in coastal areas, making it harder to grow crops]]. {R} Although some people argue that cleared forests cause faster damage, these losses are mainly local, whereas rising temperatures harm people in every region. {L} Consequently, global warming is the greatest environmental threat today.
+C: In conclusion, people hold different views on whether deforestation or global warming is the more serious problem. While cutting down forests causes severe local damage, I firmly believe that global warming is worse because it affects the whole world.

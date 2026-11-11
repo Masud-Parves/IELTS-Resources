@@ -1,0 +1,55 @@
+@@ TOU-01
+title: What benefits does tourism bring?
+format: double
+pattern: List + List
+type: Double Question — List + List (individuals + society)
+pos: No opinion is asked for. Individuals gain rest and cultural knowledge; society gains jobs and better infrastructure.
+ideas: International Tourism: Benefits
+I: Tourism has become one of the most important industries in many countries. It gives individuals rest and a broader view of the world, and it brings society jobs and better infrastructure.
+B1: {P} One of the main benefits of travel for individuals is the chance to rest. {E} [[It allows people to relax, escape from daily stress and enjoy new experiences.]] {X} For example, an office worker who spends a week by the sea after a busy year may return to work calmer and more productive, and this also benefits her health. {P} Another important benefit is that travel teaches people about other cultures. {E} [[When tourists visit a country, they learn about its history, traditions, food and way of life.]] {L} Consequently, [[many people remember their journeys as some of the most valuable experiences of their lives]].
+B2: {P} One of the main benefits for society is employment. {E} [[Tourism creates **jobs** for hotel staff, tour guides, drivers, cooks, artists and craftspeople, many of whom may have limited opportunities in other industries.]] {X} For instance, a young man in Cox's Bazar who becomes a tour guide can earn a steady income without moving to Dhaka, which keeps his family together and supports the local economy. {P} Another important benefit is better infrastructure. {E} [[To attract visitors, governments often invest in roads, airports, electricity, water supply and communication networks.]] {L} Consequently, [[these improvements also benefit local residents, making it easier for them to travel, run businesses and access services]].
+C: In conclusion, tourism helps individuals to relax and understand other cultures more deeply. It also creates jobs and encourages investment in roads and public services, which improves life for whole communities.
+
+@@ TOU-02
+title: More flights: environmental problems and solutions
+type: Problem and Solution
+format: causesol
+pos: Problems: high carbon emissions and damage near airports. Solutions: fair environmental taxes; high-speed trains for shorter journeys.
+ideas: Ch. 03 Environment Idea Bank: Air Travel, Tourism and the Environment (the Environment sheet answers TOU-09 and TOU-10 on the same topic)
+I: As tourism expands, the demand for air travel continues to rise around the world. This growth increases carbon emissions and damages areas near airports, but fair environmental taxes and high-speed trains can reduce these effects.
+B1: {P} The most serious environmental problem caused by this growth is the high level of **carbon emissions**. {E} [[Aeroplanes burn large amounts of fuel]], and [[there are few clean alternatives for long-distance flights at present.]] {X} For example, a tourist who takes one long-distance return flight can produce as much carbon [[as several months of driving]], and this damage grows as more people travel. {P} Another problem is the harm that airports cause to the areas around them. {E} They create noise pollution for nearby residents and [[take up large areas of land]], which may once have been farmland or forest. {L} Consequently, more flights damage both the global climate and local communities.
+B2: {N} The most effective way to reduce these emissions is to introduce fair **environmental taxes**, [[especially for people who fly very frequently.]] {E} [[Higher prices could reduce unnecessary flights]], and the money raised could be invested in clean energy. {X} For instance, a business traveller who pays more for every extra trip may replace some meetings with online calls, which reduces emissions without affecting families who rarely fly. {N} In addition, governments could invest in [[high-speed trains for shorter journeys.]] {E} When passengers have a fast and comfortable alternative, short flights become less necessary, so airports cause less noise and need less new land. {L} Together, these measures would allow people to travel while causing far less environmental damage.
+C: In conclusion, rising demand for flights harms the climate and the communities living near airports. Well-designed taxes and better rail connections would limit this damage without preventing people from travelling.
+
+@@ TOU-03
+title: Eco-tourism and local communities
+type: Problem and Solution
+format: causesol
+pos: Problems: culture turned into a product and rising costs for residents. Solutions: community control over tourism; more local jobs and income.
+ideas: Tourism and Local Communities
+I: Eco-tourism brings visitors to remote areas, and many people worry about its impact on local life. It can turn culture into a product and raise living costs, but community planning and local jobs can reduce these effects.
+B1: {P} [[One major concern is that tourism can turn local culture into a **commercial product**.]] {E} [[Traditional dances, ceremonies and crafts may be performed or produced mainly to entertain tourists, losing their original meaning.]] {X} [[For example, a sacred ritual may be shortened and repeated several times a day for visitors, becoming more of a show than a spiritual event.]] {P} Another problem is the economic pressure on local residents. {E} [[When tourism grows rapidly, the cost of land, housing and food may rise, making life more expensive for local residents.]] {L} Consequently, local communities may lose their traditions without receiving a fair share of the income.
+B2: {N} The most effective solution is to give local people control over how their culture is presented. {E} [[Local communities should be involved in planning and decision-making, so that tourism meets their needs and respects their values.]] {X} For instance, a hill village that decides when visitors can watch its ceremonies can protect their meaning, which keeps them spiritual rather than commercial. {N} In addition, tour companies could employ more people from the local area. {E} [[Training local people as guides, cooks and hosts ensures that more of the income stays in the community]], which helps residents to afford rising prices. {L} Together, these measures would allow visitors to enjoy remote areas without harming the people who live there.
+C: In conclusion, eco-tourism can commercialise traditions and make daily life more expensive for residents. Giving communities a real voice and more of the income would protect both their culture and their livelihoods.
+
+@@ TOU-04
+title: Will travel programmes replace real travel?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: International Tourism: Benefits · Ch. 03 Environment Idea Bank: Air Travel, Tourism and the Environment
+I: It is sometimes claimed that, as more people watch travel programmes on television and social media, fewer will pay to travel overseas. I completely disagree with this view because a screen cannot replace real travel and these programmes often make people more eager to visit.
+B1: {P} The main reason why I disagree with this idea is that a screen cannot replace real travel. {E} This is because [[watching a video cannot replace the real experience of tasting local food, meeting people and seeing famous places in person]]. {E} Travel also involves all the senses and unexpected moments; as a result, a programme can only show a small part of what a place is like. {X} For example, a family can watch a documentary about Paris, but they cannot walk along its streets, and this is why many still want to go. {L} Therefore, a travel programme can never remove the wish to experience these places in person.
+B2: {P} Another important reason for my disagreement is that these programmes often make people more eager to travel. {E} When viewers see beautiful places on a screen, they often want to see them for themselves, so these programmes act as free advertising for tourism. {X} For instance, after watching videos of the Sundarbans, many young people plan trips to see the forest for themselves, which brings more visitors to the area. {R} Although some people argue that travel is too expensive, [[cheaper flights, higher incomes and the growth of the tourism industry mean that millions of people now fly abroad every year]]. {L} Consequently, these programmes will not reduce people's desire to travel abroad.
+C: In conclusion, I firmly believe that travel shows will not stop people from paying to go abroad. Watching a video is very different from being there in person, and attractive images also inspire viewers to plan their own trips.
+
+@@ TOU-05
+title: Should tourism be banned to protect local culture?
+type: Discussion (both views + opinion)
+format: discuss
+pos: Banning tourism would bring no benefits.
+ideas: Tourism and Local Communities · International Tourism: Benefits
+I: While some people argue that tourism should be banned in certain areas to protect local culture, others believe that change is unavoidable and that such bans bring no benefits. I completely support the latter view because communities need tourist income.
+B1: {P} On the one hand, people who support bans argue that [[contact with large numbers of visitors may encourage young people to copy foreign fashions, behaviour and consumer habits]]. {E} [[Tourists who do not respect local customs, for example by wearing inappropriate clothing at religious sites or behaving loudly, can cause offence and tension.]] {E} Traditions are also changed to please visitors; as a result, they may lose their meaning. {X} For example, [[a village dance performed only for tourists]] may slowly lose its original meaning, and this is a real loss to the community. {L} For this reason, many people believe that tourism should be banned in these areas.
+B2: {P} On the other hand, I firmly believe that a ban would bring no benefits because [[banning tourism would remove important income and opportunities from poor communities]]. {E} [[When local communities see that tourists are interested in their traditions, crafts and natural environment, they may feel prouder of their heritage and more motivated to protect it.]] {X} For instance, a local guide who earns money from visitors has a strong reason to keep traditions alive, which helps young people to value their culture. {R} Although some people argue that tourists damage traditions, local culture will change anyway through television and the internet. {L} Consequently, banning tourism would harm local people without protecting their culture.
+C: In conclusion, people hold different views on whether banning tourism is the right way to protect local culture. While careless visitors can cause offence, I firmly believe that bans bring no benefits because they remove income and reduce pride in local traditions.

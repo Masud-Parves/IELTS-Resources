@@ -1,0 +1,182 @@
+/* IELTS Writing Task 2 Topic Idea Bank — PDF style
+   Body text 15.5pt (user asked for 15–16pt). Do not go below 15pt. */
+
+@page {
+  size: A4;
+  margin: 18mm 16mm 20mm 16mm;
+  @bottom-center {
+    content: "Page " counter(page) " / " counter(pages);
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 10pt;
+    color: #777;
+  }
+}
+
+:root {
+  --ink: #1d1d1f;
+  --accent: #1f4e79;
+  --accent-soft: #e8f0f8;
+  --bn-bg: #fff8ec;
+  --bn-border: #e0a64a;
+  --tip-bg: #eef7ee;
+  --tip-border: #4c9a4c;
+}
+
+html { font-size: 15.5pt; }
+
+body {
+  font-family: "Georgia", "Cambria", "Nirmala UI", serif;
+  color: var(--ink);
+  line-height: 1.6;
+  margin: 0;
+  background: #fff;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Segoe UI", "Nirmala UI", Arial, sans-serif;
+  color: var(--accent);
+  line-height: 1.3;
+  break-after: avoid;
+}
+
+h1 { font-size: 26pt; margin: 0 0 8pt; border-bottom: 3px solid var(--accent); padding-bottom: 6pt; }
+h2 { font-size: 21pt; margin: 22pt 0 8pt; border-bottom: 2px solid var(--accent-soft); padding-bottom: 4pt; }
+h3 { font-size: 18pt; margin: 18pt 0 6pt; }
+h4 { font-size: 16pt; margin: 14pt 0 4pt; color: #333; }
+
+/* Each major part starts on a new page */
+h2.part, .part-break { break-before: page; }
+
+p { margin: 0 0 10pt; text-align: justify; }
+li { margin-bottom: 4pt; }
+strong { color: #0b2f52; }
+
+/* Cover */
+.cover { text-align: center; padding-top: 60mm; break-after: page; }
+.cover h1 { border: none; font-size: 32pt; }
+.cover .sub { font-size: 18pt; color: #555; }
+
+/* Idea flow chain */
+.flow {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: var(--accent-soft);
+  border-radius: 8px;
+  padding: 10pt 14pt;
+  font-size: 15pt;
+  line-height: 1.9;
+}
+
+/* Tables (vocabulary, idea bank) */
+table { width: 100%; border-collapse: collapse; margin: 8pt 0 14pt; font-size: 14pt; }
+th, td { border: 1px solid #c9d3de; padding: 5pt 7pt; vertical-align: top; text-align: left; }
+th { background: var(--accent); color: #fff; font-family: "Segoe UI", Arial, sans-serif; }
+tr:nth-child(even) td { background: #f6f8fb; }
+tr { break-inside: avoid; }
+
+/* Bangla essay blocks */
+.bn {
+  font-family: "Nirmala UI", "Kalpurush", sans-serif;
+  font-size: 16pt;
+  line-height: 1.85;
+  background: var(--bn-bg);
+  border-left: 5px solid var(--bn-border);
+  padding: 8pt 14pt;
+  margin: 8pt 0 14pt;
+}
+.bn h4 { color: #8a5a00; margin-top: 8pt; }
+.bn p { text-align: left; }
+
+/* Tip / strategy boxes */
+.tip {
+  background: var(--tip-bg);
+  border-left: 5px solid var(--tip-border);
+  padding: 8pt 14pt;
+  margin: 8pt 0 14pt;
+}
+.tip p:last-child { margin-bottom: 0; }
+
+.question {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #f2f2f2;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 8pt 12pt;
+  font-style: italic;
+  margin: 6pt 0 10pt;
+}
+
+.essay-block { break-before: page; }
+
+/* Sentence-structure hint after each Bangla sentence, e.g. <span class="tag">Complex</span> */
+.tag {
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-size: 10.5pt;
+  color: #8a6d3b;
+  background: #f3e3c3;
+  border-radius: 4px;
+  padding: 0 4pt;
+  margin-left: 3pt;
+  white-space: nowrap;
+}
+
+/* Header-less tables (e.g. Word Bank grids written with an empty header row) */
+thead:has(th:empty) { display: none; }
+
+/* Exam-note blocks (```), e.g. the 5-minute brainstorm demo */
+pre {
+  font-family: "Consolas", "Courier New", monospace;
+  font-size: 12.5pt;
+  line-height: 1.5;
+  background: #f4f6f9;
+  border: 1px solid #c9d3de;
+  border-radius: 6px;
+  padding: 8pt 12pt;
+  white-space: pre-wrap;
+  break-inside: avoid;
+}
+
+/* PEEL(R) labels for model-answer sheets */
+.pl {
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-size: 9.5pt;
+  font-weight: 700;
+  color: #fff;
+  border-radius: 4px;
+  padding: 0 4pt;
+  margin-right: 3pt;
+  vertical-align: 2pt;
+  white-space: nowrap;
+}
+.pl-P { background: #1f4e79; }   /* Point */
+.pl-E { background: #2e7d32; }   /* Explain */
+.pl-X { background: #e07b00; }   /* Example */
+.pl-L { background: #6a1b9a; }   /* Link */
+.pl-R { background: #c62828; }   /* Response / Rebuttal */
+.model {
+  background: #fbfcfe;
+  border: 1px solid #d6dee8;
+  border-radius: 8px;
+  padding: 6pt 14pt 4pt;
+  margin: 8pt 0 10pt;
+}
+.model p { line-height: 1.75; }
+.plabel {
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-weight: 700;
+  color: #1f4e79;
+  margin: 10pt 0 2pt !important;
+  break-after: avoid;   /* keep "Body Paragraph 1 · N words" with its paragraph */
+}
+.wc { font-weight: 400; color: #777; font-size: 11pt; }
+
+/* Sentences reused from the chapter's Idea Bank (model-answer sheets) */
+.reuse {
+  background: #e3f4e1;
+  border-bottom: 2px solid #8cc68a;
+  padding: 0 1pt;
+}
+/* Sentence tables (step-by-step sheet): keep the label column narrow */
+.steps td:first-child, .steps th:first-child { width: 1%; white-space: nowrap; }
+.pl-T { background: #455a64; }   /* Topic sentence (Adv/Disadv) */
+.pl-S { background: #00838f; }   /* Summary (Adv/Disadv) */
+.pl-N { background: #00838f; }   /* Solution (Cause/Problem + Solution) */

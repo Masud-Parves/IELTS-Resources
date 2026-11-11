@@ -1,0 +1,55 @@
+@@ HEA-01
+title: Prevention or treatment?
+format: agree
+type: Agree / Disagree
+pos: I completely agree.
+ideas: Prevention versus Treatment: Government Health Spending
+I: It is often argued that stopping people from becoming ill matters more than curing them, and that public health budgets should follow this principle. I completely agree with this view because prevention is far cheaper than treatment and it also protects people's quality of life.
+B1: {P} The main reason why I agree with this idea is that prevention is far cheaper than treatment. {E} This is because [[it is usually **far cheaper** to prevent a disease than to treat it]], and public money is always limited. {E} [[Encouraging people to stop smoking, eat healthily and exercise can reduce the number of people who develop lung cancer, diabetes and heart disease]]; as a result, hospitals have more money for other patients. {X} For example, a campaign that helps thousands of people to stop smoking costs much less than treating them for lung cancer, and this saved money can then be used for other health services. {L} Therefore, [[prevention is an investment that makes treatment more affordable]].
+B2: {P} Another important reason for my agreement is that prevention protects people's quality of life. {E} When people avoid serious illness, they can continue to work, study and care for their families, and they do not have to suffer pain or long hospital stays. {X} For instance, a middle-aged worker whose high blood pressure is found during a regular check-up can change their diet and avoid a heart attack, which keeps them healthy and working. {R} Although some people argue that [[people will still have accidents, catch infections, develop genetic illnesses and grow old]], hospitals will need fewer resources when preventable diseases decline. {L} Consequently, government funding should give prevention the priority that it deserves.
+C: In conclusion, I firmly believe that stopping illness should be more important than curing it in public health spending. Early action saves large sums of public money, and it also allows citizens to live longer and more active lives.
+
+@@ HEA-02
+title: Why are more people overweight?
+type: Cause and Solution
+format: causesol
+pos: Causes: unhealthy diets and a lack of physical activity. Solutions: rules that make healthy food easier to choose; more chances for daily exercise.
+ideas: Obesity: Causes and Responsibility · Fast Food, Processed Food and Modern Diets · Exercise, Walking and the Sedentary Lifestyle
+I: A growing number of people now face serious health risks because they are overweight. This is mainly because of unhealthy diets and a lack of exercise, but healthier food policies and more active routines can tackle this problem.
+B1: {P} One of the main causes of this trend is [[an **unhealthy diet**, especially the regular consumption of fast food, sweets, fried snacks and sugary drinks.]] {E} [[Portion sizes have also grown, and many people eat more calories than their bodies need.]] {X} For example, an office worker who buys a burger and a sugary drink every lunchtime may eat too many calories, and this extra energy is stored as fat. {P} Another important cause is a **lack of physical activity**. {E} [[Many jobs now involve sitting at a desk all day, people travel by car or motorbike instead of walking, and leisure time is often spent watching television or using smartphones.]] {L} Consequently, many people burn far fewer calories than they consume.
+B2: {N} The most effective solution is for governments to make healthy food the easier choice. {E} If they tax sugary drinks and require clear food labels, people are less likely to buy unhealthy products. {X} For instance, an office worker who sees the sugar content on a clearly labelled drink may choose water instead, which reduces their daily calories. {N} In addition, governments and individuals could make exercise part of daily life. {E} When cities build parks and cycle lanes, people can walk or cycle more, and [[even simple activities, such as walking for thirty minutes a day, can make a significant difference.]] {L} Together, these measures would help people to **maintain a healthy weight**.
+C: In conclusion, more people are overweight because they eat too many calories and move too little. Clearer rules on food and more chances for daily activity would help people to stay healthy.
+
+@@ HEA-03
+title: More school sport for overweight children?
+format: double
+pattern: Opinion + List
+type: Double Question — Opinion + List (opinion + other solutions)
+pos: More school sport is not the best way, because diet matters more; healthier school food and better habits at home would work better. Same essay as Model Essay B in the Double Question guide.
+ideas: Children's Health, School Sport and Physical Education · Fast Food, Processed Food and Modern Diets
+I: More school sport is often suggested as an answer to the rising number of overweight children. I firmly believe that this is not the best way, and healthier school meals and better habits at home would work better.
+B1: {P} I firmly believe that extra school sport is not the best way to tackle this problem because [[diet has a stronger effect on weight than exercise]]. {E} When children regularly eat more calories than their bodies need, one extra hour of activity cannot balance them, so they continue to gain weight. {X} For example, [[a child who plays football for an hour at school but drinks several cans of soft drink and eats fried snacks at home will still gain weight]]. {R} Although some people argue that physical education keeps children active, it cannot undo the effects of an unhealthy diet. {L} Therefore, increasing school sport alone cannot be the most effective answer.
+B2: {N} The most effective alternative is for schools to improve the food that they provide. {E} If schools offer healthy lunches, sell fruit instead of sweets and remove sugary drinks from vending machines, children will find healthy choices much easier. {X} For instance, a pupil who can no longer buy a soft drink at break may start drinking water instead, which removes a large amount of sugar from their diet. {N} In addition, parents could build better habits at home. {E} When they prepare home-cooked meals and limit screen time, children eat fewer fried snacks and spend more time playing outside. {L} Together, these measures would tackle the main causes of childhood obesity far more effectively than extra sport.
+C: In conclusion, I firmly believe that adding more sport to the timetable is not the ideal answer because food matters more. Healthier school food and sensible routines at home would help children to reach a healthy weight.
+
+@@ HEA-04
+title: A return to traditional medicine?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Traditional Medicine and Modern Medicine
+I: Because modern medicines cannot cure many illnesses caused by today's way of life, it is sometimes claimed that people should go back to traditional remedies. I completely disagree with this view because these treatments can be dangerous and lifestyle diseases really need lifestyle change.
+B1: {P} The main reason why I disagree with this idea is that many traditional treatments can be dangerous. {E} This is because [[many traditional remedies have **not been scientifically tested**, so it is often unclear whether they work, what dose is safe or whether they interact dangerously with other medicines]]. {E} [[People may use traditional remedies instead of seeking proper medical treatment for serious illnesses]]; as a result, diagnosis may be delayed until it is too late. {X} For example, a patient with a serious infection who drinks herbal tea instead of taking antibiotics may become much worse, and this delay can even cost them their life. {L} Therefore, encouraging a return to these treatments would put many patients at risk.
+B2: {P} Another important reason for my disagreement is that lifestyle diseases really need lifestyle change. {E} When people become ill because of how they live, the answer is [[not necessarily traditional medicine but **lifestyle change** itself: better diet, more exercise, less stress and no smoking]]. {X} For instance, an office worker with high blood pressure can improve their health by walking every day and eating less salt, which requires no special remedy at all. {R} Although some people argue that [[some traditional remedies are cheap and easily available]], low cost does not make a treatment safe or effective. {L} Consequently, governments should promote healthy habits instead of encouraging people to rely on untested treatments.
+C: In conclusion, I firmly believe that traditional medicine should not be promoted as the answer to modern health problems. Untested remedies can seriously harm patients, and healthier daily habits are a far better way to deal with these conditions.
+
+@@ HEA-05
+title: Should healthcare be free for everyone?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Free Healthcare: Who Should Pay? · Prevention versus Treatment
+I: It is sometimes claimed that medical care should not be free for everyone, because each person controls their own health and should pay for it. I completely disagree with this view because many illnesses are beyond people's control and poor families cannot afford treatment.
+B1: {P} The main reason why I disagree with this idea is that many illnesses are beyond people's control. {E} This is because [[many illnesses are caused by genetics, accidents, poverty, pollution or old age, not by personal choices]]. {E} Nobody chooses to be born with a weak heart or to be injured in a road accident; as a result, it is wrong to blame patients for most medical problems. {X} For example, a child who develops a serious disease cannot be held responsible for it, and their treatment should not depend on what their parents earn. {L} Therefore, health is not simply in people's own hands, and [[it would also be very difficult and unfair to decide who "deserves" treatment]].
+B2: {P} Another important reason for my disagreement is that poor families cannot afford treatment. {E} When medical care is not free, [[poor families may delay seeing a doctor until a problem becomes serious, or they may have to sell land, borrow money or take children out of school to pay medical bills]]. {X} For instance, in many developing countries, [[a single serious illness can push a family into **long-term poverty**]], which can affect their children for many years. {R} Although some people argue that [[taxes must be high to pay for it]], [[no one should be denied treatment because they cannot afford it]]. {L} Consequently, essential healthcare should remain free regardless of a person's income.
+C: In conclusion, I firmly believe that every citizen should receive free medical care, whatever their income. Much sickness has nothing to do with personal choices, and free treatment also protects low-income households from debt and hardship.

@@ -1,0 +1,56 @@
+@@ ENV-06
+title: Local problems or global warming?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Climate Change: Causes and Who Is Responsible · Water, Farming and Food · Global Problems and International Cooperation
+I: It is often argued that governments should cut spending on local environmental problems and use this money for more serious threats such as global warming. I completely disagree with this view because local pollution damages people's health and it also destroys their livelihoods.
+B1: {P} The main reason why I disagree with this idea is that local pollution directly damages people's health every day. {E} This is because [[breathing polluted air every day can cause asthma, lung disease and heart problems, and children and elderly people are especially vulnerable]]. {E} Dirty rivers also spread disease in communities that have no other water supply; as a result, families face high medical bills and hospitals become overcrowded. {X} For example, a family that drinks from a polluted river may spend much of its income on medicine, and this harm is happening now, not decades in the future. {L} Therefore, local problems are urgent because they are already harming people today.
+B2: {P} Another important reason for my disagreement is that local environmental damage destroys people's livelihoods. {E} When governments ignore this damage, ordinary workers suffer first, as [[when rivers are poisoned, fishing communities lose their income, and when soil is damaged, farmers produce less food]]. {X} For instance, a fishing family whose river is full of factory waste may have to move to a city slum, which creates new social problems. {R} Although some people argue that global warming is a far greater threat, [[local problems, like a polluted river or a lack of parks in a city, are usually best solved by national and local authorities]]. {L} Consequently, governments must keep funding local projects, because nobody else will do this work.
+C: In conclusion, I firmly believe that money for local environmental projects should not be moved to global issues. Pollution nearby threatens public health now, and it also takes away the jobs and food that ordinary families need.
+
+@@ ENV-07
+title: Protecting places of natural beauty
+format: double
+pattern: List + List
+type: Double Question — List + List (benefits + solutions)
+pos: No opinion is asked for. Natural places improve health and support tourism; national parks and better housing plans can save them.
+ideas: Deforestation and Natural Places · Cities: Air Pollution, Traffic and Green Spaces · Air Travel, Tourism and the Environment
+I: As populations and cities grow, many countries are losing their places of natural beauty. These places improve people's health and support tourism, and their loss can be prevented through national parks and smarter city planning.
+B1: {P} One of the main benefits of protecting natural places is better health for people. {E} [[They provide **clean air and water**, protect biodiversity and offer people a place to relax and escape the stress of city life, which improves mental health.]] {X} For example, a family from Dhaka who spends a weekend in the tea gardens of Sylhet can breathe clean air and return home much calmer, and this helps them cope with city stress. {P} Another important benefit is that beautiful natural places attract visitors. {E} Tourists pay for hotels, guides, transport and food; as a result, places such as the beach at Cox's Bazar support thousands of local families. {L} Consequently, these places are valuable for both people's well-being and the national economy.
+B2: {N} The most effective solution is for governments to turn important beauty spots into national parks. {E} [[Governments can **declare protected areas** and national parks where cutting trees and building are banned, and they must enforce these laws strictly.]] {X} For instance, a hill forest that becomes a national park can no longer be cleared for housing, which keeps it safe for future generations. {N} In addition, city planners could find space for new homes without destroying nature. {E} [[Housing needs can often be met by building upwards or developing unused industrial land, rather than destroying parks.]] {L} Together, these measures would allow cities to grow while their natural beauty survives.
+C: In conclusion, places of natural beauty keep people healthy and bring tourism income to local communities. National parks and careful planning of new housing would protect them as cities continue to expand.
+
+@@ ENV-08
+title: Parks or housing and business?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Cities: Air Pollution, Traffic and Green Spaces · Economic Growth versus Environmental Protection
+I: It is sometimes claimed that city parks should be replaced with homes for the growing population or with businesses that support the economy. I completely disagree with this view because parks protect people's health and cities can find other land for development.
+B1: {P} The main reason why I disagree with this idea is that parks are essential for people's physical and mental health. {E} This is because [[parks give children a safe place to play and adults a place to exercise, relax and meet neighbours, which improves both physical and mental health]]. {E} [[Trees absorb pollution, provide shade and reduce temperatures in hot weather]]; as a result, people who live near green spaces can breathe cleaner air. {X} For example, in a crowded city such as Dhaka, a family living beside a large park can breathe cleaner air and escape the summer heat, and losing it would leave them with only traffic fumes. {L} Therefore, [[parks are not a luxury]] but a basic need for urban families.
+B2: {P} Another important reason for my disagreement is that cities can find other land for housing and business. {E} When a city needs more homes, [[housing needs can often be met by building upwards or developing unused industrial land, rather than destroying parks]]. {X} For instance, an old factory site can be turned into apartments while the nearby park remains open to everyone, which gives families both a home and a place to relax. {R} Although some people argue that [[a growing population needs housing and businesses need space to grow]], [[once a natural place is covered with concrete, it is almost impossible to restore it]]. {L} Consequently, destroying parks is a permanent loss that growing cities can easily avoid.
+C: In conclusion, I firmly believe that public green spaces should not be sacrificed for apartments or commercial buildings. They keep city residents healthy, and urban growth can take place on unused land without destroying them.
+
+@@ ENV-09
+title: Protecting endangered animals
+format: double
+pattern: Opinion + List
+type: Double Question — Opinion + List (opinion + measures)
+pos: Protecting animals is important; strict anti-poaching laws and community involvement would help.
+ideas: Wildlife, Endangered Species and Biodiversity · Deforestation and Natural Places
+I: Deforestation, urban development and illegal hunting are pushing many animal species towards extinction. I firmly believe that protecting animals is important, and strict anti-poaching laws and community involvement would help to save them.
+B1: {P} I firmly believe that protecting animals is important because every species helps to keep the natural system that humans depend on in balance. {E} [[Every species plays a role in its ecosystem; for instance, bees and other insects pollinate many of the crops we eat, and predators control the population of other animals.]] {X} For example, if bees disappeared from an area, farmers would lose much of their fruit and vegetable harvest, which would raise food prices for everyone. {R} Although some people argue that housing and farming should come first, people themselves suffer when wildlife disappears, because their food and water depend on healthy ecosystems. {L} Therefore, protecting animals is also a way of protecting ourselves.
+B2: {N} One important measure is for governments to enforce **strict anti-poaching laws** in protected areas. {E} When trained forest guards patrol national parks and hunters receive heavy fines or prison sentences, killing rare animals becomes far too risky. {X} For instance, a poacher who knows that rangers patrol the Sundarbans day and night is much less likely to hunt tigers there. {N} In addition, governments could employ local people as forest guards or tourist guides. {E} [[When communities earn money from living animals, they have a strong reason to protect them.]] {L} Together, these measures would give endangered species a real chance of survival.
+C: In conclusion, I firmly believe that saving animals matters because ecosystems and human life depend on them. Tough laws against hunting and jobs that reward local people for protecting wildlife would help endangered species to survive.
+
+@@ ENV-10
+title: Global warming: causes and solutions
+type: Cause and Solution
+format: causesol
+pos: Causes: burning fossil fuels and deforestation. Solutions: renewable energy incentives; protecting forests and planting trees.
+ideas: Climate Change: Causes and Who Is Responsible · Renewable Energy and Fossil Fuels · Deforestation and Natural Places
+I: Global warming is among the most serious dangers facing the natural world today. It is mainly caused by burning fossil fuels and destroying forests, but renewable energy and forest protection can tackle this problem.
+B1: {P} [[The main cause of global warming is the **burning of fossil fuels**.]] {E} [[When coal, oil and natural gas are burned in power stations, factories, cars and aeroplanes, they release carbon dioxide and other **greenhouse gases** into the atmosphere.]] {X} For example, a power station that burns coal to supply a large city releases carbon dioxide every day, and this gas traps [[heat around the Earth like a blanket.]] {P} Another important cause is deforestation, which is often carried out to create farmland. {E} [[Trees absorb carbon dioxide; when forests are cut down or burned, this natural protection is lost.]] {L} Consequently, more heat is trapped around the planet every year.
+B2: {N} The most effective solution is for governments to replace fossil fuels with **renewable energy**. {E} When they offer **financial incentives**, such as subsidies or tax reductions, households and businesses can afford solar panels, so less coal and oil are burned. {X} For instance, a Bangladeshi village family that installs solar panels with government help no longer depends on electricity from coal, which reduces its carbon emissions. {N} In addition, governments could protect the world's remaining forests. {E} They can [[**declare protected areas** and national parks where cutting trees and building are banned]], and [[large-scale tree-planting programmes, especially with native species, can restore damaged land.]] {L} Together, these measures would reduce greenhouse gases and slow the warming of the planet.
+C: In conclusion, global warming results mainly from the use of coal, oil and gas and the loss of trees. Clean power and stronger protection of woodland would significantly reduce this threat to the planet.

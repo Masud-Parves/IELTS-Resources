@@ -1,0 +1,54 @@
+@@ MED-06
+title: Should famous people have no right to privacy?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Privacy of Famous People · Media Responsibility and Press Freedom — this essay also answers COM-08, which asks the same question in different words
+I: As the press follows famous people more and more closely, it is sometimes claimed that these people should have no right to privacy. I completely disagree with this view because celebrities are human beings who need personal space and their families are also affected.
+B1: {P} The main reason why I disagree with this idea is that [[celebrities are human beings who need personal space, just like everyone else]]. {E} This is because [[constant attention from photographers and journalists can cause **stress, anxiety and depression**]]. {E} [[Much celebrity reporting is not in the public interest; it is simply gossip]]; as a result, this harm brings no real benefit to society. {X} For example, a singer who is followed to a hospital by photographers may have to deal with a private illness in public, and this gossip helps nobody while making a difficult time more painful. {L} Therefore, being famous should not mean losing all control over one's private life.
+B2: {P} Another important reason for my disagreement is that the press also harms innocent family members. {E} When journalists chase a celebrity, the whole family can suffer, because the children [[did not choose to be famous, yet they may be photographed at school or in the park and have their lives discussed publicly]]. {X} For instance, a famous footballer's young daughter may be bullied at school after a story about her parents appears online, which is unfair to a child who has done nothing wrong. {R} Although some people argue that [[many celebrities **actively seek publicity** to build their careers]], this choice applies to their work and not to their homes. {L} Consequently, the press should keep celebrities' children out of its stories.
+C: In conclusion, I firmly believe that well-known people should keep their right to a private life. Constant media attention damages their mental health, and it also causes real harm to relatives who never chose to be public figures.
+
+@@ MED-07
+title: Is there a future for radio?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Social Media versus Traditional News · Media Responsibility and Press Freedom (emergencies)
+I: It is sometimes claimed that radio has no future because online media has become so popular. I completely disagree with this view because radio is useful in situations where the internet is not and it is also adapting to new technology.
+B1: {P} The main reason why I disagree with this idea is that radio is useful in situations where the internet is not. {E} This is because [[people can listen while driving, working or cooking]], so they do not need to look at a screen. {E} [[It is important in rural areas and during emergencies when electricity or internet access is limited]]; as a result, millions of people still depend on it. {X} For example, during a cyclone, coastal villagers without electricity can still receive important warnings on a battery radio, and this information can save many lives. {L} Therefore, radio continues to provide a service that online media cannot always offer.
+B2: {P} Another important reason for my disagreement is that radio is also adapting to new technology. {E} When listeners move online, radio stations can follow them, as [[many radio stations now broadcast online as podcasts, adapting to new technology]]. {X} For instance, a young person who misses a favourite radio programme can download it to their phone and listen on the way to work, which gives the station a new audience. {R} Although some people argue that [[online media will make radio disappear]], radio is cheap, simple and easy to use, even for elderly people. {L} Consequently, radio will continue to have a place in modern life.
+C: In conclusion, I firmly believe that radio will survive in spite of the growth of online media. It remains valuable wherever screens and internet connections are impractical, and its move to digital platforms also brings it new listeners.
+
+@@ MED-08
+title: Television content or viewing time?
+type: Discussion (both views + opinion)
+format: discuss
+pos: The amount of time spent watching has the greater effect on children's behaviour.
+ideas: Television and Children's Behaviour
+I: While some people argue that children's behaviour is influenced by the content of television programmes, others believe that viewing time matters more. I completely support the latter view because long hours of television replace healthy activities.
+B1: {P} On the one hand, people who focus on content argue that [[children learn by imitation]]. {E} [[Young children often copy the words, actions and attitudes they see on screen.]] {E} [[If they watch programmes that show violence, rudeness or dangerous stunts, they may repeat this behaviour at home or at school.]] {X} For example, a young child who watches fighting cartoons every day may start hitting classmates in the playground, and this behaviour can be difficult to change later. {L} For this reason, many people believe that what children watch on television shapes how they behave.
+B2: {P} On the other hand, I firmly believe that viewing time matters more because [[children who watch television for many hours a day spend less time playing outside, reading, talking with family and making friends]]. {E} When children lose these activities, they have fewer chances to learn social skills, and their concentration can suffer. {X} For instance, [[a child watching cartoons for five hours a day]] may struggle to concentrate in class, which can lead to restless behaviour. {R} Although some people argue that violent programmes teach bad behaviour, [[even excellent educational programmes can be harmful if children watch them for many hours]]. {L} Consequently, time in front of a screen has the greater effect on behaviour.
+C: In conclusion, people hold different views on whether the content of programmes or the hours spent watching affect children's behaviour more. While violent shows can encourage copying, I firmly believe that viewing time matters more because long hours take children away from healthy activities.
+
+@@ MED-09
+title: Will streaming services close cinemas?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Films, Cinema and Streaming Services
+I: It is sometimes claimed that cinemas will eventually shut down because online film and series services have become so popular. I completely disagree with this view because home viewing cannot replace the cinema experience and cinemas are adapting to attract audiences.
+B1: {P} The main reason why I disagree with this idea is that [[cinemas offer an experience that home viewing cannot fully replace]]. {E} This is because [[the **big screen**, powerful sound systems and immersive atmosphere make films, especially action and fantasy films, more exciting and memorable]]. {E} [[Going to the cinema is also a **social activity**]]; as a result, friends and families enjoy it as a special outing. {X} For example, many families in Bangladesh go to the cinema together to watch new films during Eid holidays, and this has become an important part of the celebration. {L} Therefore, people will continue to visit cinemas even if they have streaming at home.
+B2: {P} Another important reason for my disagreement is that cinemas are adapting to attract audiences. {E} When customers have more choices, cinemas must give them more, as [[many cinemas now offer luxury seats, 3D and IMAX screens, food and drink services and special events to attract audiences]]. {X} For instance, a young couple may choose an IMAX film for a special evening out, which is an experience that they cannot have on a sofa at home. {R} Although some people argue that [[streaming services have many advantages]], convenience alone cannot match the excitement of a shared night out. {L} Consequently, [[cinemas are unlikely to disappear completely]], and they will remain popular.
+C: In conclusion, I firmly believe that online services will not force cinemas to close. A film on the big screen remains a unique shared event, and cinemas are also finding new ways to keep customers interested.
+
+@@ MED-10
+title: Positive and negative effects of consumerism
+format: advdis
+type: Advantages vs Disadvantages — Type 1 (positive and negative effects, no opinion)
+pos: No opinion is asked for, so there is no opinion or plan sentence; both sides are discussed in balance.
+ideas: Advertising, Consumerism and Buying What We Don't Need
+I: Companies spend huge sums on advertising, often persuading people to buy things that they do not really need. Although consumerism can cause debt and environmental damage, it also supports economic growth and encourages innovation.
+B1: {T} There is little doubt that consumerism offers considerable advantages to modern economies. {P} To begin with, the most significant benefit is its contribution to **economic growth**. {E} This is because when people buy more goods, companies produce more and hire more workers in factories, shops and transport. {X} For example, millions of workers are employed in Bangladesh's garment industry because of strong **global demand** for clothes, and their wages support whole families. {P} In addition, consumer spending not only creates jobs but also encourages companies to improve their products. {E} As a result of fierce competition between brands, firms develop better, cheaper and more convenient goods for their customers. {S} Overall, consumerism helps to create jobs, raise living standards and improve the products that people use every day.
+B2: {T} On the other hand, it cannot be denied that consumerism also has some drawbacks. {P} Firstly, many people spend money that they do not have. {E} Easy credit makes buying quick and simple; as a result, [[many people **fall into debt** through credit cards and loans, which can cause stress and family problems]]. {X} For instance, a young worker who buys the latest phone on credit every year may spend months repaying the loan, which leaves little money for savings. {P} Secondly, excessive buying can be a serious threat to the environment, as it [[creates huge amounts of **waste**]]. {E} If cheap clothes are thrown away after being worn only a few times, landfills grow and, consequently, land and water become more polluted. {S} Overall, these financial and environmental problems can harm both individuals and future generations.
+C: In conclusion, a culture of constant buying is now common in many countries. While consumerism may lead to personal debt and growing waste, it drives economic growth and better products.

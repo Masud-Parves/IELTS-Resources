@@ -1,0 +1,55 @@
+@@ CRI-13
+title: Why is crime higher in cities?
+type: Cause and Solution
+format: causesol
+pos: Causes: strong inequality and anonymity in cities. Solutions: jobs and youth programmes; neighbourhood watch groups.
+ideas: Crime in Cities and Crime Prevention · Causes of Crime
+I: In most countries, crime rates are higher in urban areas than in the countryside. This is mainly because of strong inequality and anonymity in cities, but more jobs and neighbourhood watch groups can reduce urban crime.
+B1: {P} One of the main causes of this difference is the strong **inequality** found in cities. {E} Wealthy and poor neighbourhoods exist side by side, [[which can create resentment and temptation.]] {X} For example, a jobless young person who lives beside a wealthy area may see expensive phones and cars every day, and this can tempt them to steal. {P} Another important cause is that city life is more anonymous. {E} [[People in cities often do not know their neighbours, so criminals can act **anonymously**, without being recognised.]] {L} Consequently, cities offer both stronger reasons to commit crime and a better chance of escaping notice.
+B2: {N} The most effective solution is for governments to [[tackle the causes of crime by creating jobs, improving schools and providing youth programmes and social support in poor neighbourhoods.]] {E} When young people have a steady income and useful activities, stealing becomes far less tempting. {X} For instance, a jobless young person who joins a training programme and finds work in a local workshop has less reason to steal, which also makes the neighbourhood safer. {N} In addition, communities could reduce anonymity by working together. {E} [[Communities can organise neighbourhood watch groups, in which residents look out for suspicious activity and report it to the police.]] {L} Together, these measures would bring some of the safety of village life to large cities.
+C: In conclusion, crime is higher in cities because inequality creates temptation and criminals can hide among strangers. Better opportunities for young people and stronger neighbourhood cooperation would make cities much safer.
+
+@@ CRI-14
+title: Is poverty behind most crimes?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Causes of Crime: Poverty, Education and Family · Drugs, Alcohol and Crime (planned in Part 2F)
+I: It is sometimes claimed that most crimes are committed because people are poor. I completely disagree with this view because most poor people never break the law and many serious crimes are caused by greed or addiction.
+B1: {P} The main reason why I disagree with this idea is that [[poverty alone does not explain all crime]]. {E} This is because [[most poor people are honest and never break the law]], even when they have very little money. {E} Many families teach their children that stealing is wrong, whatever their situation; as a result, millions of people stay honest in spite of hardship. {X} For example, a rickshaw puller who earns a small daily income may work long hours for many years without ever committing a crime, and this is true of countless poor workers. {L} Therefore, being poor cannot be described as the main reason why people commit crimes.
+B2: {P} Another important reason for my disagreement is that many serious crimes are caused by greed or addiction. {E} When wealthy people commit crimes, they do not need the money, as [[these **white-collar crimes** are driven by greed rather than need]]. {X} For instance, a corrupt official who accepts a large bribe is rarely poor, which shows that [[fraud, corruption, tax evasion and bribery]] can come from the wish for more wealth. {R} Although some people argue that [[**poverty and unemployment** are often linked to crime]], [[drug and alcohol addiction can lead people to steal in order to pay for their habit]], whatever their income. {L} Consequently, governments must look beyond poverty when they try to reduce crime.
+C: In conclusion, I firmly believe that a lack of money is not the reason behind most crimes. The majority of low-income people obey the law, and much serious offending also comes from personal greed and drug use.
+
+@@ CRI-15
+title: How can internet crime be tackled?
+format: causesol
+shape: solutions
+type: Solutions only (Cause/Problem + Solution guide, Section 14)
+pos: No opinion is asked for. Governments should create specialist police units, and banks should protect and educate their customers.
+ideas: Cybercrime and Online Fraud (the Technology sheet has another answer to this question)
+I: As more people use the internet to make payments and manage their savings, online crime is rising quickly. Governments can tackle this by creating specialist police units, and banks can help by protecting and educating their customers.
+B1: {N} The most effective solution is for governments to give the police the tools to fight online crime. {E} [[Governments should create specialist **cybercrime units** with trained officers and modern equipment, and they should pass strong laws against online fraud and data theft.]] {E} [[Because cybercrime crosses borders, **international cooperation** between police forces is essential for tracking and arresting criminals.]] {X} For example, if a fraudster abroad steals money from a bank account in Bangladesh, police in both countries can share information quickly to trace and arrest him. {L} Consequently, criminals would no longer feel safe hiding behind a screen in another country.
+B2: {N} In addition, banks could protect their customers more actively. {E} [[They can use stronger security systems, such as two-step verification, monitor unusual transactions and quickly block suspicious accounts.]] {E} Banks should also teach customers about common scams through text messages, posters and short videos, especially elderly people and new internet users. {X} For instance, a pensioner who is warned by text that banks never ask for PINs may refuse to share his code with a caller pretending to be from the bank, which protects his life savings. {L} Together, these measures would make online payments much safer for every customer.
+C: In conclusion, internet fraud can be reduced if governments create skilled cybercrime units and work with other countries. Stronger bank security and regular customer education would also leave criminals with far fewer victims.
+
+@@ CRI-16
+title: Should parents be punished for their children's crimes?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Youth Crime and Parents' Responsibility
+I: It is sometimes claimed that mothers and fathers should also be punished when their children commit crimes. I completely disagree with this view because many parents cannot fully control their teenagers and punishment would only harm struggling families further.
+B1: {P} The main reason why I disagree with this idea is that many parents cannot fully control their teenagers. {E} This is because [[many parents do their best but still cannot control a rebellious teenager]]. {E} [[Teenagers want to be accepted by their friends, and if their friends are involved in crime, they may join in to prove themselves]]; as a result, even caring parents may not know what their children are doing. {X} For example, a single parent who works two jobs may never know that a teenage son has joined a gang, and this family should not be blamed for a choice that the boy made alone. {L} Therefore, it would be unfair to punish people for actions that they could not prevent.
+B2: {P} Another important reason for my disagreement is that punishment would harm struggling families. {E} When parents are fined or sent to prison, the whole household suffers, as [[punishing them may cause further harm to struggling families]]. {X} For instance, a poor family that must pay a heavy fine may have less money for food and school fees, which could push the younger children towards the same problems. {R} Although some people argue that [[children who lack parental supervision, love and discipline are more likely to behave badly]], [[parenting classes and family support are often seen as fairer than fines or imprisonment]]. {L} Consequently, governments should help these families instead of making their lives harder.
+C: In conclusion, I firmly believe that parents should not be punished for the crimes of their children. Young people often act beyond the control of their families, and penalties would also make life worse for homes that are already in difficulty.
+
+@@ MED-02
+title: Does media violence promote violence in society?
+format: agree
+type: Agree / Disagree
+pos: I completely disagree.
+ideas: Media, Video Games and Violence · Causes of Crime
+I: It is often argued that violent films, games and online videos are making society more violent. I completely disagree with this view because watching violence rarely leads to real violence and other factors have a far stronger effect on behaviour.
+B1: {P} The main reason why I disagree with this idea is that watching violence rarely leads to real violence. {E} This is because most people can tell the difference between a story on a screen and real life, and [[even though violent films are popular, few viewers become violent]]. {E} Millions of people watch action films and play games every week; as a result, violence would be far more common if the media were the main cause. {X} For example, [[in some countries where violent video games are extremely popular, crime rates have fallen in recent decades]], and this suggests that there is no simple link between the two. {L} Therefore, the effect of violent media on society has been greatly exaggerated.
+B2: {P} Another important reason for my disagreement is that other factors have a far stronger effect on behaviour. {E} When young people become violent, the real causes are usually found in their lives, such as poverty, family breakdown, drug use and peer pressure. {X} For instance, a teenager who grows up in a violent home and joins a gang learns aggression from the people around them, which is far more powerful than any film. {R} Although some people argue that [[repeated exposure to violent images may make people less sensitive to the suffering of others]], this does not make ordinary viewers attack anyone. {L} Consequently, governments should focus on these social problems instead of blaming films and games.
+C: In conclusion, I firmly believe that violent media is not responsible for violence in society. Most viewers never copy what they see on a screen, and difficult family and social conditions also play a much greater part in aggressive behaviour.
