@@ -41,7 +41,7 @@ This workbook gives you a **rule, a word family or a memory trick** for each of 
 - **Words given in the question are spelt correctly for you.** If the answer word is printed in the question paper, copy it from there.
 - When you **transfer answers** (paper test: 10 minutes; computer test: 2 minutes to check), check every answer letter by letter, and check its ending: **-s, -es, -ed, -ing, -ly**.
 
-### Your 7-day plan (about 75 minutes a day)
+### Your 7-day plan (about 85 minutes a day)
 
 | Day | Topic | Words | Main skill |
 |---|---|---|---|
@@ -53,6 +53,7 @@ This workbook gives you a **rule, a word family or a memory trick** for each of 
 | 6 | IELTS Listening vocabulary bank | 120 | 10 topic areas from Sections 1–4 |
 | 7 | Singular and plural traps | 150+ forms | Hearing and choosing the right number |
 | + | Final Mastery Test | 60 marks | Everything |
+| + | Real Answer Words (Cambridge 10–19) | 623 | The 132 most frequent real answers in 7 daily blocks of about 19 words, plus an A–Z list |
 
 ### The daily routine
 
@@ -63,8 +64,9 @@ This workbook gives you a **rule, a word family or a memory trick** for each of 
 | 3. Exercises | 20 min | Do the written exercises **without looking back**. Mark them with the Answer Key. |
 | 4. Dictation | 10 min | Play the day's audio file. Write each word once. Mark it. |
 | 5. Assessment | 10 min | Do the daily assessment. Record your score in the tracker at the back. |
+| 6. Real answer words | 10 min | Learn today's block from the **Real Answer Words** chapter and play its dictation. |
 
-**Audio files** are in `Listening/Spelling Workbook/audio/` (Day1_Dictation.wav … Final_Test_Dictation.wav). Each word is read with a short sentence, and then there is a pause for you to write. Don't look at the word list while you listen. If you have no audio, ask a friend to read the dictation script from the Answer Key.
+**Audio files** are in `Listening/Spelling Workbook/audio/` (Day1_Dictation.wav … Final_Test_Dictation.wav, and AnswerWords_Block1–7.wav). Each lesson word is read with a short sentence, and then there is a pause for you to write. Don't look at the word list while you listen. If you have no audio, ask a friend to read the dictation script from the Answer Key.
 
 **Spaced review:** test every word you got wrong again **after 1 day, 3 days and 7 days**. A word is learnt when you spell it correctly in all three tests. Write your wrong words in the **Error Log** at the back of this workbook, and add any Listening mistakes to section 8 of your Spelling Fix List.
 
@@ -78,3 +80,4 @@ This workbook gives you a **rule, a word family or a memory trick** for each of 
 | ❌ → ✅ | Common wrong spelling → correct spelling |
 | 💡 | Memory trick |
 | ⚠️ | Exam warning |
+| ● | (Real Answer Words) also taught in Days 1–7 |

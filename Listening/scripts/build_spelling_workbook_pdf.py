@@ -11,7 +11,7 @@ Markdown conventions used in the parts:
   <div class="cols" markdown="1"> ... </div>   two-column exercise list
   > ⚠️ ...  /  > 💡 ...     warning / tip boxes
 """
-import json, re, subprocess, pathlib, html as h
+import json, re, subprocess, pathlib, runpy, html as h
 
 import markdown
 
@@ -21,6 +21,8 @@ HTML = ROOT / "scripts" / "_build_spelling_workbook.html"
 PDF = ROOT / "IELTS_Listening_Spelling_Mastery_7_Day.pdf"
 EDGE = r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
 
+# Regenerate the Real Answer Words chapter (09_answer_words.md) and its dictation sets first.
+runpy.run_path(str(ROOT / "scripts" / "build_answer_words_md.py"))
 DICT = json.loads((SRC / "dictation.json").read_text(encoding="utf-8"))
 BLANK = "<span class='blank'></span>"
 SHORT = "<span class='blank short'></span>"
@@ -38,6 +40,8 @@ def dictation_lines(key):
 
 def dictation_key(key):
     d = DICT[key]
+    if not any(item[1] for item in d["items"]):      # word-only sets: compact numbered list
+        return "\n<ol class='wkey'>" + "".join(f"<li>{h.escape(i[0])}</li>" for i in d["items"]) + "</ol>\n"
     rows = "".join(
         f"<tr><td>{i}</td><td><b>{h.escape(item[0])}</b></td><td>{h.escape(item[1])}</td></tr>"
         for i, item in enumerate(d["items"], 1))
@@ -75,6 +79,8 @@ body = body.replace("</section>", "", 1) + "</section>"
 body = re.sub(r"<h3>((?:Exercise|Dictation|Day \d Assessment|Test Section)[^<]*)</h3>", r"<h3 class='ex'>\1</h3>", body)
 body = body.replace("<h3>Error Log</h3>", "<h3 class='newpage'>Error Log</h3>")
 # Keep each dictation heading, its "Play ..." line and its answer lines on one page.
+body = re.sub(r"(<h4>Block \d</h4>\s*<ol class='dict'>.*?</ol>)", lambda m: "<div class='keep'>" + m.group(1) + "</div>",
+              body, flags=re.S)
 body = re.sub(r"(<h3 class='ex'>(?:Dictation|Test Section 1)[^<]*</h3>\s*<p>.*?</p>\s*<ol class='(?:dict|gapped)'>.*?</ol>)",
               lambda m: "<div class='keep'>" + m.group(1) + "</div>", body, flags=re.S)
 # Answer-key day headings start a new page.
@@ -90,6 +96,7 @@ blurbs = {
     "Day 6": "120 words in 10 IELTS Listening topics",
     "Day 7": "Sheep, species, information, a ten-minute walk: noun-number traps",
     "Test": "60 marks covering all seven days",
+    "Bank": "623 real gap-fill answer words from Cambridge 10–19, most frequent first, with 7 dictations",
     "Key": "Answers to every exercise, assessment and dictation",
     "Log": "Score tracker, error log, spaced review",
 }
@@ -173,6 +180,12 @@ ol.gapped li { padding: 5px 0; }
 ol.dict, ol.gapped { break-inside: avoid; }
 h3.newpage { break-before: page; }
 .keep { break-inside: avoid; }
+.az { columns: 5; column-gap: 6mm; font-size: 9.3pt; list-style: none; padding: 0; margin: 6px 0; }
+.az li { margin: 0; line-height: 1.38; break-inside: avoid; }
+.az li.azletter { font-weight: 700; color: #fff; background: var(--accent); display: table; padding: 0 7px;
+                  border-radius: 3px; margin: 6px 0 2px; break-after: avoid; }
+.az sup { color: var(--ex); font-weight: 700; font-size: 7pt; }
+ol.wkey { columns: 4; column-gap: 6mm; font-size: 9pt; }
 table.dkey td:first-child { width: 6%; } table.dkey td:nth-child(2) { width: 24%; }
 
 /* Cover */
