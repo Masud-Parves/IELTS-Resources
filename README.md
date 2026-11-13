@@ -42,6 +42,7 @@ Target: Writing 7, Listening 7+, Speaking 6.5. Exam planned for December 2026.
 
 - [3-Week Listening Plan](Listening/IELTS_Listening_3_Week_Plan.md) ([PDF](Listening/IELTS_Listening_3_Week_Plan.pdf))
 - [Listening Spelling Words (PDF)](Listening/IELTS_Listening_Spelling_Words.pdf)
+- [7-Day Listening Spelling Mastery workbook (PDF)](Listening/IELTS_Listening_Spelling_Mastery_7_Day.pdf) · [source](Listening/Spelling%20Workbook/) (dictation audio is built locally with `Listening/scripts/make_spelling_workbook_audio.ps1`)
 
 ## 🗣️ Speaking
 

@@ -28,6 +28,7 @@ __pycache__/
 *.pyc
 _build*.html
 _spelling_build.html
+/Listening/Spelling Workbook/audio/
 
 # --- System / editor files ---
 desktop.ini
