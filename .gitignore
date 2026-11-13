@@ -19,6 +19,13 @@
 /Reading/Example/
 /Reading/Output/*.pdf
 
+# --- Cambridge eBooks folder (moved to the top level on 2026-11-13) ---
+/Cambridge eBooks/*.pdf
+!/Cambridge eBooks/Cambridge_IELTS_4-21_216_Gross_Main_Categories.pdf
+/Cambridge eBooks/By Category/Output/
+/Cambridge eBooks/By Category/working/
+/Cambridge eBooks/Listening Answers/working/
+
 # --- Writing / Speaking: other people's eBooks ---
 /Writing/eBook/
 /Speaking/eBook/

@@ -147,3 +147,35 @@ Mark your work **letter by letter**. A word with one wrong letter is wrong, just
 **Final Test dictation script:**
 
 [[dictation-key:final]]
+
+### Answers: Real Answer Words dictations
+
+The words in each block, in the order the audio reads them.
+
+**Block 1:**
+
+[[dictation-key:aw1]]
+
+**Block 2:**
+
+[[dictation-key:aw2]]
+
+**Block 3:**
+
+[[dictation-key:aw3]]
+
+**Block 4:**
+
+[[dictation-key:aw4]]
+
+**Block 5:**
+
+[[dictation-key:aw5]]
+
+**Block 6:**
+
+[[dictation-key:aw6]]
+
+**Block 7:**
+
+[[dictation-key:aw7]]
