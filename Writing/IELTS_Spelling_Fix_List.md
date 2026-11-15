@@ -192,6 +192,31 @@ After every practice essay, add each new mistake here. If a word appears here tw
 | 12 Nov | valueable | **valuable** | value → valu**able**: the *e* goes before *-able* | ☐ | ☐ | ☐ |
 | 12 Nov | infront | **in front** | Always two words: *in front of* | ☐ | ☐ | ☐ |
 | 12 Nov | tourist sports | **tourist spots** | spot = place. *Sports* = football, cricket | ☐ | ☐ | ☐ |
+| 15 Nov | pragnent / pragenency | **pregnant / pregnancy** | **pre** + gnant: starts like *prepare* | ☐ | ☐ | ☐ |
+| 15 Nov | overwait / wait | **overweight / weight** | w + **eigh** + t, like *eight*. *Wait* = stay until something happens | ☐ | ☐ | ☐ |
+| 15 Nov | complecation / completation | **complication** | **compli**cation, from *complicated* | ☐ | ☐ | ☐ |
+| 15 Nov | consultate / consulatnet | **consult / consultant** | consult + **ant** (verb: *we consulted*) | ☐ | ☐ | ☐ |
+| 15 Nov | diatesian | **dietitian** | **diet** + i + **tian** | ☐ | ☐ | ☐ |
+| 15 Nov | fesible | **feasible** | f + **ea** + sible, like *eat* | ☐ | ☐ | ☐ |
+| 15 Nov | wheter | **whether** | **wh** + **ether** (≠ *weather* = rain and sun) | ☐ | ☐ | ☐ |
+| 15 Nov | evry | **every** | **ever** + y | ☐ | ☐ | ☐ |
+| 15 Nov | mothns | **months** | **month** + s: *n* before *th* | ☐ | ☐ | ☐ |
+| 15 Nov | rate ⚠️⚠️⚠️ **4th time** | **rare** | rar**e**. Your #1 repeat word: write *"quite rare nowadays"* 10 times | ☐ | ☐ | ☐ |
+| 15 Nov | deligent ⚠️⚠️ **3rd time** | **diligent** | **di**-li-gent, two *i*'s | ☐ | ☐ | ☐ |
+| 15 Nov | passonate / passobate ⚠️⚠️ **3rd time** | **passionate** | **passion** + ate | ☐ | ☐ | ☐ |
+| 15 Nov | caltural ⚠️⚠️ **3rd time** | **cultural** | **culture** → cult**ur**al | ☐ | ☐ | ☐ |
+| 15 Nov | truely ⚠️ **2nd time** | **truly** | true → tru**ly**: the *e* goes | ☐ | ☐ | ☐ |
+| 15 Nov | regulary ⚠️ **2nd time** | **regularly** | regul**ar** + **ly** | ☐ | ☐ | ☐ |
+| 15 Nov | quit *(for quite)* | **quite** | quit**e** = fairly; *quit* = stop doing something | ☐ | ☐ | ☐ |
+| 15 Nov | now day | **nowadays** | one word: now + a + days | ☐ | ☐ | ☐ |
+| 15 Nov | own *(for won)* | **won** | win → **won** (past). *Own* = have something | ☐ | ☐ | ☐ |
+| 15 Nov | protography / phorograher | **photography / photographer** | **ph**oto + **graph**: two *ph*'s, both sound like *f* | ☐ | ☐ | ☐ |
+| 15 Nov | aboyt | **about** | ab + **out** | ☐ | ☐ | ☐ |
+| 15 Nov | goup | **group** | g + **r** + oup | ☐ | ☐ | ☐ |
+| 15 Nov | natual | **natural** | **nature** → nat**ur**al | ☐ | ☐ | ☐ |
+| 15 Nov | protrait | **portrait** | **por** + trait (*por* first) | ☐ | ☐ | ☐ |
+| 15 Nov | plartform | **platform** | **plat** + form: there's no *r* in *plat* | ☐ | ☐ | ☐ |
+| 15 Nov | bulild | **build** | b + **ui** + ld | ☐ | ☐ | ☐ |
 | | | | | ☐ | ☐ | ☐ |
 | | | | | ☐ | ☐ | ☐ |
 

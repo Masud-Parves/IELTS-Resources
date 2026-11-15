@@ -48,7 +48,8 @@ Target: Writing 7, Listening 7+, Speaking 6.5. Exam planned for December 2026.
 ## 🗣️ Speaking
 
 - [Speaking Band 6.5 Guide](Speaking/IELTS_Speaking_Band6.5_Guide.md) ([PDF](Speaking/IELTS_Speaking_Band6.5_Guide.pdf))
-- [Person Topics book](Speaking/IELTS_Speaking_Person_Topics.md) ([PDF](Speaking/IELTS_Speaking_Person_Topics.pdf))
+- [Person Topics book](Speaking/IELTS_Speaking_Person_Topics.md) ([PDF](Speaking/IELTS_Speaking_Person_Topics.pdf)): 33 cue cards
+- [Place and Event Topics book](Speaking/IELTS_Speaking_Place_Event_Topics.md) ([PDF](Speaking/IELTS_Speaking_Place_Event_Topics.pdf)): 58 cue cards, vocabulary, easy idioms and reusable sentences
 
 ## 📱 Vocab App (project)
 
