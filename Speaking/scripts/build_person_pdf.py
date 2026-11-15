@@ -1,16 +1,21 @@
-"""Build Speaking/IELTS_Speaking_Person_Topics.pdf from the Markdown file (simple layout).
+"""Build a Speaking topic book PDF from its Markdown file (simple layout).
 
-Usage: python build_person_pdf.py
-Sections: 1 Vocabulary, 2 Reusable Sentences, 3 Cue Cards. No cover, no contents.
+Usage: python build_person_pdf.py          -> IELTS_Speaking_Person_Topics.pdf
+       python build_person_pdf.py place    -> IELTS_Speaking_Place_Event_Topics.pdf
+Sections: Vocabulary, (Idioms), Reusable Sentences, Cue Cards. No cover, no contents.
 """
-import re, subprocess, pathlib, time
+import re, subprocess, pathlib, time, sys
 
 import markdown
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-MD = ROOT / "IELTS_Speaking_Person_Topics.md"
-HTML = ROOT / "scripts" / "_build_person.html"
-PDF = ROOT / "IELTS_Speaking_Person_Topics.pdf"
+BOOKS = {"person": ("IELTS_Speaking_Person_Topics", "IELTS Speaking Person Topics"),
+         "place": ("IELTS_Speaking_Place_Event_Topics", "IELTS Speaking Place and Event Topics")}
+KEY = sys.argv[1] if len(sys.argv) > 1 else "person"
+NAME, TITLE = BOOKS[KEY]
+MD = ROOT / f"{NAME}.md"
+HTML = ROOT / "scripts" / f"_build_{KEY}.html"
+PDF = ROOT / f"{NAME}.pdf"
 EDGE = r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
 
 text = MD.read_text(encoding="utf-8")
@@ -72,7 +77,7 @@ blockquote p { margin: 0; }
 """
 
 page = f"""<!doctype html><html lang='en'><head><meta charset='utf-8'>
-<title>IELTS Speaking Person Topics</title><style>{css}</style></head><body>{body}</body></html>"""
+<title>{TITLE}</title><style>{css}</style></head><body>{body}</body></html>"""
 HTML.write_text(page, encoding="utf-8")
 
 before = PDF.stat().st_mtime if PDF.exists() else 0

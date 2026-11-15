@@ -126,6 +126,15 @@ Train accuracy in **drills** (Sections 4–6). In the exam, **keep talking**.
 
 **Avoid in Speaking:** *Moreover, Furthermore, In addition, More importantly, Overall*. These are essay words, and too many of them sound memorised.
 
+**Even though / Although: never add *but* (asked 16 Nov).** In Bangla we say *যদিও… কিন্তু…*, but in English one contrast word is enough.
+
+| ❌ Wrong | ✅ Right |
+|---|---|
+| *Even though Rishad is famous at our university, **but** he is down-to-earth.* | *Even though Rishad is famous at our university, he is very down-to-earth.* |
+| ***Even** he is famous in the whole world, he is down-to-earth.* | ***Even though** he is famous all over the world, he is very down-to-earth.* |
+
+> Use *Even though* (or *Although*) at the start **or** *but* in the middle (*He is famous, **but** he is down-to-earth.*), never both. *Even* alone isn't a linker here.
+
 **About 6–8 linkers in a 2-minute answer is enough,** plus your normal *and / but / so / also*.
 
 > Model answers: cards 105 and 117 in the Person Topics book, with the linkers in **bold**.
@@ -205,6 +214,7 @@ This is the most useful trick: **listen to the verb in the question and answer i
 | *I **am going** there every day.* | *I **go** there every day.* | Habits use present simple, not -ing |
 | *I **have gone** there last year.* | *I **went** there last year.* | A finished time (last year, in 2020) → past simple |
 | *I **am living** here **since** 5 years.* | *I**'ve lived** here **for** 5 years.* | Duration up to now → present perfect + *for* |
+| ⚠️ *We **know** each other **from** university days.* (3 times: cards 123, 3, 19) | *We **have known** each other **since** our university days.* / *We **got to know** each other **at** university.* | Started in the past and still true → present perfect + *since*. Or tell the start as a past event → past simple |
 | *I **am knowing** him.* | *I **know** him.* | *know, like, want, need, have (own)* don't take -ing |
 | *When I was child, I **like** mangoes.* | *When I was **a** child, I **liked** mangoes.* | The whole sentence stays in the past |
 
@@ -723,6 +733,7 @@ Every doubt I ask gets answered **inside this guide**. This table shows where to
 | 7 Nov | My cue card sounds robotic without linkers. Where do I put them? | **3.4**: Linkers in a Part 2 answer (only when they do a job, about 6–8 per answer) |
 | 7 Nov | Too many linkers sound memorised. How many should I use? | **3.4**: same section (the remove test; avoid essay linkers) |
 | 8 Nov | *"he is / he was like a breath of fresh air"*: I met him once in the past, so which one? | **4.3**: Mixed cards (past for the event, present for the person and your feeling now) |
+| 16 Nov | *"Even though he is famous, but he is down-to-earth"*: can I use this structure? | **3.4**: Even though / Although: never add *but* |
 
 ---
 

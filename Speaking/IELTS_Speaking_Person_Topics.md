@@ -8,6 +8,8 @@
 |---|---|---|
 | reliable | নির্ভরযোগ্য | *If he says he'll do something, he always does it.* |
 | diligent / hard-working | পরিশ্রমী | *She never misses a day of work.* |
+| goal-driven / career-oriented | লক্ষ্যে অটল / ক্যারিয়ার-মনস্ক | *She never gives up until she reaches her goal.* |
+| health-conscious | স্বাস্থ্য-সচেতন | *He walks 8,000 steps every morning.* |
 | considerate | অন্যের কথা ভাবে | *He always thinks about how others feel.* |
 | sociable / outgoing | মিশুক | *She makes friends wherever she goes.* |
 | frank / honest | স্পষ্টভাষী / সৎ | *He tells me the truth even when it hurts.* |
@@ -161,6 +163,11 @@
 - *During difficult times in his business, he stood beside his company like a deep-rooted tree.*
 - *When I see him, I feel like I'm over the moon; he is like a breath of fresh air in my hectic lifestyle.*
 - *He inspires me in every aspect of my life.*
+- *Even though he is famous [all over the world / all over the country / at our university], he is very down-to-earth.* (no *but*!)
+- *He is extremely diligent and passionate about [music / football / health].*
+- *He is a career-oriented person who always keeps improving himself.*
+- *He is also very punctual and conscious of his physical health.*
+- *Since she is diligent and goal-driven, she never gave up.* (past) / *she never gives up.* (present)
 
 ---
 
@@ -198,7 +205,7 @@
 >
 > **Well,** I would like to talk about Sahin Khan, a friend of one of my friends, whom I met only once, last month. He is currently studying music at Dhaka University, and he is very good at singing and playing the guitar. Truly dedicated music lovers like him are quite rare nowadays.
 >
-> I met him at a small get-together at my friend's house. He is a very sociable person, so when we met, I did not feel that it was our first meeting. My friend told me that he is also funny and reliable, and for this reason, everyone in his friend circle loves him a lot. During our first meeting, I found that the way he understands the beat, melody and rhythm of music, no one else in our group does.
+> I met him at a small get-together at my friend's house. Even though he is very talented, he is down-to-earth and sociable, so when we met, I did not feel that it was our first meeting. My friend told me that he is also funny and reliable, and for this reason, everyone in his friend circle loves him a lot. During our first meeting, I found that the way he understands the beat, melody and rhythm of music, no one else in our group does.
 >
 > He is extremely diligent and passionate about music. **In fact,** he even left his MBBS course to study music. **Besides,** he is a career-oriented person who keeps improving himself. He shared that he won several music competitions at his university's cultural programmes. He is very dedicated to his music, and he even writes his own songs. **For example,** he told us that he once took almost two years to complete a single song.
 >
@@ -215,7 +222,17 @@
 - How you helped him/her
 - And explain whether it was easy or difficult
 
-> **My answer:** ⏳ *waiting for my ideas*
+> **My answer:**
+>
+> **Well,** I would like to talk about my wife, whose health and fitness I helped to improve about four years ago. At that time, she had just given birth to our first child.
+>
+> During her pregnancy, she had some complications, and after the birth of our child, she gained a lot of weight because of her medicine and other health problems. She also felt tired most of the time and could not move easily. **So,** we consulted our family doctor, and he suggested that she should work on her health and fitness. Otherwise, it could cause more serious problems for her.
+>
+> **That is why** I decided to help her. First, I did some research on the internet and talked to a dietitian. Then, with the dietitian's advice, I made a simple and practical workout plan and a healthy diet for her. **Besides,** I always kept an eye on her daily routine. When I was at the office, I used to call her to check whether she had taken her medicine. I also encouraged her to meditate every day, and every morning, we would walk together for about 8,000 to 10,000 steps.
+>
+> **Honestly,** it was not easy at all, especially at the beginning. We had a newborn baby, so we were always tired and did not get enough sleep. I also had a busy office schedule. **But** since she is diligent and goal-driven, she never gave up, and step by step, things became easier. Within three months, we saw a clear improvement in her health. Now she can move much more easily than before, and she is much more conscious of her physical and mental health.
+>
+> In every bad period of my life, she stood beside me like a deep-rooted tree, so this time, it was my turn to stand beside her. That experience taught me that small but regular efforts can make a big difference, and now she inspires me in every aspect of my life.
 
 #### Card 15 · Describe a person who learns history and loves history
 
@@ -248,7 +265,17 @@
 - Where he/she takes photos
 - And explain how you feel about him/her
 
-> **My answer:** ⏳ *waiting for my ideas*
+> **My answer:**
+>
+> **Well,** I would like to talk about my best friend, Rishad, who really loves taking photos. He is extremely diligent and passionate about photography. Truly dedicated and promising photographers like him are quite rare nowadays.
+>
+> We got to know each other at university, as we were in the same class, and since then, he has been my best friend. **Back then,** he used to take photos almost every day. I still remember that in every cultural programme, Rishad would be in charge of the photography. He also won several photography awards at our university. Even though he became famous at our university for his photos, he is still very down-to-earth.
+>
+> **As for where he takes photos,** he mostly takes them during our tours and at different events. On every trip, he is our main photographer. He loves taking nature photos and portraits. **Actually,** I have found that the way he understands framing, composition and the rules of photography, no one else in our group does.
+>
+> **Besides,** he is a goal-driven person who wants to build a career in photography. He has even completed some photography courses on Udemy, an online learning platform, to keep improving himself.
+>
+> **Honestly,** I really admire him because he follows his passion. Whenever I see his photos, I feel over the moon; they are like a breath of fresh air in my hectic lifestyle. **That is why** I feel lucky to have a friend like him, and I hope he becomes a successful photographer one day.
 
 #### Card 23 · Describe a person you know who is very organized
 
@@ -307,7 +334,7 @@
 >
 > **Well,** I would like to talk about Hridoy Khan, who is one of the most popular singers in Bangladesh. He is around 35 years old, and his music is mainly pop and techno fusion. Almost everyone in our country knows his name, especially young people.
 >
-> From his interviews, he seems to be a sociable and humble person. He is extremely diligent and passionate about music. **Besides,** he is a career-oriented person who always keeps improving himself. He is also very punctual and conscious of his physical health, so he exercises and practises regularly to prepare himself for his next concerts.
+> From his interviews, he seems to be a sociable person. Even though he is famous all over the country, he is very down-to-earth. He is extremely diligent and passionate about music. **Besides,** he is a career-oriented person who always keeps improving himself. He is also very punctual and conscious of his physical health, so he exercises and practises regularly to prepare himself for his next concerts.
 >
 > I have never met him in person, but I normally see him on TV and on YouTube, especially when he releases a new song. **Actually,** I also listen to his music almost every day, on the metro when I go to the office, or when I am at the gym.
 >
@@ -359,7 +386,17 @@
 - How often he or she does it
 - And explain how you feel about this person
 
-> **My answer:** ⏳ *waiting for my ideas*
+> **My answer:**
+>
+> **Well,** I would like to talk about my mother, who really loves nature and always tries to look after it. She is diligent and passionate about gardening, and everyone in our family says that she has green fingers. Truly dedicated nature lovers like her are quite rare nowadays.
+>
+> **As for what she does,** she has made a beautiful garden on the roof of our house, where she grows flowers and vegetables. She also tries to protect the environment in small ways. **For example,** she never throws away kitchen waste; instead, she turns it into organic fertiliser for her plants. She also avoids plastic bags and always carries a cloth bag when she goes shopping.
+>
+> She waters the plants regularly, removes the dead leaves and keeps the garden clean. Whenever she wants to grow a new plant, she watches YouTube videos to learn how to take care of it. **Actually,** I have found that the way she understands nature, no one else in our family does.
+>
+> She spends time in her garden every morning and afternoon, and she never misses a day, even when she is busy. **Besides,** every year during the rainy season, she plants a few new trees at our village home.
+>
+> **Honestly,** I really admire her, and I feel lucky to have a mother like her. In every bad period of my life, she stood beside me like a deep-rooted tree. **That is why** she inspires me in every aspect of my life, and because of her, I have also started to care more about nature.
 
 #### Card 60 · Describe a short-term job you want to have in a foreign country
 
@@ -381,7 +418,17 @@
 - How he/she grows the plants
 - And explain why he/she loves growing plants
 
-> **My answer:** ⏳ *waiting for my ideas*
+> **My answer:**
+>
+> **Well,** I would like to talk about my mother, who really loves growing plants. She has made a beautiful garden on the roof of our house, and it has become her favourite place. She is diligent and passionate about gardening, and everyone in our family says that she has green fingers. Truly dedicated gardeners like her are quite rare nowadays.
+>
+> **As for the plants,** she grows both flowers and vegetables. She has roses, marigolds and jasmine, and she also grows tomatoes, green chillies and lemons. Whenever the flowers bloom, our whole roof looks colourful.
+>
+> She spends time in her garden every morning and afternoon, and she never misses a day. She waters the plants regularly, removes the dead leaves and uses organic fertiliser. **Besides,** whenever she wants to grow a new plant, she watches YouTube videos to learn how to take care of it. **Actually,** I have found that the way she understands nature, no one else in our family does.
+>
+> **There are a few reasons why she loves growing plants.** Gardening helps her relax, so for her, the garden is like a breath of fresh air in her busy daily life. Since she is very conscious of our family's health, she prefers growing her own vegetables without any chemicals. She also feels proud when we eat fresh tomatoes and chillies from her own garden.
+>
+> **Honestly,** I really admire her patience. In every bad period of my life, she stood beside me like a deep-rooted tree, and she inspires me in every aspect of my life.
 
 #### Card 70 · Describe a person you know who has a successful business
 
@@ -466,7 +513,7 @@
 >
 > I have never met him in person, but I have followed his career for the last 20 years. **Although** he suffered from a growth hormone deficiency in his early life, he overcame it with dedication and hard work. He is extremely diligent and passionate about football. **Besides,** he is a career-oriented person who keeps improving himself. He is also very punctual and conscious of his physical health, so he exercises and practises regularly to prepare himself for his next matches.
 >
-> In real life, he is a sociable and reliable person, and for this reason, everyone in his team supports him a lot. He is also a sensible person who makes practical decisions even under pressure. **Actually,** I have found that the way he understands match situations, no one else does.
+> In real life, he is a sociable and reliable person, and for this reason, everyone in his team supports him a lot. Even though he is famous all over the world, he is very down-to-earth. He is also a sensible person who makes practical decisions even under pressure. **Actually,** I have found that the way he understands match situations, no one else does.
 >
 > **As for his achievements,** he has won eight Ballon d'Or awards, four of them in a row, which is a world record so far. He also won the World Cup in 2022, and at the last World Cup, he carried his team to the final again. I still remember watching the 2022 World Cup final with my friends at midnight. When he lifted the trophy, we all jumped and shouted with joy. It was one of the happiest moments of my life. **Apart from his trophies,** he is very dedicated to his team. In every bad period of the Argentina national team, he stood beside them like a deep-rooted tree.
 >
@@ -487,7 +534,7 @@
 >
 > I have never met him in person, but I have followed his career since my childhood. He is extremely diligent and passionate about music. **Besides,** he is a career-oriented person who always keeps improving himself. He is also very punctual and conscious of his physical health, so he exercises and practises regularly to prepare himself for his next concerts.
 >
-> From his interviews, he seems to be a sociable and reliable person, and for this reason, all his band members support him a lot. He is also a sensible person who makes practical decisions even under pressure. **Actually,** I have found that the way he understands the beat, melody and rhythm of music, no one else does.
+> From his interviews, he seems to be a sociable and reliable person, and for this reason, all his band members support him a lot. Even though he is famous all over Bangladesh, he is very down-to-earth. He is also a sensible person who makes practical decisions even under pressure. **Actually,** I have found that the way he understands the beat, melody and rhythm of music, no one else does.
 >
 > **As for his achievements,** he has been singing for many years, and he has given us lots of hit songs. He has also won several best singer awards. He is very dedicated to creating songs. **For example,** in one interview, he explained why he took almost two years to complete a single song. In every bad period of the music industry in Bangladesh, he stood beside his team like a deep-rooted tree.
 >
@@ -510,7 +557,7 @@
 >
 > We have known each other since our university days. He is extremely diligent and passionate about music. **Back then,** whenever we got free time or gossiped together on campus, Sahin used to sing songs for us. He was always the heart of our hangouts. I remember we spent lots of time on the roof of our university hostel, listening to his songs. **Even now,** when we meet at the weekend, I ask him to sing for us.
 >
-> **Apart from music,** he is a sociable and reliable person, and for this reason, all of our friends support him a lot. He is also a sensible person who makes practical decisions even under pressure. In every bad period of my life, he stood beside me like a deep-rooted tree.
+> **Apart from music,** he is a sociable and reliable person, and for this reason, all of our friends support him a lot. Even though he is so talented, he is very down-to-earth. He is also a sensible person who makes practical decisions even under pressure. In every bad period of my life, he stood beside me like a deep-rooted tree.
 >
 > **As for his achievements,** he has won several music competitions at our university's cultural programmes. **Actually,** I have found that the way he understands the beat, melody and rhythm of music, no one else does.
 >
@@ -574,7 +621,7 @@
 >
 > **As for what he has done,** he has been singing for many years, and he has given us lots of hit songs. He has also won several best singer awards. He is extremely diligent and passionate about music, and he is very dedicated to creating songs. **For example,** in one interview, he explained why he took almost two years to complete a single song. In every bad period of the music industry in Bangladesh, he stood beside his team like a deep-rooted tree.
 >
-> **There are a few reasons why he is so popular.** His style is fresh and modern, and I have found that the way he understands the beat, melody and rhythm of music, no one else does. **Besides,** his songs are easy to connect with, so people of all ages enjoy them. He is also a sociable and humble person, and for this reason, his fans and his band members respect him a lot.
+> **There are a few reasons why he is so popular.** His style is fresh and modern, and I have found that the way he understands the beat, melody and rhythm of music, no one else does. **Besides,** his songs are easy to connect with, so people of all ages enjoy them. Even though he is famous all over the country, he is very down-to-earth, and for this reason, his fans and his band members respect him a lot.
 >
 > **Personally,** I feel proud that he is from our country. Truly dedicated and promising singers like him are quite rare nowadays. Whenever I see him on screen, I feel over the moon; he is like a breath of fresh air in my hectic lifestyle. **That is why** he inspires me in every aspect of my life.
 
@@ -587,7 +634,17 @@
 - How/where you would like to meet him/her
 - And explain why you would like to meet him/her
 
-> **My answer:** ⏳ *waiting for my ideas*
+> **My answer:**
+>
+> **Well,** I would like to talk about Lionel Andrés Messi, who is the captain of the Argentina national football team. He is one of the most famous footballers in the world, and truly dedicated sportspeople like him are quite rare nowadays.
+>
+> I have never met him in person, but I first watched him play on TV almost 20 years ago, and since then, I have followed his career. **Although** he suffered from a growth hormone deficiency in his early life, he overcame it with dedication and hard work. He is extremely diligent and passionate about football, and he has won eight Ballon d'Or awards. He also won the World Cup in 2022. I still remember watching that final with my friends at midnight, and it was one of the happiest moments of my life.
+>
+> **If I ever got the chance,** I would like to meet him at a stadium after one of his matches. My dream is to watch him play live first and then shake hands with him. It would also be amazing if he visited Bangladesh one day, because millions of people here support Argentina.
+>
+> **There are a few reasons why I would like to meet him.** He has a rare combination of confidence and humility, which makes people respect him even more. **Besides,** in every bad period of the Argentina national team, he stood beside them like a deep-rooted tree. If I met him, I would ask him how he stays so focused and humble after so much success.
+>
+> **That is why** meeting him would be a dream come true for me. Whenever I see him on screen, I feel over the moon; he is like a breath of fresh air in my hectic lifestyle. He inspires me in every aspect of my life.
 
 #### Card 141 · Describe a friend from your childhood
 
@@ -609,4 +666,14 @@
 - Where he/she grows them
 - Why does he/she enjoy growing plants
 
-> **My answer:** ⏳ *waiting for my ideas*
+> **My answer:**
+>
+> **Well,** I would like to talk about my mother, who really likes growing plants. She is diligent and passionate about gardening, and everyone in our family says that she has green fingers. Truly dedicated gardeners like her are quite rare nowadays.
+>
+> **As for what she grows,** she grows both flowers and vegetables. She has roses, marigolds and jasmine, and she also grows tomatoes, green chillies and lemons. Whenever the flowers bloom, our whole roof looks colourful.
+>
+> She grows most of her plants on the roof of our house, where they get plenty of sunlight. Because we do not have much open space around our house, she grows them in pots and tubs. **Actually,** the roof garden has become her favourite place, and she spends time there every morning and afternoon.
+>
+> **There are a few reasons why she enjoys growing plants.** Gardening helps her relax, so for her, the garden is like a breath of fresh air in her busy daily life. Since she is very conscious of our family's health, she prefers growing her own vegetables without any chemicals. **Besides,** I have found that the way she understands nature, no one else in our family does.
+>
+> **Honestly,** I really admire her patience. In every bad period of my life, she stood beside me like a deep-rooted tree, and she inspires me in every aspect of my life.
