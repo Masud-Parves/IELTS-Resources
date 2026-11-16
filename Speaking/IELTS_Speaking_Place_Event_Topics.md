@@ -114,6 +114,8 @@ Use **one or two** in an answer, not more.
 ## 3. Reusable Sentences
 
 ### Opening
+- *Bangladesh is blessed with many [beautiful natural places / historic places], but the one that has always stolen my heart is [Cox's Bazar].*
+- *If someone asked me about the most beautiful place I have ever been to, the first name that would come to my mind is [Sajek Valley].*
 - *I would like to talk about [Cox's Bazar], which is [the longest sea beach in the world].*
 - *There are many places I could talk about, but the one I like most is [Sajek Valley].*
 - *There are plenty of [restaurants] in our city, such as [...]. Among them, my favourite is [...].*
@@ -127,7 +129,9 @@ Use **one or two** in an answer, not more.
 - *During [last winter / the Eid holidays], I went to [...] with [my friends].*
 - *It was a [three-day] trip. We started on [Thursday night] and came back on [Sunday].*
 - *It was my first time there. / I went there after almost [three] years.*
-- *We checked in to a simple yet well-decorated hotel.*
+- *There were numerous expensive and luxurious hotels there, but we checked in to a simple yet well-decorated and classy hotel.*
+- *There were several photographers who kept offering to take our pictures.*
+- *There was a renowned restaurant named [...]. Their food looked so tempting.*
 - *After that, we went back to the hotel and freshened up.*
 - *Afterwards, we went back to the beach and watched the spectacular sunset.*
 - *The very next day, we decided to roam around [the local market].*
@@ -142,9 +146,22 @@ Use **one or two** in an answer, not more.
 - *It gives me mental peace.*
 - *It reduces my tiredness.*
 
-### Closing
-- *That is why it is one of my favourite places.*
-- *I would highly recommend it to anyone who wants to relax.*
+### Natural endings (feelings)
+
+**Place / trip**
+- *Honestly, we had a whale of a time there.*
+- *Places like this are quite rare nowadays, and [the sound of the waves / the fresh air] gives me mental peace.*
+- *Whenever I think about that trip, I feel over the moon.*
+- *That is why it is like a breath of fresh air in my hectic lifestyle, and I would highly recommend it to anyone who wants to relax.*
+
+**Event / celebration**
+- *Honestly, we had a whale of a time, and it was one of the most memorable days of my life.*
+- *Even now, whenever I look at the photos from that day, I feel over the moon.*
+- *Events like this bring the whole family together, so I hope we can arrange something like this again soon.*
+
+**Bad experience** (traffic jam, noisy or boring place)
+- *Honestly, it was not my cup of tea, but it taught me to be more patient.*
+- *Looking back, I can laugh about it now.*
 
 ### My sentences
 - *Places like this are quite rare nowadays.*
@@ -165,7 +182,17 @@ Use **one or two** in an answer, not more.
 - Why you went there
 - And explain how you feel about the place
 
-> **My answer:** ⏳ *waiting for my ideas*
+> **My answer:**
+>
+> **Well,** Bangladesh is blessed with many beautiful natural places, but the one that has always stolen my heart is Cox's Bazar, the longest natural sea beach in the world. It is located in the south-east of Bangladesh, beside the Bay of Bengal. I went there last year, and it was one of the best trips of my life.
+>
+> I went there with my family. **Actually,** I have a hectic work schedule, so I try to go on a trip almost every year. A trip like this refreshes my mind, and after I come back, I can focus on my work much better.
+>
+> There were numerous expensive and luxurious hotels there, but we checked in to a simple yet well-decorated and classy hotel near the beach. The hotel manager was very polite, and he greeted us with a welcome drink. **After that,** we freshened up and went to a famous beach called Sugandha Beach, where we swam in the sea. There were several photographers on the beach who kept offering to take our pictures, so we hired one of them. We took a lot of photos, such as group photos, solo pictures and natural views.
+>
+> In the evening, we went to a renowned restaurant named Jhaubon. Their food looked so tempting, and we tried their special seafood, which was mouth-watering. **Afterwards,** we went back to the beach and witnessed the spectacular sunset. **The very next day,** we watched the sunrise from our hotel, and the view was out of this world. Then we decided to roam around the Burmese market. It was a large marketplace full of local products, and we bought pickles, dried fish and so on. At night, we played indoor games together at the hotel.
+>
+> **Honestly,** we had a whale of a time there. Places like this are quite rare nowadays, and the sound of the waves gives me mental peace. Whenever I think about that trip, I feel over the moon. **That is why** it is like a breath of fresh air in my hectic lifestyle, and I would highly recommend it to anyone who wants to relax.
 
 #### Card 11 · Describe a party for a special event that impressed you a lot
 
